@@ -44,9 +44,11 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: '入门', link: '/Introduction.md' },
-          { text: '教程', link: '/tutorial' },
-          { text: '字根练习', link: '/gen'},
+          { text: '好码入门', link: '/Introduction.md' },
+          { text: '好码教程', link: '/tutorial' },
+          { text: '好码字根练习', link: '/gen'},
+          { text: '松烟教程', link: '/tutorial-sy'},
+          { text: '松烟字根练习', link: '/gen-sy'},
          // { text: '露台', link: '/lutai'}
         ]
       }

@@ -1,0 +1,1682 @@
+[
+    {
+        "name": "人",
+        "rel": "人个以会从从全认队界",
+        "key": "a",
+        "secondary": "u"
+    },
+    {
+        "name": "土",
+        "rel": "在地去法等却特场社基",
+        "key": "p",
+        "secondary": "su"
+    },
+    {
+        "name": "丿",
+        "rel": "我么向才任笑系失团㑻",
+        "key": "s",
+        "secondary": "i"
+    },
+    {
+        "name": "大",
+        "rel": "大天因关头美太笑嗯达",
+        "key": "y",
+        "secondary": "di"
+    },
+    {
+        "name": "田",
+        "rel": "果思界单备留㒦㒦㒦男",
+        "key": "z",
+        "secondary": "he"
+    },
+    {
+        "name": "亻",
+        "rel": "他们你作但什使体位信",
+        "key": "j",
+        "secondary": "o"
+    },
+    {
+        "name": "女",
+        "rel": "要如好她女接安数始委",
+        "key": "g",
+        "secondary": "le"
+    },
+    {
+        "name": "山",
+        "rel": "㑻端仙㛧㟔㟗㠇㠋㠠瑞",
+        "key": "m",
+        "secondary": "gi"
+    },
+    {
+        "name": "虫",
+        "rel": "虽独贵遗触融虫蛋蛇遣",
+        "key": "g",
+        "secondary": "je"
+    },
+    {
+        "name": "目",
+        "rel": "着看想相真眼目直算具",
+        "key": "d",
+        "secondary": "kw"
+    },
+    {
+        "name": "王",
+        "rel": "国现主理全王住望程注",
+        "key": "g",
+        "secondary": "u"
+    },
+    {
+        "name": "禾",
+        "rel": "和种利科程除称委香余",
+        "key": "m",
+        "secondary": "su"
+    },
+    {
+        "name": "儿",
+        "rel": "说先儿完统克远元院党",
+        "key": "l",
+        "secondary": "r"
+    },
+    {
+        "name": "阝",
+        "rel": "那都部队院随啊阿除陈",
+        "key": "l",
+        "secondary": "w"
+    },
+    {
+        "name": "貝",
+        "rel": "㘔䁚側債價則員唄噴圓",
+        "key": "z",
+        "secondary": "ye"
+    },
+    {
+        "name": "勹",
+        "rel": "的⼓物㑥约包易构药跑",
+        "key": "s",
+        "secondary": "li"
+    },
+    {
+        "name": "言",
+        "rel": "信言警㝘㢇誉誓譬詹瞻",
+        "key": "d",
+        "secondary": "u"
+    },
+    {
+        "name": "隹",
+        "rel": "难集谁㒛推维唯雄雅售",
+        "key": "h",
+        "secondary": "qo"
+    },
+    {
+        "name": "巾",
+        "rel": "制闹㠴㠼㡧㡪佩㣈㣈蒂",
+        "key": "j",
+        "secondary": "fi"
+    },
+    {
+        "name": "夂",
+        "rel": "处条务备复图终修降夏",
+        "key": "m",
+        "secondary": "w"
+    },
+    {
+        "name": "石",
+        "rel": "确石研破㛧硬础碰碎码",
+        "key": "f",
+        "secondary": "je"
+    },
+    {
+        "name": "白",
+        "rel": "的原白百㒶皇愿怕激源",
+        "key": "d",
+        "secondary": "le"
+    },
+    {
+        "name": "工",
+        "rel": "经空轻功红江攻项试恐",
+        "key": "j",
+        "secondary": "ti"
+    },
+    {
+        "name": "亠",
+        "rel": "⼇变离㐭脑夜率㖡抗亦",
+        "key": "j",
+        "secondary": "vu"
+    },
+    {
+        "name": "夕",
+        "rel": "多多外名⾇罗够够梦移",
+        "key": "x",
+        "secondary": "ke"
+    },
+    {
+        "name": "寸",
+        "rel": "时过等特持树村守谢讨",
+        "key": "j",
+        "secondary": "fo"
+    },
+    {
+        "name": "力",
+        "rel": "为动力加别务边办功另",
+        "key": "s",
+        "secondary": "le"
+    },
+    {
+        "name": "皿",
+        "rel": "血益温监猛盘蓝盖盛盟",
+        "key": "p",
+        "secondary": "di"
+    },
+    {
+        "name": "广",
+        "rel": "唐扩渡㢇矿腐鹰脏糖缠",
+        "key": "f",
+        "secondary": "kr"
+    },
+    {
+        "name": "囗",
+        "rel": "国因回嗯㐭团曾增图围",
+        "key": "z",
+        "secondary": "e"
+    },
+    {
+        "name": "幺",
+        "rel": "率玄慈慈滋滋磁磁兹兹",
+        "key": "l",
+        "secondary": "i"
+    },
+    {
+        "name": "二",
+        "rel": "些二完传转远元院专假",
+        "key": "z",
+        "secondary": "o"
+    },
+    {
+        "name": "耳",
+        "rel": "最取联职敢闻耳趣耶聚",
+        "key": "h",
+        "secondary": "e"
+    },
+    {
+        "name": "子",
+        "rel": "子好学教李字存孩游孙",
+        "key": "q",
+        "secondary": "i"
+    },
+    {
+        "name": "魚",
+        "rel": "䲘漁蘇魚魯鮑鮮鮳囌廯",
+        "key": "n",
+        "secondary": "w"
+    },
+    {
+        "name": "𠂉",
+        "rel": "海许每吃复施伤族游旅",
+        "key": "k",
+        "secondary": "fe"
+    },
+    {
+        "name": "士",
+        "rel": "声任结士装㔛睡吉款凭",
+        "key": "l",
+        "secondary": "do"
+    },
+    {
+        "name": "車",
+        "rel": "繫墼揮擊斬暈暉暫漸範",
+        "key": "q",
+        "secondary": "ne"
+    },
+    {
+        "name": "弓",
+        "rel": "湾㢻涨疆夷姨躬咦粥粥",
+        "key": "n",
+        "secondary": "si"
+    },
+    {
+        "name": "吅",
+        "rel": "品器器哭操骂㠋癌灌囊",
+        "key": "l",
+        "secondary": "fu"
+    },
+    {
+        "name": "穴",
+        "rel": "空突究穿控窗穷㡧挖穴",
+        "key": "v",
+        "secondary": "kw"
+    },
+    {
+        "name": "疒",
+        "rel": "病痛疗疾症疯疼瘦疲痕",
+        "key": "q",
+        "secondary": "kr"
+    },
+    {
+        "name": "欠",
+        "rel": "次资欢欧款欲软歌吹欣",
+        "key": "d",
+        "secondary": "lw"
+    },
+    {
+        "name": "門",
+        "rel": "們問悶擱攔欄潤瀾爛簡",
+        "key": "y",
+        "secondary": "xi"
+    },
+    {
+        "name": "方",
+        "rel": "方放房防施族激游旁旅",
+        "key": "h",
+        "secondary": "fo"
+    },
+    {
+        "name": "夫",
+        "rel": "规失夫铁卷替替潜潜侠",
+        "key": "j",
+        "secondary": "gi"
+    },
+    {
+        "name": "羽",
+        "rel": "㒛翻翼羽耀扇翠翰翁翅",
+        "key": "z",
+        "secondary": "u"
+    },
+    {
+        "name": "酉",
+        "rel": "酒配醒酸遵醉酷酬蹲醇",
+        "key": "s",
+        "secondary": "e"
+    },
+    {
+        "name": "殳",
+        "rel": "没设投段般股毁殿搬疫",
+        "key": "l",
+        "secondary": "du"
+    },
+    {
+        "name": "用",
+        "rel": "用通解确痛角嘴拥勇触",
+        "key": "a",
+        "secondary": "i"
+    },
+    {
+        "name": "自",
+        "rel": "道自首息㙞咱夏鼻臭媳",
+        "key": "f",
+        "secondary": "o"
+    },
+    {
+        "name": "矢",
+        "rel": "知候医族疑短智疾埃凝",
+        "key": "h",
+        "secondary": "fu"
+    },
+    {
+        "name": "钅",
+        "rel": "钱错铁银钟镇销针镜钢",
+        "key": "q",
+        "secondary": "jr"
+    },
+    {
+        "name": "革",
+        "rel": "革勒霸鞋鞭鞘鞠靴鞑鞍",
+        "key": "n",
+        "secondary": "fi"
+    },
+    {
+        "name": "豆",
+        "rel": "登短㡧㦉瞪豆厨逗凳澄",
+        "key": "k",
+        "secondary": "qo"
+    },
+    {
+        "name": "古",
+        "rel": "做克据古故苦㕆胡姑湖",
+        "key": "s",
+        "secondary": "kr"
+    },
+    {
+        "name": "巳",
+        "rel": "包㒨跑炮抱港㡪胞袍饱",
+        "key": "k",
+        "secondary": "vi"
+    },
+    {
+        "name": "束",
+        "rel": "整速束赖懒辣嫩喇澜谏",
+        "key": "n",
+        "secondary": "su"
+    },
+    {
+        "name": "舟",
+        "rel": "船般航舰盘艘艇搬舱舟",
+        "key": "m",
+        "secondary": "o"
+    },
+    {
+        "name": "巴",
+        "rel": "把色吧绝爸爬肥艳疤邑",
+        "key": "f",
+        "secondary": "yr"
+    },
+    {
+        "name": "走",
+        "rel": "起走越赶超赵趣趋趁赴",
+        "key": "a",
+        "secondary": "o"
+    },
+    {
+        "name": "里",
+        "rel": "里理重量野懂童撞董埋",
+        "key": "j",
+        "secondary": "go"
+    },
+    {
+        "name": "見",
+        "rel": "攪攬現襯見規覓視親覺",
+        "key": "x",
+        "secondary": "yr"
+    },
+    {
+        "name": "业",
+        "rel": "业显亚普恶虚碰晋湿哑",
+        "key": "s",
+        "secondary": "u"
+    },
+    {
+        "name": "贝",
+        "rel": "员资则质费责负财贵货",
+        "key": "s",
+        "secondary": "mr"
+    },
+    {
+        "name": "文",
+        "rel": "这文刘纹斑坟斋斌斐虔",
+        "key": "x",
+        "secondary": "o"
+    },
+    {
+        "name": "予",
+        "rel": "预野予舒柔矛豫茅揉墅",
+        "key": "b",
+        "secondary": "i"
+    },
+    {
+        "name": "可",
+        "rel": "可何啊阿奇河哥哥骑歌",
+        "key": "s",
+        "secondary": "ke"
+    },
+    {
+        "name": "音",
+        "rel": "意⾳竟音章境暗镜障韵",
+        "key": "s",
+        "secondary": "r"
+    },
+    {
+        "name": "皮",
+        "rel": "被㓟破波皮婆颇皱坡疲",
+        "key": "d",
+        "secondary": "me"
+    },
+    {
+        "name": "髟",
+        "rel": "髦髯鬓髻鬃髭髡鬣鬈鬟",
+        "key": "f",
+        "secondary": "li"
+    },
+    {
+        "name": "井",
+        "rel": "进讲㘔塞赛井耕囊嚷襄",
+        "key": "l",
+        "secondary": "fo"
+    },
+    {
+        "name": "而",
+        "rel": "而需端瑞耐喘儒耍斋揣",
+        "key": "g",
+        "secondary": "o"
+    },
+    {
+        "name": "未",
+        "rel": "来未朱味妹珠殊莱株昧",
+        "key": "c",
+        "secondary": "o"
+    },
+    {
+        "name": "且",
+        "rel": "且组助姐县祖阻粗租悬",
+        "key": "s",
+        "secondary": "ye"
+    },
+    {
+        "name": "丁",
+        "rel": "打停顶宁丁灯厅订盯亭",
+        "key": "l",
+        "secondary": "fi"
+    },
+    {
+        "name": "讠",
+        "rel": "说话认让论许计记该设",
+        "key": "f",
+        "secondary": "e"
+    },
+    {
+        "name": "入",
+        "rel": "入籴汆倆倆內兩兩吶滿",
+        "key": "z",
+        "secondary": "i"
+    },
+    {
+        "name": "瓦",
+        "rel": "瓦瓶瓷甄瓮甑瓯佤瓴瓿",
+        "key": "p",
+        "secondary": "r"
+    },
+    {
+        "name": "身",
+        "rel": "身谢躲躺躯躬麝榭窮謝",
+        "key": "k",
+        "secondary": "fi"
+    },
+    {
+        "name": "生",
+        "rel": "生性星胜姓醒隆牲猩腥",
+        "key": "j",
+        "secondary": "fu"
+    },
+    {
+        "name": "風",
+        "rel": "楓瘋風飄飆嵐⾵㜄䑺䫸",
+        "key": "k",
+        "secondary": "qi"
+    },
+    {
+        "name": "门",
+        "rel": "们问间门简闻闪闭闹阁",
+        "key": "q",
+        "secondary": "lr"
+    },
+    {
+        "name": "不",
+        "rel": "不还否环坏杯歪㶪胚甭",
+        "key": "k",
+        "secondary": "gi"
+    },
+    {
+        "name": "氏",
+        "rel": "低婚纸抵昏氏邸祗舐砥",
+        "key": "c",
+        "secondary": "mw"
+    },
+    {
+        "name": "甫",
+        "rel": "博捕薄铺傅辅甫葡搏蒲",
+        "key": "s",
+        "secondary": "pw"
+    },
+    {
+        "name": "支",
+        "rel": "支技鼓枝翅歧肢妓吱伎",
+        "key": "j",
+        "secondary": "e"
+    },
+    {
+        "name": "由",
+        "rel": "由演油抽迪袖邮聘轴笛",
+        "key": "m",
+        "secondary": "e"
+    },
+    {
+        "name": "至",
+        "rel": "到至倒致握侄喔窒臻渥",
+        "key": "k",
+        "secondary": "r"
+    },
+    {
+        "name": "各",
+        "rel": "各路格落略露额洛络阁",
+        "key": "v",
+        "secondary": "yw"
+    },
+    {
+        "name": "壴",
+        "rel": "喜鼓嘉禧嘻膨嬉澎嘭熹",
+        "key": "t",
+        "secondary": "i"
+    },
+    {
+        "name": "母",
+        "rel": "海每母毒梅姆繁敏悔霉",
+        "key": "d",
+        "secondary": "ke"
+    },
+    {
+        "name": "豸",
+        "rel": "貌豹貂藐豺霾邈貉貔貅",
+        "key": "q",
+        "secondary": "e"
+    },
+    {
+        "name": "六",
+        "rel": "交六较效校咬胶郊狡绞",
+        "key": "g",
+        "secondary": "me"
+    },
+    {
+        "name": "辰",
+        "rel": "震振晨唇辱辰褥赈娠蜃",
+        "key": "h",
+        "secondary": "gi"
+    },
+    {
+        "name": "丸",
+        "rel": "势热执熟丸垫挚孰亵塾",
+        "key": "y",
+        "secondary": "e"
+    },
+    {
+        "name": "九",
+        "rel": "九究杂染仇抛轨旭鸠馗",
+        "key": "g",
+        "secondary": "mr"
+    },
+    {
+        "name": "页",
+        "rel": "题领须项预顿顾顺顶额",
+        "key": "p",
+        "secondary": "e"
+    },
+    {
+        "name": "韋",
+        "rel": "䪏偉圍煒瑋緯衛讆躗韋",
+        "key": "q",
+        "secondary": "r"
+    },
+    {
+        "name": "廴",
+        "rel": "健挺艇键诞霆筵蜒涎腱",
+        "key": "h",
+        "secondary": "r"
+    },
+    {
+        "name": "也",
+        "rel": "他地也她施拖池驰迤牠",
+        "key": "k",
+        "secondary": "w"
+    },
+    {
+        "name": "瓜",
+        "rel": "孤瓜狐瓣呱瓢瓤胍瓞瓠",
+        "key": "m",
+        "secondary": "ti"
+    },
+    {
+        "name": "句",
+        "rel": "够句警敬狗拘苟擎驹煦",
+        "key": "t",
+        "secondary": "yw"
+    },
+    {
+        "name": "耒",
+        "rel": "籍耗耕藉藕耘耙耦耨诔",
+        "key": "s",
+        "secondary": "ko"
+    },
+    {
+        "name": "鬲",
+        "rel": "融隔嗝镉鬻膈翮鬲獻塥",
+        "key": "q",
+        "secondary": "mw"
+    },
+    {
+        "name": "己",
+        "rel": "起记改纪配凯妃恺铠杞",
+        "key": "m",
+        "secondary": "fo"
+    },
+    {
+        "name": "斗",
+        "rel": "科斗料斜抖㩂魁斟斡斛",
+        "key": "y",
+        "secondary": "do"
+    },
+    {
+        "name": "麻",
+        "rel": "魔麻摩嘛磨麽靡麾䃺糜",
+        "key": "h",
+        "secondary": "au"
+    },
+    {
+        "name": "吕",
+        "rel": "营患吕串窜侣铝蹿闾榈",
+        "key": "a",
+        "secondary": "mw"
+    },
+    {
+        "name": "⿆",
+        "rel": "麪麵⿆䥑䨫䮮䴬䴭䴮䴯",
+        "key": "m",
+        "secondary": "fi"
+    },
+    {
+        "name": "光",
+        "rel": "光晃辉耀恍胱咣觥桄輝",
+        "key": "y",
+        "secondary": "gi"
+    },
+    {
+        "name": "行",
+        "rel": "行街衡衙衔衍衢愆蘅桁",
+        "key": "d",
+        "secondary": "yr"
+    },
+    {
+        "name": "了",
+        "rel": "了疗哼辽亨烹亟殛孑極",
+        "key": "d",
+        "secondary": "mw"
+    },
+    {
+        "name": "气",
+        "rel": "气汽氧氛氢氯氨氮氖氟",
+        "key": "y",
+        "secondary": "so"
+    },
+    {
+        "name": "饣",
+        "rel": "饭馆饮饰饿饱饶饲饥饼",
+        "key": "t",
+        "secondary": "jr"
+    },
+    {
+        "name": "乍",
+        "rel": "作炸昨窄诈咋乍榨祚蚱",
+        "key": "v",
+        "secondary": "i"
+    },
+    {
+        "name": "五",
+        "rel": "五㐏语伍吾悟衙捂晤唔",
+        "key": "q",
+        "secondary": "u"
+    },
+    {
+        "name": "僉",
+        "rel": "劍撿檢簽臉險驗鹼嶮㢛",
+        "key": "v",
+        "secondary": "hr"
+    },
+    {
+        "name": "曰",
+        "rel": "唱曰踏昌倡猖娼沓汩菖",
+        "key": "j",
+        "secondary": "w"
+    },
+    {
+        "name": "甲",
+        "rel": "甲押鸭匣闸呷钾胛狎厣",
+        "key": "y",
+        "secondary": "su"
+    },
+    {
+        "name": "见",
+        "rel": "现见觉规观视舰览搅窥",
+        "key": "k",
+        "secondary": "si"
+    },
+    {
+        "name": "民",
+        "rel": "民眠氓抿泯缗愍珉冺岷",
+        "key": "h",
+        "secondary": "ti"
+    },
+    {
+        "name": "之",
+        "rel": "之泛乏眨芝贬砭窆徔㝎",
+        "key": "f",
+        "secondary": "i"
+    },
+    {
+        "name": "辟",
+        "rel": "避壁臂劈辟譬僻霹璧擘",
+        "key": "k",
+        "secondary": "vu"
+    },
+    {
+        "name": "三",
+        "rel": "三承兰拦烂栏叁仨闫叄",
+        "key": "s",
+        "secondary": "me"
+    },
+    {
+        "name": "齿",
+        "rel": "龄齿龋龈龇龌啮龊龅龃",
+        "key": "f",
+        "secondary": "me"
+    },
+    {
+        "name": "乡",
+        "rel": "乡雍臃飨壅饔芗擁曏蕹",
+        "key": "d",
+        "secondary": "nw"
+    },
+    {
+        "name": "亥",
+        "rel": "该孩刻核咳骇骸亥劾氦",
+        "key": "h",
+        "secondary": "co"
+    },
+    {
+        "name": "韦",
+        "rel": "围韩伟违韦纬讳苇韧韬",
+        "key": "p",
+        "secondary": "w"
+    },
+    {
+        "name": "敖",
+        "rel": "傲熬敖鳌赘嗷遨骜鏊獒",
+        "key": "b",
+        "secondary": "w"
+    },
+    {
+        "name": "囚",
+        "rel": "囚泅溫蘊𠧚媼慍搵榲氳",
+        "key": "f",
+        "secondary": "mr"
+    },
+    {
+        "name": "烏",
+        "rel": "嗚烏嵨㮧䃖䖚䡧塢摀歍",
+        "key": "y",
+        "secondary": "o"
+    },
+    {
+        "name": "飛",
+        "rel": "飛⾶䙍䬠䬡榌飜飝飝飝",
+        "key": "j",
+        "secondary": "di"
+    },
+    {
+        "name": "鬥",
+        "rel": "鬥鬧鬦⾾䰗䰘鬨鬩鬪鬫",
+        "key": "k",
+        "secondary": "gu"
+    },
+    {
+        "name": "两",
+        "rel": "两满辆俩瞒蹒懑螨魉颟",
+        "key": "k",
+        "secondary": "so"
+    },
+    {
+        "name": "飞",
+        "rel": "飞⻜𠃧𠃧𥘍𦐭𦐭𩄩𩄩𫗌",
+        "key": "k",
+        "secondary": "do"
+    },
+    {
+        "name": "长",
+        "rel": "涨账胀苌伥枨帐张怅⻓",
+        "key": "d",
+        "secondary": "kr"
+    },
+    {
+        "name": "仑",
+        "rel": "论伦轮仑沦抡纶瘪囵芲",
+        "key": "k",
+        "secondary": "ti"
+    },
+    {
+        "name": "卵",
+        "rel": "卵孵㤻㲉毈贕𠨫𠷞𣫘𦃕",
+        "key": "d",
+        "secondary": "lr"
+    },
+    {
+        "name": "已",
+        "rel": "已𠖰𡉏𡴾𢩽𤣱𥝗𧿆𨑓𩨕",
+        "key": "y",
+        "secondary": "w"
+    },
+    {
+        "name": "乌",
+        "rel": "乌呜坞邬钨𠆿𠛆𤆡𫲻𬮻",
+        "key": "c",
+        "secondary": "i"
+    },
+    {
+        "name": "习",
+        "rel": "习𠁨𡰳𩙣𮡦𮳜𱟬",
+        "key": "s",
+        "secondary": "he"
+    },
+    {
+        "name": "齐斉",
+        "rel": "",
+        "key": "m",
+        "secondary": "du"
+    },
+    {
+        "name": "木朩",
+        "rel": "",
+        "key": "t",
+        "secondary": "lr"
+    },
+    {
+        "name": "黾黽",
+        "rel": "",
+        "key": "q",
+        "secondary": "hr"
+    },
+    {
+        "name": "彡𰀪",
+        "rel": "",
+        "key": "f",
+        "secondary": "yw"
+    },
+    {
+        "name": "黄黃",
+        "rel": "",
+        "key": "g",
+        "secondary": "hr"
+    },
+    {
+        "name": "鬼",
+        "rel": "",
+        "key": "k",
+        "secondary": "ci"
+    },
+    {
+        "name": "鹿",
+        "rel": "",
+        "key": "k",
+        "secondary": "tu"
+    },
+    {
+        "name": "示礻⺬𱍐",
+        "rel": "",
+        "key": "s",
+        "secondary": "jw"
+    },
+    {
+        "name": "卜⺊",
+        "rel": "",
+        "key": "f",
+        "secondary": "jr"
+    },
+    {
+        "name": "非",
+        "rel": "",
+        "key": "l",
+        "secondary": "to"
+    },
+    {
+        "name": "卌",
+        "rel": "",
+        "key": "k",
+        "secondary": "au"
+    },
+    {
+        "name": "臣",
+        "rel": "",
+        "key": "q",
+        "secondary": "he"
+    },
+    {
+        "name": "匚コ𠥓",
+        "rel": "",
+        "key": "p",
+        "secondary": "go"
+    },
+    {
+        "name": "鱼𩵋",
+        "rel": "",
+        "key": "b",
+        "secondary": "o"
+    },
+    {
+        "name": "宀冖",
+        "rel": "",
+        "key": "g",
+        "secondary": "ke"
+    },
+    {
+        "name": "一㇀",
+        "rel": "",
+        "key": "l",
+        "secondary": "e"
+    },
+    {
+        "name": "卅丗",
+        "rel": "",
+        "key": "d",
+        "secondary": "ko"
+    },
+    {
+        "name": "⽱禸",
+        "rel": "",
+        "key": "g",
+        "secondary": "w"
+    },
+    {
+        "name": "户戶戸",
+        "rel": "",
+        "key": "l",
+        "secondary": "si"
+    },
+    {
+        "name": "卯丣",
+        "rel": "",
+        "key": "s",
+        "secondary": "yr"
+    },
+    {
+        "name": "骨⾻冎",
+        "rel": "",
+        "key": "n",
+        "secondary": "di"
+    },
+    {
+        "name": "馬",
+        "rel": "",
+        "key": "a",
+        "secondary": "je"
+    },
+    {
+        "name": "尤尢",
+        "rel": "",
+        "key": "m",
+        "secondary": "r"
+    },
+    {
+        "name": "㐄",
+        "rel": "",
+        "key": "k",
+        "secondary": "su"
+    },
+    {
+        "name": "十𠂇𬺰",
+        "rel": "",
+        "key": "a",
+        "secondary": "kw"
+    },
+    {
+        "name": "千",
+        "rel": "",
+        "key": "k",
+        "secondary": "co"
+    },
+    {
+        "name": "面靣",
+        "rel": "",
+        "key": "s",
+        "secondary": "mw"
+    },
+    {
+        "name": "水氵⺍ツ氺",
+        "rel": "",
+        "key": "h",
+        "secondary": "su"
+    },
+    {
+        "name": "匕",
+        "rel": "",
+        "key": "v",
+        "secondary": "ke"
+    },
+    {
+        "name": "丩",
+        "rel": "",
+        "key": "m",
+        "secondary": "si"
+    },
+    {
+        "name": "糸糹",
+        "rel": "",
+        "key": "y",
+        "secondary": "fo"
+    },
+    {
+        "name": "{龍字边}",
+        "rel": "",
+        "key": "k",
+        "secondary": "qi"
+    },
+    {
+        "name": "屮",
+        "rel": "",
+        "key": "g",
+        "secondary": "yr"
+    },
+    {
+        "name": "羊⺶⺷⺸芈",
+        "rel": "",
+        "key": "t",
+        "secondary": "o"
+    },
+    {
+        "name": "戈",
+        "rel": "",
+        "key": "f",
+        "secondary": "jw"
+    },
+    {
+        "name": "口〇",
+        "rel": "",
+        "key": "k",
+        "secondary": "di"
+    },
+    {
+        "name": "{齊字腰}",
+        "rel": "",
+        "key": "h",
+        "secondary": "ju"
+    },
+    {
+        "name": "彳亍",
+        "rel": "",
+        "key": "f",
+        "secondary": "hw"
+    },
+    {
+        "name": "日⺜𫩏",
+        "rel": "",
+        "key": "v",
+        "secondary": "o"
+    },
+    {
+        "name": "乙𠃉",
+        "rel": "",
+        "key": "j",
+        "secondary": "r"
+    },
+    {
+        "name": "龙竜",
+        "rel": "",
+        "key": "h",
+        "secondary": "gu"
+    },
+    {
+        "name": "辛",
+        "rel": "",
+        "key": "s",
+        "secondary": "ne"
+    },
+    {
+        "name": "川巛巜",
+        "rel": "",
+        "key": "d",
+        "secondary": "yw"
+    },
+    {
+        "name": "册冊𠕁",
+        "rel": "",
+        "key": "f",
+        "secondary": "hr"
+    },
+    {
+        "name": "及",
+        "rel": "",
+        "key": "s",
+        "secondary": "yw"
+    },
+    {
+        "name": "疋⺪",
+        "rel": "",
+        "key": "j",
+        "secondary": "gu"
+    },
+    {
+        "name": "刀刂〢リ",
+        "rel": "",
+        "key": "v",
+        "secondary": "je"
+    },
+    {
+        "name": "丨亅",
+        "rel": "",
+        "key": "f",
+        "secondary": "u"
+    },
+    {
+        "name": "豕𧰧",
+        "rel": "",
+        "key": "d",
+        "secondary": "ne"
+    },
+    {
+        "name": "㡀",
+        "rel": "",
+        "key": "x",
+        "secondary": "cu"
+    },
+    {
+        "name": "止龰",
+        "rel": "",
+        "key": "d",
+        "secondary": "i"
+    },
+    {
+        "name": "犬犭",
+        "rel": "",
+        "key": "l",
+        "secondary": "qu"
+    },
+    {
+        "name": "七",
+        "rel": "",
+        "key": "f",
+        "secondary": "kw"
+    },
+    {
+        "name": "干",
+        "rel": "",
+        "key": "l",
+        "secondary": "vu"
+    },
+    {
+        "name": "辶⻍",
+        "rel": "",
+        "key": "n",
+        "secondary": "du"
+    },
+    {
+        "name": "゛冫",
+        "rel": "",
+        "key": "g",
+        "secondary": "hw"
+    },
+    {
+        "name": "龱𱕻",
+        "rel": "",
+        "key": "n",
+        "secondary": "fo"
+    },
+    {
+        "name": "牛牜⺧",
+        "rel": "",
+        "key": "m",
+        "secondary": "do"
+    },
+    {
+        "name": "月⺝⺼円",
+        "rel": "",
+        "key": "c",
+        "secondary": "u"
+    },
+    {
+        "name": "米",
+        "rel": "",
+        "key": "k",
+        "secondary": "ai"
+    },
+    {
+        "name": "甘",
+        "rel": "",
+        "key": "m",
+        "secondary": "to"
+    },
+    {
+        "name": "尸𠁣",
+        "rel": "",
+        "key": "m",
+        "secondary": "fu"
+    },
+    {
+        "name": "片丬爿",
+        "rel": "",
+        "key": "s",
+        "secondary": "hr"
+    },
+    {
+        "name": "厶龴",
+        "rel": "",
+        "key": "b",
+        "secondary": "kr"
+    },
+    {
+        "name": "弋",
+        "rel": "",
+        "key": "q",
+        "secondary": "o"
+    },
+    {
+        "name": "",
+        "rel": "",
+        "key": "j",
+        "secondary": "su"
+    },
+    {
+        "name": "心忄⺗",
+        "rel": "",
+        "key": "h",
+        "secondary": "du"
+    },
+    {
+        "name": "丶㇏乀",
+        "rel": "",
+        "key": "n",
+        "secondary": "r"
+    },
+    {
+        "name": "{赢框}",
+        "rel": "",
+        "key": "a",
+        "secondary": "i"
+    },
+    {
+        "name": "衣衤𧘇",
+        "rel": "",
+        "key": "y",
+        "secondary": "r"
+    },
+    {
+        "name": "㐅乂",
+        "rel": "",
+        "key": "s",
+        "secondary": "o"
+    },
+    {
+        "name": "小⺌",
+        "rel": "",
+        "key": "f",
+        "secondary": "lr"
+    },
+    {
+        "name": "毛",
+        "rel": "",
+        "key": "g",
+        "secondary": "ye"
+    },
+    {
+        "name": "厂⺁",
+        "rel": "",
+        "key": "z",
+        "secondary": "kr"
+    },
+    {
+        "name": "食⻞飠",
+        "rel": "",
+        "key": "n",
+        "secondary": "ai"
+    },
+    {
+        "name": "斤",
+        "rel": "",
+        "key": "k",
+        "secondary": "fo"
+    },
+    {
+        "name": "手扌龵",
+        "rel": "",
+        "key": "k",
+        "secondary": "su"
+    },
+    {
+        "name": "云",
+        "rel": "",
+        "key": "h",
+        "secondary": "w"
+    },
+    {
+        "name": "几⺇",
+        "rel": "",
+        "key": "a",
+        "secondary": "nw"
+    },
+    {
+        "name": "谷",
+        "rel": "",
+        "key": "f",
+        "secondary": "mw"
+    },
+    {
+        "name": "⺂⺃⺄フㄅㄋ",
+        "rel": "",
+        "key": "x",
+        "secondary": "i"
+    },
+    {
+        "name": "虎虍",
+        "rel": "",
+        "key": "v",
+        "secondary": "he"
+    },
+    {
+        "name": "鼠䑕鼡",
+        "rel": "",
+        "key": "g",
+        "secondary": "mw"
+    },
+    {
+        "name": "歹歺",
+        "rel": "",
+        "key": "c",
+        "secondary": "ke"
+    },
+    {
+        "name": "西襾覀",
+        "rel": "",
+        "key": "d",
+        "secondary": "hw"
+    },
+    {
+        "name": "纟",
+        "rel": "",
+        "key": "t",
+        "secondary": "kw"
+    },
+    {
+        "name": "老耂",
+        "rel": "",
+        "key": "f",
+        "secondary": "ke"
+    },
+    {
+        "name": "⺈",
+        "rel": "",
+        "key": "f",
+        "secondary": "mi"
+    },
+    {
+        "name": "曲𡆪",
+        "rel": "",
+        "key": "k",
+        "secondary": "qu"
+    },
+    {
+        "name": "攴攵",
+        "rel": "",
+        "key": "h",
+        "secondary": "fi"
+    },
+    {
+        "name": "毋毌",
+        "rel": "",
+        "key": "l",
+        "secondary": "u"
+    },
+    {
+        "name": "龟⿔亀龜𪚦𪚴𪛉𬹝",
+        "rel": "",
+        "key": "m",
+        "secondary": "di"
+    },
+    {
+        "name": "長镸",
+        "rel": "",
+        "key": "y",
+        "secondary": "si"
+    },
+    {
+        "name": "⺕ㅌ彑",
+        "rel": "",
+        "key": "a",
+        "secondary": "lr"
+    },
+    {
+        "name": "侖龠",
+        "rel": "",
+        "key": "m",
+        "secondary": "qo"
+    },
+    {
+        "name": "{凬字心}",
+        "rel": "",
+        "key": "f",
+        "secondary": "kw"
+    },
+    {
+        "name": "雨⻗",
+        "rel": "",
+        "key": "k",
+        "secondary": "o"
+    },
+    {
+        "name": "金釒",
+        "rel": "",
+        "key": "t",
+        "secondary": "mr"
+    },
+    {
+        "name": "鳥",
+        "rel": "",
+        "key": "b",
+        "secondary": "le"
+    },
+    {
+        "name": "爪⺥爫𫜵",
+        "rel": "",
+        "key": "h",
+        "secondary": "o"
+    },
+    {
+        "name": "艮",
+        "rel": "",
+        "key": "f",
+        "secondary": "he"
+    },
+    {
+        "name": "亼亽",
+        "rel": "",
+        "key": "c",
+        "secondary": "jo"
+    },
+    {
+        "name": "聿⺻肀𦘒",
+        "rel": "",
+        "key": "d",
+        "secondary": "o"
+    },
+    {
+        "name": "戉戊",
+        "rel": "",
+        "key": "k",
+        "secondary": "e"
+    },
+    {
+        "name": "黑黒",
+        "rel": "",
+        "key": "m",
+        "secondary": "au"
+    },
+    {
+        "name": "无旡",
+        "rel": "",
+        "key": "g",
+        "secondary": "i"
+    },
+    {
+        "name": "缶𦈢",
+        "rel": "",
+        "key": "a",
+        "secondary": "yr"
+    },
+    {
+        "name": "㠯",
+        "rel": "",
+        "key": "n",
+        "secondary": "w"
+    },
+    {
+        "name": "弗𠂔𢎨",
+        "rel": "",
+        "key": "a",
+        "secondary": "mr"
+    },
+    {
+        "name": "足⻊",
+        "rel": "",
+        "key": "x",
+        "secondary": "u"
+    },
+    {
+        "name": "乃",
+        "rel": "",
+        "key": "f",
+        "secondary": "nw"
+    },
+    {
+        "name": "舌",
+        "rel": "",
+        "key": "h",
+        "secondary": "vu"
+    },
+    {
+        "name": "{彀字框无一}",
+        "rel": "",
+        "key": "l",
+        "secondary": "gi"
+    },
+    {
+        "name": "八䒑丷癶",
+        "rel": "",
+        "key": "j",
+        "secondary": "do"
+    },
+    {
+        "name": "艹⺿丌丱卝廾艸",
+        "rel": "",
+        "key": "c",
+        "secondary": "lr"
+    },
+    {
+        "name": "又スㄡ",
+        "rel": "",
+        "key": "b",
+        "secondary": "u"
+    },
+    {
+        "name": "臼⺽",
+        "rel": "",
+        "key": "j",
+        "secondary": "zi"
+    },
+    {
+        "name": "卩⺋ㄗ㔾卪",
+        "rel": "",
+        "key": "l",
+        "secondary": "gi"
+    },
+    {
+        "name": "鸟",
+        "rel": "",
+        "key": "j",
+        "secondary": "bo"
+    },
+    {
+        "name": "高髙",
+        "rel": "",
+        "key": "d",
+        "secondary": "he"
+    },
+    {
+        "name": "象",
+        "rel": "",
+        "key": "d",
+        "secondary": "jw"
+    },
+    {
+        "name": "",
+        "rel": "",
+        "key": "z",
+        "secondary": "o"
+    },
+    {
+        "name": "頁",
+        "rel": "",
+        "key": "a",
+        "secondary": "r"
+    },
+    {
+        "name": "亡亾兦",
+        "rel": "",
+        "key": "n",
+        "secondary": "e"
+    },
+    {
+        "name": "马𢎘",
+        "rel": "",
+        "key": "f",
+        "secondary": "ye"
+    },
+    {
+        "name": "廿龷",
+        "rel": "",
+        "key": "a",
+        "secondary": "kr"
+    },
+    {
+        "name": "尚龸",
+        "rel": "",
+        "key": "n",
+        "secondary": "do"
+    },
+    {
+        "name": "{微框}",
+        "rel": "",
+        "key": "y",
+        "secondary": "w"
+    },
+    {
+        "name": "牙㸦",
+        "rel": "",
+        "key": "t",
+        "secondary": "u"
+    },
+    {
+        "name": "歯齒",
+        "rel": "",
+        "key": "g",
+        "secondary": "yw"
+    },
+    {
+        "name": "车",
+        "rel": "",
+        "key": "a",
+        "secondary": "le"
+    },
+    {
+        "name": "立",
+        "rel": "",
+        "key": "j",
+        "secondary": "si"
+    },
+    {
+        "name": "四⺵罒",
+        "rel": "",
+        "key": "a",
+        "secondary": "he"
+    },
+    {
+        "name": "火灬",
+        "rel": "",
+        "key": "c",
+        "secondary": "me"
+    },
+    {
+        "name": "兔兎",
+        "rel": "",
+        "key": "d",
+        "secondary": "so"
+    },
+    {
+        "name": "丰丯龶",
+        "rel": "",
+        "key": "m",
+        "secondary": "vu"
+    },
+    {
+        "name": "竹⺮",
+        "rel": "",
+        "key": "p",
+        "secondary": "u"
+    },
+    {
+        "name": "冂⺆凵",
+        "rel": "",
+        "key": "d",
+        "secondary": "jr"
+    }
+]
