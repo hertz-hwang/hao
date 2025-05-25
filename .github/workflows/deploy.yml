@@ -10,14 +10,18 @@ on:
   
 # Allow this job to clone the repo and create a page deployment
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+  deployments: write
 
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 concurrency:
   group: "pages"
   cancel-in-progress: true
+
+# 允许仓库管理员手动触发工作流
+run-name: ${{ github.actor }} is deploying to GitHub Pages
 
 jobs:
   build:
@@ -52,6 +56,7 @@ jobs:
         uses: actions/configure-pages@v4
         with:
           enablement: true
+          token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
