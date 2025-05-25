@@ -10,18 +10,9 @@ on:
   
 # Allow this job to clone the repo and create a page deployment
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
-  deployments: write
-
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
-
-# 允许仓库管理员手动触发工作流
-run-name: ${{ github.actor }} is deploying to GitHub Pages
 
 jobs:
   build:
@@ -30,39 +21,29 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout your repository using git
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          
+      - name: Prepare PNPM
+        uses: pnpm/action-setup@v3
+        with:
+          version: 8
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
-          cache: 'npm'
-          
-      - name: Setup PNPM
-        uses: pnpm/action-setup@v3
-        with:
-          version: 8
-          
-      - name: Install dependencies
-        run: pnpm install
-        
-      - name: Build
-        run: pnpm build2
-        
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-        with:
-          enablement: true
-          token: ${{ secrets.GITHUB_TOKEN }}
-        
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+          cache: pnpm
+
+      - run: pnpm i && pnpm build2
+
+      - uses: actions/configure-pages@v5
+      
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
           
-      - name: Deploy to GitHub Pages
+      - name: Deploy
         id: deployment
         uses: actions/deploy-pages@v4
