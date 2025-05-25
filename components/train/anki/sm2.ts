@@ -30,6 +30,9 @@ export interface SmCard {
 }
 
 export const getTimeStamp = () => new Date().getTime()
+
+const msPerDay = 86400_000
+
 const getThisMorning = () => {
     const d = new Date()
     // 凌晨当成上一天
@@ -48,8 +51,6 @@ export const createCard = (): SmCard => ({
     last: getTimeStamp(),
     ease: 2.3,
 })
-
-const msPerDay = 86400_000
 
 const msToDay = (ms: number) => Math.round(ms / msPerDay)
 
