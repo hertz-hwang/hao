@@ -5,8 +5,8 @@ aside: false
 import Train from "../components/train/TrainZigen.vue"
 import {high} from "./high.ts"
 </script>
-# 好码字根学习
-<Train zigenFont = "heiti-Unyaa" name = "Unyaa-code" :high trainBoth hasClass/>
+# 淅码字根学习
+<Train zigenFont = "heiti-Unyaa" name = "hao-code" zigenJson="/hao/zigen.json" :high trainBoth hasClass/>
 :::info 提示
 1. 绝对不要看着字根图打！
 
