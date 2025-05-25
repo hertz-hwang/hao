@@ -49,7 +49,7 @@ export default defineConfig({
           { text: '1.1 淅码教程', link: '/tutorial' },
           { text: '1.2 淅码字根练习', link: '/gen'},
           { text: '-------------'},
-          { text: '2.1 松烟教程', link: '/tutorial-sy'},
+          { text: '2.1 松烟教程(不建议学习)', link: '/tutorial-sy'},
           { text: '2.2 松烟字根练习', link: '/gen-sy'},
          // { text: '露台', link: '/lutai'}
         ]
