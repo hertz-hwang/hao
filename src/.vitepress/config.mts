@@ -48,6 +48,7 @@ export default defineConfig({
           { text: '============='},
           { text: '1.1 淅码教程', link: '/tutorial' },
           { text: '1.2 淅码字根练习', link: '/gen'},
+          { text: '1.3 淅码字根(拆归并)练习', link: '/gen-xi-chai'},
           { text: '-------------'},
           { text: '2.1 松烟教程(不建议学习)', link: '/tutorial-sy'},
           { text: '2.2 松烟字根练习(不建议学习)', link: '/gen-sy'},
