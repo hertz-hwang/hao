@@ -53,6 +53,7 @@ export default defineConfig({
           { text: '2.1 松烟教程(不建议学习)', link: '/tutorial-sy'},
           { text: '2.2 松烟字根练习(不建议学习)', link: '/gen-sy'},
           { text: '============='},
+          //{ text: '3.1 离乱字根学习', link: '/gen-ll'},
           { text: '附录：各方案单字测评数据', link: '/evaluation'},
          // { text: '露台', link: '/lutai'}
         ]
