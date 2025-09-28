@@ -1,11 +1,27 @@
 
 @font-face {
     font-family: "Unyaa-codePUA";
-    src: url("/Unyaa-codePUA.woff2") format("woff2");
+    src: url("/hao/Unyaa-codePUA.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "TumanPUA";
+    src: url("/hao/TumanPUA.woff2") format("woff2");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "ChaiPUA-0.2.7";
+    src: url("/hao/ChaiPUA-0.2.7.woff2") format("woff2");
+    font-display: swap;
 }
 
 .TumanPUA {
-    font-family: "Unyaa-codePUA", "Source Han Sans CN", "Microsoft YaHei","PingFang SC", '黑体', "Noto Sans CJK SC", "MiSans", "HarmonyOS Sans SC", "OPPOSans", sans-serif;
+    font-family: "TumanPUA", "Unyaa-codePUA", "Source Han Sans CN", "Microsoft YaHei","PingFang SC", '黑体', "Noto Sans CJK SC", "MiSans", "HarmonyOS Sans SC", "OPPOSans", sans-serif;
+}
+
+.ChaiPUA-0\.2\.7 {
+    font-family: "ChaiPUA-0.2.7", "Source Han Sans CN", "Microsoft YaHei","PingFang SC", '黑体', "Noto Sans CJK SC", "MiSans", "HarmonyOS Sans SC", "OPPOSans", sans-serif;
 }
 
 :root {

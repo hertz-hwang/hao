@@ -20,20 +20,19 @@ def read_ll_map(file_path):
                 
             code, zigen_sequence = parts[0], parts[1]
             
-            # ll_map.real.txt中使用空格分隔字根
-            components = [c for c in zigen_sequence.split() if c]
+            # ll_map.real.txt中使用空格分隔字根，但这是一个组合字根，不应该拆分
+            # 直接将整个序列作为一个字根
+            combined_zigen = zigen_sequence
             
-            # 为每个字根分配编码
-            for component in components:
-                if component not in ll_map:
-                    # 将编码转换为小写
-                    code_lower = code.lower()
-                    ll_map[component] = {
-                        'key': code_lower[0], 
-                        'secondary': code_lower[1:] if len(code_lower) > 1 else None
-                    }
-                    # 记录字根出现的顺序
-                    zigen_order.append(component)
+            if combined_zigen not in ll_map:
+                # 将编码转换为小写
+                code_lower = code.lower()
+                ll_map[combined_zigen] = {
+                    'key': code_lower[0], 
+                    'secondary': code_lower[1:] if len(code_lower) > 1 else None
+                }
+                # 记录字根出现的顺序
+                zigen_order.append(combined_zigen)
     
     return ll_map, zigen_order
 
@@ -137,35 +136,30 @@ def generate_zigen_json(ll_map, zigen_order, zigen_to_chars, zigen_frequency):
     
     # 按照ll_map.real.txt中的字根顺序
     for zigen in zigen_order:
-        if zigen not in ll_map:
-            continue
-            
         code_info = ll_map[zigen]
         
         # 获取相关汉字
         related_chars = zigen_to_chars.get(zigen, '')
         
-        # 对于组合字根，尝试从子字根中获取相关汉字
-        if not related_chars:
-            # 检查是否是组合字根（包含空格）
-            if ' ' in zigen:
-                sub_components = [t for t in zigen.split() if t]
-                collected = []
-                seen = set()
-                # 每个子字根取前几个例字
-                examples_per_comp = 3
-                for comp in sub_components:
-                    chars = zigen_to_chars.get(comp, '')
-                    if not chars:
-                        continue
-                    take = chars[:examples_per_comp]
-                    for ch in take:
-                        if ch not in seen:
-                            collected.append(ch)
-                            seen.add(ch)
-                if collected:
-                    # 控制总长度，避免过长
-                    related_chars = ''.join(collected[:15])
+        # 对于组合字根（包含空格），尝试从子字根中获取相关汉字
+        if not related_chars and ' ' in zigen:
+            sub_components = [t for t in zigen.split() if t]
+            collected = []
+            seen = set()
+            # 每个子字根取前几个例字
+            examples_per_comp = 3
+            for comp in sub_components:
+                chars = zigen_to_chars.get(comp, '')
+                if not chars:
+                    continue
+                take = chars[:examples_per_comp]
+                for ch in take:
+                    if ch not in seen:
+                        collected.append(ch)
+                        seen.add(ch)
+            if collected:
+                # 控制总长度，避免过长
+                related_chars = ''.join(collected[:15])
         
         item = {
             'name': zigen,
@@ -187,7 +181,7 @@ def main():
     # 文件路径
     ll_map_path = 'src/public/ll/ll_map.real.txt'
     ll_div_path = 'src/public/ll/ll_div.real.txt'
-    output_path = 'src/public/ll/zigen1.json'
+    output_path = 'src/public/ll/zigen.json'
     
     # 读取数据
     ll_map, zigen_order = read_ll_map(ll_map_path)

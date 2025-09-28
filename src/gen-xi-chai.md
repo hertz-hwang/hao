@@ -6,7 +6,7 @@ import Train from "../components/train/TrainZigen.vue"
 import {high} from "./high.ts"
 </script>
 # 淅码字根(拆归并)练习
-<Train zigenFont = "TumanPUA" name = "hao-code" zigenJson="/hao/zigen-xi-chai.json" :high trainBoth hasClass/>
+<Train zigenFont = "TumanPUA" name = "hao-code-chai" zigenJson="/hao/zigen-xi-chai.json" :high trainBoth hasClass/>
 :::info 提示
 1. 绝对不要看着字根图打！
 
