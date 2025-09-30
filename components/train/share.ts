@@ -52,13 +52,18 @@ export async function fetchJsonWithCache(url: string) {
 
     try {
         const req = await fetch(urlFixed)
+        if (!req.ok) {
+            throw new Error(`HTTP ${req.status}: ${req.statusText}`)
+        }
         const json = await req.json()
         fetchCache[url] = json
         return json
 
     } catch (error) {
-        if (error instanceof Error)
-            alert(`无法下载或解析《${url}》文件：${error.cause}`)
+        if (error instanceof Error) {
+            const errorMsg = error.message || error.cause || '未知错误'
+            alert(`无法下载或解析《${url}》文件：${errorMsg}`)
+        }
         throw error
     }
 }

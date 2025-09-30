@@ -54,6 +54,7 @@ export default defineConfig({
           { text: '2.2 松烟字根(不建议学习)', link: '/gen-sy'},
           { text: '============='},
           { text: '3.1 离乱字根(强烈不建议学习)', link: '/gen-ll'},
+          { text: '3.2 离乱拆分查询', link: '/div-ll' },
           //{ text: '3.2 离乱全字根(拆归并)(强烈不建议学习)', link: '/gen-ll1'},
           { text: '============='},
           { text: '附录：各方案单字测评数据', link: '/evaluation'}
