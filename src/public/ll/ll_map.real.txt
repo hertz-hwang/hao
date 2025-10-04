@@ -6,10 +6,10 @@ zsu	白
 bdo	寸
 ksw	辶
 ,dw	   
-/sr	又  龴  
+/sr	又  龴 
 .ar	一
 npw	土 
-nar	扌  𰀁   𘠲 󱣣 󲟎 𘠩
+nar	扌  𰀁   𘠲 󲟎 𘠩 󱣣
 ssu	木 朩   㝳 𣎳
 cvu	匕   
 h;w	日 
@@ -31,7 +31,7 @@ z;o	阝
 /ko	
 jao	不
 gkw	工
-dju	 彡 ⺀    𘡂 𘬀 󲻝 𰀪
+dju	 彡 ⺀   𘡂  𘬀 󲻝 𰀪
 qgo	王   ⺩
 d;o	纟 
 f;w	可
@@ -52,7 +52,7 @@ fmw	云  𠫓  󰂫 
 bvu	丰 龶  丯
 y;u	艹 廾 丱 ⻀ 卄 ⺿  󰓯 𫡃 
 d,r	门
-far	戈 戈无一 
+far	戈 {戈无一} 
 bzo	兴    𰃮 󰅄 
 cpu	㐅 𘱌 乂 乄 𘠘
 ,vo	冫    
@@ -86,7 +86,6 @@ c.u	车 
 ;hu	乛
 xco	至
 jyr	羊     ⺶
-gyo	儿
 vpu	耳
 hlw	见
 glu	生
@@ -99,6 +98,7 @@ nar	几  
 kqo	吕 吅 
 jzw	里
 ngo	者
+gyo	儿
 ,cw	矢
 jto	用 
 mqr	方
@@ -125,23 +125,24 @@ shu	舌 
 x;u	隹
 .bo	正
 vgo	石
-hqr	糸 幺 ⺯
+hqr	糸 幺 糹 ⺯
 bjw	马 
 fkr	片 丬   爿    
 alr	廴
 dxo	各
 hxo	本
+fsw	   
 hgo	京
 hdr	果
 fqu	更
 aao	钅
-daw	乍
 ;ku	米  𠂭 󱹐 󳦲
+daw	乍
 ajr	相
 qqr	䒑  󰦙
 jlr	弋 
 ;/o	占
-mtr	止  龰 
+mtr	止  龰  
 lpu	雨 
 jpw	弓 𢎜
 ;vw	直
@@ -154,22 +155,21 @@ flw	下 󰷣
 tau	关
 hzr	士
 ygu	尚  龸
-,/r	万 成三
-g;u	壬 𡈼
+,/r	万 {成三}
 .lr	豕 乑  豸 𬺻  𧰧 𬺷
 cqu	言
 v.w	行
+g;u	壬 𡈼
 jpr	水 氺     
 qfu	元
 bsw	音 󲨣
-fsw	   
 qpr	出
 aco	巴
 smr	业
-pxu	高    󰂗 󰂘
+pxu	高    󰂗 󰂘 ⾼
 cno	玉
 kqr	古
-t/w	祭   癶 
+t/w	祭   癶  
 s,w	分
 kvr	交
 .gw	走
@@ -250,14 +250,14 @@ dvo	平
 pzu	原
 x;u	     󰀣 󱀺
 x;r	少
-pvw	川   巛 巜 𘠸    
 lkw	戋
 zzo	巳
+pvw	川   巛 巜 𘠸    
 l;r	斗
 knr	早
 lqw	五
 smu	另
-vcw	谷 
+vcw	谷  ⾕
 apr	酉
 ,,r	予
 yxo	爻 
@@ -275,6 +275,7 @@ z;r	入
 .ho	莫
 /gu	金  釒 
 aau	亦 
+kgr	兔  
 z/r	三
 nnw	员
 ,lu	舟
@@ -289,7 +290,7 @@ zco	北 
 vqu	 
 adw	肖
 dpw	老
-.du	虎 虍 
+.du	虎 虍 𮓗 
 //w	九
 zmw	已
 ;xr	臼   ⺽  
@@ -305,9 +306,8 @@ dfr	
 /qu	弗  𠂔
 bxr	 
 ksr	缶 
-dyr	
 kfu	民
-fyr	林
+fyr	林 𣏟
 npo	壴
 yto	风
 mzo	圭
@@ -323,7 +323,7 @@ qqu	旡
 lnr	牙
 .su	 
 dfu	釆
-..w	温字框
+..w	{温字框}
 kfw	甫 
 aqw	卯   󰘇 󱨧
 s;o	尺
@@ -336,7 +336,7 @@ nvr	 󰔔
 hcu	革
 c;r	麻
 cvu	辛 
-lmr	黑 黒
+lmr	黑 黒 ⿊
 cfw	
 lfo	齐 斉
 m,u	卑
@@ -370,7 +370,7 @@ pqr	鬲
 n.w	垂
 ;mr	氶
 nlw	叚
-ypw	屯  
+ypw	屯   
 ,vr	骨 咼 冎 
 qyr	瓦
 nfr	⻑ 镸 長
@@ -409,12 +409,11 @@ gpu	乡
 yqr	敖
 sju	鼠  
 fpr	㡀
-bko	門 鬥
+bko	門 鬥 ⾾
 fqu	
-kgr	兔 
 cvw	丹
-t/o	頁 󰯷
-;fo	鹿  
+t/o	頁 ⾴ 󰯷
+;fo	鹿   ⿅
 yfu	卵
 jpo	黾
 yyu	  𦣝  
@@ -435,9 +434,10 @@ zyw	卌 
 fbr	
 zsr	烏 
 zjr	   
-.jo	麥
+.jo	麥 ⿆
 kxu	 
+dyr	
 .dw	亾 兦
 ;to	丄
 kpu	⺼ 
-aqo	特殊折
+aqo	{特殊折}
