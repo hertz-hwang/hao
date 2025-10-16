@@ -16,7 +16,7 @@
                 <button class="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">✕</button>
             </form>
             <p>
-                这个网页可以方便地查询逸码的拆分，可以链接到
+                这个网页可以方便地查询方案拆分，可以链接到
                 <a href="https://zi.tools/" target="_blank" rel="noreferrer">
                     字统网
                 </a>
