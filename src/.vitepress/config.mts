@@ -44,8 +44,8 @@ export default defineConfig({
     sidebar: [
       {
         items: [
-          { text: '好码快速入门', link: '/Introduction.md' },
-          { text: '============='},
+          { text: '好码1-2', link: '/Introduction.md' },
+          { text: '-------------'},
           { text: '1.1 淅码教程', link: '/tutorial' },
           { text: '1.2 淅码字根练习', link: '/gen'},
           { text: '1.3 淅码字根(拆归并)', link: '/gen-xi-chai'},
@@ -53,9 +53,15 @@ export default defineConfig({
           { text: '2.1 松烟教程(不建议学习)', link: '/tutorial-sy'},
           { text: '2.2 松烟字根(不建议学习)', link: '/gen-sy'},
           { text: '============='},
+          { text: '============='},
+          { text: '乱码3-4'},
+          { text: '-------------'},
           { text: '3.1 离乱字根(强烈不建议学习)', link: '/gen-ll'},
           { text: '3.2 离乱拆分查询', link: '/div-ll' },
-          //{ text: '3.2 离乱全字根(拆归并)(强烈不建议学习)', link: '/gen-ll1'},
+          { text: '3.2 离乱全字根(拆归并)(强烈不建议学习)', link: '/gen-ll1'},
+          { text: '-------------'},
+          { text: '4.1 琉璃字根', link: '/gen-liuli'},
+          { text: '4.2 琉璃拆分查询', link: '/div-liuli' },
           { text: '============='},
           { text: '附录：各方案单字测评数据', link: '/evaluation'}
         ]
