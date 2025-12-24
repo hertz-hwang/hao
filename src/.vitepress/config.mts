@@ -60,8 +60,9 @@ export default defineConfig({
           { text: '3.2 离乱拆分查询', link: '/div-ll' },
           { text: '3.2 离乱全字根(拆归并)(强烈不建议学习)', link: '/gen-ll1'},
           { text: '-------------'},
-          { text: '4.1 琉璃字根', link: '/gen-liuli'},
-          { text: '4.2 琉璃拆分查询', link: '/div-liuli' },
+          { text: '4.1 琉璃介绍', link: '/Introduction-liuli'},
+          { text: '4.2 琉璃字根', link: '/gen-liuli'},
+          { text: '4.3 琉璃拆分查询', link: '/div-liuli' },
           { text: '============='},
           { text: '附录：各方案单字测评数据', link: '/evaluation'}
         ]

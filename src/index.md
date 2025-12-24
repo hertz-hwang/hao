@@ -14,8 +14,11 @@ hero:
       text: 四定：淅码字根学习
       link: /gen
     - theme: alt
-      text: 前缀：松烟字根学习
+      text: 前缀码：松烟字根学习
       link: /gen-sy
+    - theme: alt
+      text: 三码：琉璃(字词双全)
+      link: /Introduction-liuli
 
 features:
   - title: 乱序字根
