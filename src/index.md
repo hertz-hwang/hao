@@ -16,6 +16,9 @@ hero:
     - theme: alt
       text: 前缀码：松烟字根学习
       link: /gen-sy
+    - theme: brand
+      text: 乱码系列快速入门
+      link: /Introduction-liuli
     - theme: alt
       text: 三码：琉璃(字词双全)
       link: /Introduction-liuli
