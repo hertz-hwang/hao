@@ -1,49 +1,63 @@
-name: Deploy to GitHub Pages
+# 自动部署到 GitHub Pages 的工作流
+name: Deploy VitePress site to Pages
 
 on:
-  # Trigger the workflow every time you push to the `main` branch
-  # Using a different branch name? Replace `main` with your branchâ€™s name
+  # 在针对 `main` 分支的推送上触发
   push:
-    branches: [ main ]
-  # Allows you to run this workflow manually from the Actions tab on GitHub.
+    branches: [main]
+  # 允许从 Actions 选项卡手动触发
   workflow_dispatch:
-  
-# Allow this job to clone the repo and create a page deployment
+
+# 使用 GITHUB_TOKEN 的权限，以允许部署到 GitHub Pages
 permissions:
   contents: read
   pages: write
   id-token: write
 
+# 只允许一个并发部署，跳过正在运行和最新排队之间的运行队列
+# 但是，不要取消正在进行的运行，因为我们希望让这些生产部署完成
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
 jobs:
+  # 构建任务
   build:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout your repository using git
+      - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-      - name: Prepare PNPM
+          fetch-depth: 0 # 如果未启用 lastUpdated，则不需要
+      - name: Setup pnpm
         uses: pnpm/action-setup@v3
         with:
-          version: 8
-
+          version: 9
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: pnpm
-
-      - run: pnpm i && pnpm build2
-
-      - uses: actions/configure-pages@v5
-      
-      - uses: actions/upload-pages-artifact@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Install dependencies
+        run: pnpm install
+      - name: Build with VitePress
+        run: pnpm build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
           path: dist
-          
-      - name: Deploy
+
+  # 部署任务
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    name: Deploy
+    steps:
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
