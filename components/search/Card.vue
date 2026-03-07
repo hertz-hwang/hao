@@ -40,7 +40,7 @@ const unicode = computed(() => p.name.charCodeAt(0).toString(16).toUpperCase())
                 <a :href="'https://zi.tools/zi/' + uriText" target="_blank" rel="noreferrer" title="字统网查询">
                     <img :src=ZitongLogo alt="字统网" width="22" />
                 </a>
-                <a :href="'http://www.yedict.com/zscontent.asp?uni=' + unicode" target="_blank" rel="noreferrer"
+                <a :href="'https://www.yedict.com/zscontent.asp?uni=' + unicode" target="_blank" rel="noreferrer"
                     title="叶典网查询">
                     <img :src="YedianLogo" alt="叶典网" width="22" />
                 </a>

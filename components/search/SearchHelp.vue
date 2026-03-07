@@ -1,7 +1,7 @@
 <template>
     <!-- Open the modal using ID.showModal() method -->
     <button class="btn btn-ghost btn-sm text-slate-500 font-normal" onclick="my_modal_2.showModal()">
-        <svg xmlns="http://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 32 32">
+        <svg xmlns="https://www.w3.org/2000/svg" width="1.2em" height="1.2em" viewBox="0 0 32 32">
             <path fill="currentColor"
                 d="M16 2a14 14 0 1 0 14 14A14 14 0 0 0 16 2m0 26a12 12 0 1 1 12-12a12 12 0 0 1-12 12" />
             <circle cx="16" cy="23.5" r="1.5" fill="currentColor" />
@@ -21,7 +21,7 @@
                     字统网
                 </a>
                 、
-                <a href="http://yedict.com/" target="_blank" rel="noreferrer">
+                <a href="https://yedict.com/" target="_blank" rel="noreferrer">
                     叶典网
                 </a>
                 、
