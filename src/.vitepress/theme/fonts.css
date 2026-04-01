@@ -1,18 +1,18 @@
 
 @font-face {
     font-family: "Unyaa-codePUA";
-    src: url("/hao/Unyaa-codePUA.woff2") format("woff2");
+    src: url("/Unyaa-codePUA.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "TumanPUA";
-    src: url("/hao/TumanPUA.woff2") format("woff2");
+    src: url("/TumanPUA.woff2") format("woff2");
     font-display: swap;
 }
 
 @font-face {
     font-family: "ChaiPUA-0.2.7";
-    src: url("/hao/ChaiPUA-0.2.7.woff2") format("woff2");
+    src: url("/ChaiPUA-0.2.7.woff2") format("woff2");
     font-display: swap;
 }
 
