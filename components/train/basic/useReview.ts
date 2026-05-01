@@ -8,6 +8,7 @@ export function useReview<T>(name: string, cards: readonly T[]) {
 
     const emptyRecord = () => Array.from({ length: cards.length }, (_, i) => [-1, i] as Record)
     const storageRef = useLocalStorage<Record[]>(`yima_${name}_records`, emptyRecord)
+    const mistakesRef = useLocalStorage<number[]>(`yima_${name}_mistakes`, () => Array.from({ length: cards.length }, () => 0))
 
     const cardLength = cards.length
     if (storageRef.value.length < cardLength) {
@@ -16,6 +17,13 @@ export function useReview<T>(name: string, cards: readonly T[]) {
         }
     } else if (storageRef.value.length > cardLength) {
         storageRef.value = storageRef.value.filter(v => v[1] < cardLength)
+    }
+    if (mistakesRef.value.length < cardLength) {
+        for (let i = mistakesRef.value.length; i < cardLength; i++) {
+            mistakesRef.value.push(0)
+        }
+    } else if (mistakesRef.value.length > cardLength) {
+        mistakesRef.value = mistakesRef.value.slice(0, cardLength)
     }
 
     storageRef.value.sort((a, b) => {
@@ -46,6 +54,7 @@ export function useReview<T>(name: string, cards: readonly T[]) {
         if (!correct) {
             if (storageRef.value[0][0] > 1)
                 progress.value -= 1
+            mistakesRef.value[storageRef.value[0][1]] += 1
             storageRef.value[0][0] = -1
             isFirst.value = true
             return
@@ -75,5 +84,5 @@ export function useReview<T>(name: string, cards: readonly T[]) {
         card.value = cards[storageRef.value[0][1]]
         isFirst.value = storageRef.value[0][0] === -1
     }
-    return { progress, card, isFirst, restart, answer }
+    return { progress, card, isFirst, restart, answer, mistakes: mistakesRef }
 }

@@ -12,56 +12,11 @@ const p = defineProps<{
 }>()
 
 const zigenFontClass = inject('font') || 'outi-yima'
-const hasClass = inject<boolean>('hasClass') || false
-let cards = structuredClone(p.cards)
-if (hasClass) {
-    // 归类只有字根卡片会用到，所以可以强行转换类型
 
-    // ① 先提取出所有无归并的卡片
-    const mainCards: ZigenCard[] = []
-    const mainCardsMap = new Map<string, ZigenCard>()
-    const extraCards: ZigenCard[] = []
-    for (let i = 0; i < cards.length; i++) {
-        const c = cards[i] as unknown as ZigenCard;
-        c._idx = i
-        if (!c.class || (c.class === c.name)) {
-            mainCards.push(c)
-            mainCardsMap.set(c.name, c)
-        } else {
-            extraCards.push(c)
-        }
-    }
-
-    // ② 再把有归并的卡片并入 _classZigen 属性上去
-    let hasError = false
-    for (const c of extraCards) {
-        const mainCard = mainCardsMap.get(c.class!)
-        if (!mainCard) {
-            console.error(`字根${c.name}的归类是「${c.class}」，但没有找到这个字根`);
-            // 容错：仍旧把这个卡片加入
-            mainCards.push(c)
-            mainCardsMap.set(c.name, c)
-            hasError = true
-            continue;
-        }
-        if (mainCard._classZigen) {
-            mainCard._classZigen.push(c)
-        } else {
-            mainCard._classZigen = [c]
-        }
-    }
-    if (hasError) {
-        mainCards.sort((a, b) => a._idx! - b._idx!)
-    }
-    cards = mainCards
-}
-
-
-const { card, restart, answer, progress, isFirst } = useReview(p.id, cards)
+const { card, restart, answer, progress, isFirst } = useReview(p.id, p.cards)
 
 const isCorrect = shallowRef(true)
 const userKeys = shallowRef('')
-
 
 const focusInputElement = () => {
     const element = document.getElementById('input_el')
@@ -69,10 +24,6 @@ const focusInputElement = () => {
 }
 
 onMounted(() => {
-    // 处理归类
-    if (hasClass) {
-
-    }
     focusInputElement()
 })
 
@@ -107,7 +58,7 @@ watch(userKeys, (newKeys) => {
 </script>
 
 <template>
-    <CardLayout :progress :max="cards.length" :isCorrect :id @restart="cusRestart">
+    <CardLayout :progress :max="p.cards.length" :isCorrect :id @restart="cusRestart">
         <div class="flex flex-col md:flex-row justify-center items-center md:mb-8 mb-4">
             <div
                  :class="['md:text-6xl md:mr-3 text-4xl mr-0 align-middle animate__animated', zigenFontClass, { 'text-red-400': !isCorrect, 'animate__headShake': !isCorrect }]">
