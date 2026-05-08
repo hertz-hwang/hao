@@ -33,6 +33,8 @@ export interface HanziCard {
     comp?: string,
     /** 每个字根对应的按键（用于提示时以 ruby 形式展示） */
     rootKeys?: { zigen: string, key: string }[]
+    /** 该字的简码（比全码短的编码），用户敲简码+空格也算对 */
+    altKeys?: string[]
 }
 
 export type Card = ZigenCard | HanziCard

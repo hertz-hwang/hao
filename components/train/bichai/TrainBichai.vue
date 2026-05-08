@@ -25,13 +25,29 @@ watch(card, () => nextTick(() => document.getElementById('bichai_input')?.focus(
 
 watch(userKeys, (newKeys) => {
     if (!card.value) return
-    if (newKeys.includes(' ')) {
-        answer(false)
-        isCorrect.value = false
+    const expected = card.value.key ?? ''
+    const alts = card.value.altKeys ?? []
+    const spaceIdx = newKeys.indexOf(' ')
+    if (spaceIdx >= 0) {
+        const prefix = newKeys.slice(0, spaceIdx)
+        // 空格前为空：认输
+        if (!prefix) {
+            answer(false)
+            isCorrect.value = false
+            userKeys.value = ''
+            return
+        }
+        // 空格前匹配全码或任一简码：算对
+        if (prefix === expected || alts.includes(prefix)) {
+            answer(true)
+            isCorrect.value = true
+        } else {
+            answer(false)
+            isCorrect.value = false
+        }
         userKeys.value = ''
         return
     }
-    const expected = card.value.key ?? ''
     if (newKeys.length < expected.length) return
     if (newKeys === expected) {
         answer(true)
@@ -117,12 +133,20 @@ function handlePracticeAnswer(correct: boolean) {
 
 watch(mUserKeys, (newKeys) => {
     if (!practiceCard.value) return
-    if (newKeys.includes(' ')) {
-        handlePracticeAnswer(false)
+    const expected = practiceCard.value.key ?? ''
+    const alts = practiceCard.value.altKeys ?? []
+    const spaceIdx = newKeys.indexOf(' ')
+    if (spaceIdx >= 0) {
+        const prefix = newKeys.slice(0, spaceIdx)
+        if (!prefix) {
+            handlePracticeAnswer(false)
+            mUserKeys.value = ''
+            return
+        }
+        handlePracticeAnswer(prefix === expected || alts.includes(prefix))
         mUserKeys.value = ''
         return
     }
-    const expected = practiceCard.value.key ?? ''
     if (newKeys.length < expected.length) return
     handlePracticeAnswer(newKeys === expected)
     mUserKeys.value = ''
@@ -158,6 +182,9 @@ function clearMistakesConfirm() {
             </div>
             <div v-if="card" :class="['text-center', { 'opacity-0': isCorrect }]">答案是
                 <b class="font-mono">{{ card.key }}</b>
+                <span v-if="card.altKeys?.length" class="text-sm text-gray-500 ml-2">
+                    (简码 <b class="font-mono">{{ card.altKeys.join('/') }}</b> + 空格 亦可)
+                </span>
                 <span v-if="card.rootKeys?.length" :class="[zigenFontClass, 'tracking-widest opacity-80 ml-2']">
                     <ruby v-for="(rk, i) of card.rootKeys" :key="i" class="mr-1">
                         <span :class="{ 'round-bg': highlightStrokes?.has(rk.zigen) }">{{ rk.zigen }}</span>
@@ -196,6 +223,9 @@ function clearMistakesConfirm() {
             </div>
             <div :class="['text-center', { 'opacity-0': mIsCorrect }]">答案是
                 <b class="font-mono">{{ practiceCard?.key }}</b>
+                <span v-if="practiceCard?.altKeys?.length" class="text-sm text-gray-500 ml-2">
+                    (简码 <b class="font-mono">{{ practiceCard.altKeys.join('/') }}</b> + 空格 亦可)
+                </span>
                 <span v-if="practiceCard?.rootKeys?.length" :class="[zigenFontClass, 'tracking-widest opacity-80 ml-2']">
                     <ruby v-for="(rk, i) of practiceCard.rootKeys" :key="i" class="mr-1">
                         <span :class="{ 'round-bg': highlightStrokes?.has(rk.zigen) }">{{ rk.zigen }}</span>

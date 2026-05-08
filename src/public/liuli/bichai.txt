@@ -1,632 +1,685 @@
 字	拆分	全码	类型	末字根
-亲	亲	dkk	单根	
-元	元	rll	单根	
-火	火	xll	单根	
-黑	黑	gpp	单根	
-七	七	sjj	单根	
-广	广	fii	单根	
-专	专	mrr	单根	
-云	云	yvv	单根	
-母	母	shh	单根	
-巴	巴	sll	单根	
-革	革	uee	单根	
-音	音	hrr	单根	
-京	京	nll	单根	
-衣	衣	hii	单根	
-斗	斗	add	单根	
-居	居	dll	单根	
-句	句	nww	单根	
-木	木	yqq	单根	
-占	占	jxx	单根	
-玉	玉	jgg	单根	
-兄	兄	sgg	单根	
-角	角	tjj	单根	
-巨	巨	occ	单根	
-尚	尚	saa	单根	
-唐	唐	mff	单根	
-户	户	udd	单根	
-君	君	pdd	单根	
-鬼	鬼	jdd	单根	
-介	介	iee	单根	
-乡	乡	pcc	单根	
-肉	肉	euu	单根	
-虎	虎	ptt	单根	
-乃	乃	snn	单根	
-臣	臣	dnn	单根	
-谷	谷	laa	单根	
-予	予	ann	单根	
-麻	麻	avv	单根	
-凡	凡	idd	单根	
-厂	厂	lss	单根	
-丁	丁	naa	单根	
-骨	骨	uvv	单根	
-牙	牙	xhh	单根	
-甲	甲	daa	单根	
-曲	曲	nee	单根	
-申	申	knn	单根	
-丹	丹	kjj	单根	
-川	川	pvv	单根	
-乌	乌	ajj	单根	
-末	末	mkk	单根	
-麦	麦	nqq	单根	
-童	童	vss	单根	
-凶	凶	mzz	单根	
-页	页	mgg	单根	
-瓦	瓦	ijj	单根	
-鸟	鸟	ucc	单根	
-鼻	鼻	bff	单根	
-尸	尸	zkk	单根	
-羊	羊	ass	单根	
-虫	虫	hkk	单根	
-吕	吕	yoo	单根	
-辛	辛	vcc	单根	
-尺	尺	qii	单根	
-旦	旦	uww	单根	
-竹	竹	khh	单根	
-矛	矛	hcc	单根	
-井	井	cyy	单根	
-曰	曰	qll	单根	
-垂	垂	ryy	单根	
-氏	氏	oxx	单根	
-韦	韦	fyy	单根	
-册	册	tee	单根	
-夹	夹	ozz	单根	
-祭	祭	mee	单根	
-羽	羽	quu	单根	
-亏	亏	gii	单根	
-戈	戈	gww	单根	
-鼠	鼠	uzz	单根	
-豆	豆	xnn	单根	
-斤	斤	tnn	单根	
-寸	寸	off	单根	
-弓	弓	dzz	单根	
-欠	欠	kcc	单根	
-齿	齿	tww	单根	
-乙	乛	bmm	单根	
-瓜	瓜	vww	单根	
-穴	穴	kgg	单根	
-肖	肖	ugg	单根	
-舌	舌	jii	单根	
-卑	卑	rkk	单根	
-卜	卜	pgg	单根	
-鹿	鹿	doo	单根	
-夕	夕	qyy	单根	
-芒	芒	zjj	单根	
-爪	爪	chh	单根	
-卵	卵	ccc	单根	
-甫	甫	ahh	单根	
-辟	辟	wuu	单根	
-巾	巾	suu	单根	
-舟	舟	rgg	单根	
-辰	辰	pjj	单根	
-兔	兔	egg	单根	
-仑	仑	rmm	单根	
-丸	丸	ohh	单根	
-尹	尹	wnn	单根	
-犬	犬	roo	单根	
-妾	妾	xpp	单根	
-屯	屯	btt	单根	
-矢	矢	lvv	单根	
-乍	乍	uoo	单根	
-兀	兀	see	单根	
-歹	歹	nrr	单根	
-匕	匕	yss	单根	
-毋	毋	kll	单根	
-邑	邑	dvv	单根	
-夭	夭	foo	单根	
-冉	冉	mnn	单根	
-敖	敖	zvv	单根	
-酋	酋	hxx	单根	
-亥	亥	vpp	单根	
-巳	巳	eww	单根	
-戊	戊	qbb	单根	
-廿	廿	xjj	单根	
-娄	娄	zpp	单根	
-禾	禾	tuu	单根	
-壬	壬	fuu	单根	
-圭	圭	kaa	单根	
-聿	聿	jaa	单根	
-卤	卤	zhh	单根	
-囱	囱	zhh	单根	
-卯	卯	tpp	单根	
-奂	奂	yee	单根	
-酉	酉	fdd	单根	
-甬	甬	xdd	单根	
-皿	皿	yzz	单根	
-卅	卅	paa	单根	
-臼	臼	bqq	单根	
-弋	弋	wll	单根	
-幺	幺	cpp	单根	
-艮	艮	ixx	单根	
-刍	刍	jvv	单根	
-爻	爻	iqq	单根	
-舛	舛	ooo	单根	
-豕	豕	byy	单根	
-頁	頁	ldd	单根	
-曷	曷	bll	单根	
-囟	囟	zhh	单根	
-黾	黾	wii	单根	
-缶	缶	uqq	单根	
-殳	殳	fnn	单根	
-隹	隹	wff	单根	
-敫	敫	ree	单根	
-肀	肀	jaa	单根	
-但	亻 旦	iuw	二根	旦
-动	云 力	yso	二根	力
-什	亻 十	ieo	二根	十
-明	日 月	wjs	二根	月
-全	 王	gks	二根	王
-声	士 	nzk	二根	
-真	直 八	yay	二根	八
-政	正 攵	nvj	二根	攵
-打	扌 丁	vna	二根	丁
-再	一 冉	fmn	二根	冉
-名	夕 口	qpr	二根	口
-斯	其 斤	ktn	二根	斤
-便	亻 更	ipx	二根	更
-别	另 刂	wrj	二根	刂
-处	夂 卜	spg	二根	卜
-何	亻 可	iur	二根	可
-反	 又	lzn	二根	又
-认	讠 人	ssk	二根	人
-系	丿 糸	lcp	二根	糸
-难	又 隹	zof	二根	隹
-建	聿 廴	jtk	二根	廴
-决	冫 夬	wsf	二根	夬
-像	亻 象	iwp	二根	象
-住	亻 主	iau	二根	主
-即	 卩	ijf	二根	卩
-克	古 儿	odi	二根	儿
-觉	 见	jlw	二根	见
-社	礻 土	nck	二根	土
-连	车 辶	edf	二根	辶
-记	讠 己	sen	二根	己
-转	 专	emr	二根	专
-色	 巴	nsl	二根	巴
-界	田 介	tie	二根	介
-拉	扌 立	vjk	二根	立
-设	讠 殳	sfn	二根	殳
-每	 母	nsh	二根	母
-类	米 大	znf	二根	大
-格	木 各	yxc	二根	各
-令	今 丶	gms	二根	丶
-切	七 刀	sjz	二根	刀
-布	 巾	esu	二根	巾
-导	巳 寸	eof	二根	寸
-证	讠 正	snt	二根	正
-存	 子	alg	二根	子
-击	𰀁 凵	vmd	二根	凵
-青	龶 	bhz	二根	
-红	纟 工	liv	二根	工
-容	宀 谷	dla	二根	谷
-显	日 业	wej	二根	业
-众	 从	glc	二根	从
-写	冖 与	owe	二根	与
-级	纟 及	lvk	二根	及
-技	扌 支	voi	二根	支
-站	立 占	jjx	二根	占
-究	穴 九	ktq	二根	九
-况	冫 兄	wsg	二根	兄
-惊	忄 京	gnl	二根	京
-须	彡 页	cmg	二根	页
-息	自 心	cvi	二根	心
-研	石 开	rcm	二根	开
-际	阝 示	eth	二根	示
-企	 止	ghl	二根	止
-委	禾 女	tou	二根	女
-严	亚 丿	slb	二根	丿
-医	匚 矢	xlv	二根	矢
-拿	合 手	ncj	二根	手
-孩	子 亥	lvp	二根	亥
-依	亻 衣	ihi	二根	衣
-仍	亻 乃	isn	二根	乃
-护	扌 户	vud	二根	户
-节	艹 	qjf	二根	
-举	兴 	jvl	二根	
-冲	冫 中	wog	二根	中
-够	句 多	nds	二根	多
-苦	艹 古	qob	二根	古
-律	彳 聿	tja	二根	聿
-围	囗 韦	xfy	二根	韦
-独	犭 虫	rhk	二根	虫
-细	纟 田	lty	二根	田
-怕	忄 白	gdh	二根	白
-热	执 灬	oxl	二根	灬
-既	 旡	irh	二根	旡
-察	宀 祭	dme	二根	祭
-批	扌 比	vlq	二根	比
-脑	月 㐫	jmz	二根	㐫
-假	亻 叚	itj	二根	叚
-乐	 小	xig	二根	小
-暗	日 音	whr	二根	音
-状	丬 犬	hro	二根	犬
-网	冂 	oiq	二根	
-值	亻 直	iyd	二根	直
-承	氶 三	cps	二根	三
-职	耳 只	ulr	二根	只
-卫	 一	jfk	二根	一
-阳	阝 日	ewr	二根	日
-哈	口 合	pnv	二根	合
-球	王 求	kvu	二根	求
+成	{成三} {戈无一}	agw	难拆	{戈无一}
+湿	{温字框} 业	cej	二根	业
+涅	{温字框} 土	cck	二根	土
+混	{温字框} 比	clq	二根	比
+温	{温字框} 皿	cyz	二根	皿
+殷	㐆 殳	ffn	二根	殳
+离	㐫 禸	mtk	难拆	禸
+罕	㓁 干	iyc	二根	干
+敝	㡀 攵	fvj	二根	攵
 兰	䒑 二	rht	二根	二
-阵	阝 车	eep	二根	车
-激	氵 敫	mre	二根	敫
-银	钅 艮	aix	二根	艮
-省	少 目	vfm	二根	目
-排	扌 非	vyx	二根	非
-背	北 	ohz	二根	
-酒	氵 酉	mfd	二根	酉
-穿	穴 牙	kxh	二根	牙
-怀	忄 不	gke	二根	不
-欢	又 欠	zkc	二根	欠
-财	贝 才	qru	二根	才
-益	 皿	byz	二根	皿
-宝	宀 玉	djg	二根	玉
-赶	走 干	uyc	二根	干
-层	尸 云	zyv	二根	云
-源	氵 原	mde	二根	原
-纳	纟 内	lkq	二根	内
-岁	山 夕	bqy	二根	夕
-忙	忄 亡	glm	二根	亡
-喝	口 曷	pbl	二根	曷
-佛	亻 弗	icz	二根	弗
-室	宀 至	drn	二根	至
-妈	女 马	owm	二根	马
-姐	女 且	oaw	二根	且
-养	 	krj	二根	
-份	亻 分	idj	二根	分
-赵	走 乂	uqi	二根	乂
-肯	止 	hhz	二根	
-换	扌 奂	vye	二根	奂
-伊	亻 尹	iwn	二根	尹
-犯	犭 㔾	rjf	二根	㔾
-审	宀 申	dkn	二根	申
-沙	氵 少	mvm	二根	少
-宫	宀 吕	dyo	二根	吕
-魔	麻 鬼	ajd	二根	鬼
-永	丶 	mbk	二根	
-毫	 毛	cgo	二根	毛
-宋	宀 木	dyq	二根	木
-贵	 贝	hqh	二根	贝
-楼	木 娄	yzp	二根	娄
-亮	 几	ckx	二根	几
-互	一 彑	fzj	二根	彑
-升	丿 廾	lql	二根	廾
-抓	扌 爪	vch	二根	爪
-短	矢 豆	lxn	二根	豆
-洋	氵 羊	mas	二根	羊
-炮	火 包	xov	二根	包
-诸	讠 者	svn	二根	者
-松	木 公	ywh	二根	公
-幸	土 	cas	二根	
-评	讠 平	sih	二根	平
-朱	丿 未	let	二根	未
-县	且 厶	afi	二根	厶
-杂	九 朩	tyq	二根	朩
-雪	 彐	eqj	二根	彐
-仙	亻 山	ibn	二根	山
-咱	口 自	pcv	二根	自
-损	扌 员	vem	二根	员
-震	 辰	epj	二根	辰
-吴	口 天	pak	二根	天
-秦	 禾	utu	二根	禾
-序	广 予	fan	二根	予
-括	扌 舌	vji	二根	舌
-旅	 	ehi	二根	
-销	钅 肖	aug	二根	肖
-录	 氺	qbk	二根	氺
-玩	王 元	krl	二根	元
-炸	火 乍	xuo	二根	乍
-俄	亻 我	iwj	二根	我
-寒	 	ecd	二根	
-训	讠 川	spv	二根	川
-卷	龹 㔾	kjf	二根	㔾
-拥	扌 用	vuf	二根	用
-载	 	rep	二根	
-徒	彳 走	tus	二根	走
-伦	亻 仑	irm	二根	仑
-姓	女 生	onc	二根	生
-郑	关 阝	mer	二根	阝
-窗	穴 囱	kzh	二根	囱
-森	木 林	ygl	二根	林
-伙	亻 火	ixl	二根	火
-残	歹 戋	nti	二根	戋
-戏	又 戈	zgw	二根	戈
-套	大 镸	nis	二根	镸
-厉	厂 万	lai	二根	万
-扩	扌 广	vfi	二根	广
-街	行 圭	eka	二根	圭
-搞	扌 高	vci	二根	高
-罢	罒 去	dgk	二根	去
-访	讠 方	slj	二根	方
-础	石 出	rjw	二根	出
-拜	龵 	ccj	二根	
-抽	扌 由	vkv	二根	由
-柳	木 卯	ytp	二根	卯
-距	 巨	hoc	二根	巨
-轰	车 双	ezg	二根	双
-狗	犭 句	rnw	二根	句
-促	亻 足	ihb	二根	足
-乘	 北	tow	二根	北
-侠	亻 夹	ioz	二根	夹
-孤	子 瓜	lvw	二根	瓜
-培	土 咅	cia	二根	咅
-洗	氵 先	mae	二根	先
-汇	氵 匚	mxm	二根	匚
-洪	氵 共	mli	二根	共
-玄	亠 幺	wcp	二根	幺
-巧	工 丂	ibi	二根	丂
-摸	扌 莫	vqk	二根	莫
-奉	 	uvl	二根	
-孔	子 ⺃	lhu	二根	⺃
-汽	氵 气	mdm	二根	气
-吓	口 下	ptk	二根	下
-妖	女 夭	ofo	二根	夭
-课	讠 果	smv	二根	果
-莱	艹 来	qhe	二根	来
-隔	阝 鬲	egn	二根	鬲
-荒	芒 	zpv	二根	
-舍	 	gji	二根	
-旗	 其	ekt	二根	其
-牌	片 卑	hrk	二根	卑
-废	广 发	fsd	二根	发
-旋	 疋	eif	二根	疋
-幻	幺 乛	cbm	二根	乛
-伴	亻 半	ivq	二根	半
-捕	扌 甫	vah	二根	甫
-辆	 两	ejc	二根	两
-壮	丬 士	hnx	二根	士
-豪	 豕	cby	二根	豕
-鸡	又 鸟	zuc	二根	鸟
-疯	疒 风	wqm	二根	风
-丧	 	lhi	二根	
-冬	夂 	scd	二根	
-咬	口 交	pwa	二根	交
-撞	扌 童	vvs	二根	童
-伍	亻 五	iis	二根	五
-衡	行 	ekf	二根	
-帐	巾 长	szx	二根	长
-赤	土 	cxl	二根	
-扶	扌 夫	vxm	二根	夫
-乔	夭 	frj	二根	
-滑	氵 骨	muv	二根	骨
-彭	壴 彡	mcd	二根	彡
-污	氵 亏	mgi	二根	亏
-辞	舌 辛	jvc	二根	辛
-嘛	口 麻	pav	二根	麻
-躺	身 尚	fsa	二根	尚
-箱	 相	kxu	二根	相
-驱	马 区	wha	二根	区
-埋	土 里	cgh	二根	里
-涌	氵 甬	mxd	二根	甬
-乏	丿 之	lnd	二根	之
-皱	刍 皮	jzs	二根	皮
-恭	共 	lgi	二根	
-趋	走 刍	ujv	二根	刍
-磨	麻 石	ara	二根	石
-臂	辟 	whz	二根	
-慕	莫 	qgi	二根	
-卢	 尸	pzk	二根	尸
-宾	宀 兵	dco	二根	兵
-弯	 弓	vdz	二根	弓
-抚	扌 无	vri	二根	无
-挤	扌 齐	vey	二根	齐
-牢	宀 牛	drs	二根	牛
-敲	高 攴	cvj	二根	攴
-庞	广 龙	ftl	二根	龙
-抖	扌 斗	vad	二根	斗
-泉	白 水	dbk	二根	水
-晃	日 光	wyf	二根	光
-池	氵 也	mxi	二根	也
-恼	忄 㐫	gmz	二根	㐫
-纠	纟 丩	lmd	二根	丩
-鉴	 金	ulu	二根	金
-衰	 	hql	二根	
-卓	 早	pqf	二根	早
-誉	兴 言	jok	二根	言
-祸	礻 呙	nva	二根	呙
-押	扌 甲	vda	二根	甲
-渔	氵 鱼	mbi	二根	鱼
-丑	乛 	bck	二根	
-傲	亻 敖	izv	二根	敖
-吨	口 屯	pbt	二根	屯
-仓	 㔾	gjf	二根	㔾
-牺	牜 西	rxg	二根	西
-扁	户 	ute	二根	
-纹	纟 文	lhf	二根	文
-糖	米 唐	zmf	二根	唐
-疏	 㐬	ipw	二根	㐬
-串	吕 丨	ygp	二根	丨
-扇	户 羽	uqu	二根	羽
-歼	歹 千	njy	二根	千
-嘿	口 黑	pgp	二根	黑
-姊	女 	ocz	二根	
-隶	 	jwj	二根	
-耕	耒 井	ocy	二根	井
-绳	纟 黾	lwi	二根	黾
-甜	舌 甘	jyp	二根	甘
-吟	口 今	pgd	二根	今
-抹	扌 末	vmk	二根	末
-朕	月 关	jmw	二根	关
-胃	田 	thz	二根	
-拐	扌 另	vwv	二根	另
-姬	女 	oqn	二根	
-耸	从 耳	lua	二根	耳
-眠	目 民	fic	二根	民
-驳	马 爻	wiq	二根	爻
-陌	阝 百	epi	二根	百
-鼎	目 	fhw	二根	
-吏	 𘱌	aqi	二根	𘱌
-冤	冖 兔	oeg	二根	兔
-笨	 本	ktm	二根	本
-茅	艹 矛	qhc	二根	矛
-哑	口 亚	psz	二根	亚
+寿	 寸	bof	二根	寸
+邦	 阝	ber	二根	阝
 亨	 了	cld	二根	了
-兆	儿 	dwj	二根	
-龟	 	nzf	二根	
-茂	艹 戊	qqb	二根	戊
-匈	勹 凶	kmz	二根	凶
-裙	衤 君	npd	二根	君
-巷	共 巳	lew	二根	巳
-咸	戊 	qak	二根	
-衔	行 钅	eal	二根	钅
-辣	 束	vgu	二根	束
-窑	穴 缶	kuq	二根	缶
-巩	工 凡	iid	二根	凡
-斋	文 而	hui	二根	而
-呜	口 乌	paj	二根	乌
-厄	厂 㔾	ljf	二根	㔾
-衍	行 氵	eme	二根	氵
-肾	 	uhz	二根	
-珊	王 册	kte	二根	册
-堤	土 是	cje	二根	是
-梳	木 㐬	ypw	二根	㐬
-匙	是 匕	jys	二根	匕
-缅	纟 面	lsf	二根	面
-叱	口 	pys	二根	
-姥	女 老	opf	二根	老
-虐	虍 	pxz	二根	
-锤	钅 垂	ary	二根	垂
-眯	目 米	fzc	二根	米
-秉	 	tqj	二根	
+享	 子	clg	二根	子
+充	 儿	ydi	二根	儿
+弃	 廾	yql	二根	廾
+育	 	yhz	难拆	
+养	 	krj	二根	
+冒	 目	qfm	二根	目
+免	 儿	neg	难拆	儿
+卢	 尸	pzk	二根	尸
+卓	 早	pqf	二根	早
+贞	 贝	pqh	二根	贝
+印	 卩	xjf	二根	卩
+即	 卩	ijf	二根	卩
+既	 旡	irh	二根	旡
+卸	 卩	ujf	二根	卩
+反	 又	lzn	二根	又
+变	 又	vzn	难拆	又
+孪	 子	vlg	二根	子
+峦	 山	vbn	二根	山
+弯	 弓	vdz	二根	弓
+恋	 心	vvi	二根	心
+挛	 手	vcj	二根	手
+栾	 木	vyq	二根	木
+脔	 肉	veu	二根	肉
+蛮	 虫	vhk	二根	虫
+銮	 金	vlu	二根	金
+鸾	 鸟	vuc	二根	鸟
+卮	 㔾	cjf	二根	㔾
+后	 口	cpr	难拆	口
+向	 口	dpr	难拆	口
+告	 口	rpr	难拆	口
+丧	 	lhi	二根	
+在	 土	ack	难拆	土
+存	 子	alg	二根	子
+眉	 目	zfm	二根	目
+壶	 业	gej	二根	业
+壳	 几	gkx	二根	几
+壹	 豆	gxn	二根	豆
+妻	 女	jou	二根	女
+塞	 土	eck	难拆	土
+搴	 手	ecj	二根	手
+寨	 朩	eyq	二根	朩
+褰	 衣	ehi	二根	衣
+謇	 言	eok	二根	言
+赛	 贝	eqh	二根	贝
+蹇	 足	ehb	二根	足
+骞	 马	ewm	二根	马
+寒	 	ecd	二根	
+当	 彐	iqj	难拆	彐
+尧	 兀	gse	二根	兀
+羌	 ⺃	ahu	二根	⺃
+差	 工	aiv	二根	工
+羯	 曷	abl	二根	曷
+着	 目	afm	难拆	目
+翔	 羽	aqu	二根	羽
+夷	 弓	ndz	二根	弓
+帅	 巾	rsu	二根	巾
+归	 彐	rqj	难拆	彐
+延	 廴	itk	二根	廴
+來	 从	ylc	二根	从
+惠	 心	bvi	难拆	心
+凸	 一	sfk	二根	一
+凹	 一	ofk	二根	一
+兕	 兀	ose	二根	兀
+奏	 天	uak	二根	天
+春	 日	uwr	难拆	日
+泰	 氺	ubk	二根	氺
+秦	 禾	utu	二根	禾
+舂	 臼	ubq	二根	臼
+奉	 	uvl	二根	
+丈	 丶	ems	二根	丶
+右	 口	epr	二根	口
+左	 工	eiv	二根	工
+布	 巾	esu	二根	巾
+灰	 火	exl	二根	火
+有	 	ehz	难拆	
+段	 殳	xfn	难拆	殳
+乞	 乛	nbm	二根	乛
+午	 十	neo	二根	十
+每	 母	nsh	二根	母
+年	 	ngh	难拆	
+顷	 页	ymg	二根	页
+炙	 火	mxl	二根	火
+疏	 㐬	ipw	二根	㐬
+美	 大	anf	难拆	大
+姜	 女	aou	二根	女
+恙	 心	avi	二根	心
+羔	 灬	axl	二根	灬
+盖	 皿	ayz	二根	皿
+笮	 乍	kuo	二根	乍
+竺	 二	kht	二根	二
+箕	 其	kkt	二根	其
+笈	 及	kvk	二根	及
+笱	 句	knw	二根	句
+答	 合	knv	难拆	合
+笑	 夭	kfo	难拆	夭
+篓	 娄	kzp	二根	娄
+笋	 尹	kwn	二根	尹
+笆	 巴	ksl	二根	巴
+竿	 干	kyc	二根	干
+笄	 开	kcm	二根	开
+笺	 戋	kti	二根	戋
+笪	 旦	kuw	二根	旦
+笨	 本	ktm	二根	本
+笔	 毛	kgo	二根	毛
+笊	 爪	kch	二根	爪
+笙	 生	knc	二根	生
+笛	 由	kkv	二根	由
+箱	 相	kxu	二根	相
+笠	 立	kjk	二根	立
+箸	 者	kvn	二根	者
+笕	 见	klw	二根	见
+笃	 马	kwm	二根	马
+篙	 高	kci	二根	高
+笼	 龙	ktl	二根	龙
+笫	 	kcz	二根	
+孛	 子	glg	二根	子
+索	 糸	gcp	难拆	糸
 膏	 	chz	二根	
-匀	勹 冫	kwj	二根	冫
+臧	 臣	qdn	二根	臣
+舞	 舛	boo	难拆	舛
+卫	 一	jfk	二根	一
+监	 皿	uyz	难拆	皿
+览	 见	ulw	二根	见
+鉴	 金	ulu	二根	金
+尔	 小	nig	难拆	小
+色	 巴	nsl	二根	巴
+负	 贝	nqh	难拆	贝
+争	 	nja	难拆	
+龟	 	nzf	二根	
+贵	 贝	hqh	二根	贝
+党	 儿	sdi	二根	儿
+堂	 土	sck	二根	土
+常	 巾	ssu	难拆	巾
+掌	 手	scj	二根	手
+棠	 木	syq	二根	木
+裳	 衣	shi	二根	衣
+赏	 贝	sqh	二根	贝
+跤	 交	hwa	二根	交
+跣	 先	hae	二根	先
+趴	 八	hay	二根	八
+跚	 册	hte	二根	册
+跑	 包	hov	难拆	包
+趿	 及	hvk	二根	及
+路	 各	hxc	难拆	各
+跬	 圭	hka	二根	圭
+趺	 夫	hxm	二根	夫
+跃	 夭	hfo	二根	夭
+踞	 居	hdl	二根	居
+距	 巨	hoc	二根	巨
+践	 戋	hti	二根	戋
+踝	 果	hmv	二根	果
+趾	 止	hhl	二根	止
+踊	 甬	hxd	二根	甬
+跛	 皮	hzs	二根	皮
+跖	 石	hra	二根	石
+跟	 艮	hix	难拆	艮
+跻	 齐	hey	二根	齐
+轧	 ⺃	ehu	二根	⺃
+转	 专	emr	二根	专
+辆	 两	ejc	二根	两
+轨	 九	etq	二根	九
+较	 交	ewa	难拆	交
+轮	 仑	erm	二根	仑
+轱	 古	eob	二根	古
+轲	 可	eur	二根	可
+轩	 干	eyc	二根	干
+斩	 斤	etn	二根	斤
+软	 欠	ekc	二根	欠
+辅	 甫	eah	二根	甫
+轴	 由	ekv	二根	由
+辘	 鹿	edo	二根	鹿
+辣	 束	vgu	二根	束
+阜	 十	ueo	二根	十
+追	 辶	udf	难拆	辶
+那	 阝	rer	难拆	阝
+雲	 云	eyv	二根	云
+雹	 包	eov	二根	包
+霞	 叚	etj	二根	叚
+霎	 妾	exp	二根	妾
+雪	 彐	eqj	二根	彐
+雯	 文	ehf	二根	文
+雱	 方	elj	二根	方
+霖	 林	egl	二根	林
+雷	 田	ety	二根	田
+霜	 相	exu	二根	相
+需	 而	eui	难拆	而
+霄	 肖	eug	二根	肖
+霹	 辟	ewu	二根	辟
+震	 辰	epj	二根	辰
+霍	 隹	ewf	二根	隹
+霏	 非	eyx	二根	非
+霁	 齐	eey	二根	齐
+颐	 页	qmg	二根	页
+凤	 又	kzn	二根	又
+夙	 歹	knr	二根	歹
+凫	 几	ukx	二根	几
+岛	 山	ubn	难拆	山
+枭	 木	uyq	二根	木
+袅	 衣	uhi	二根	衣
+勿	 丿	jlb	二根	丿
+隶	 	jwj	二根	
+典	 八	nay	二根	八
+曳	 丿	zlb	二根	丿
+丘	 一	tfk	二根	一
+乐	 小	xig	二根	小
+东	 小	sig	难拆	小
+具	 八	aay	难拆	八
+久	 丶	nms	难拆	丶
+录	 氺	qbk	二根	氺
+央	 大	onf	难拆	大
+仓	 㔾	gjf	二根	㔾
+个	 丨	ggp	难拆	丨
+会	 云	gyv	难拆	云
+众	 从	glc	二根	从
+企	 止	ghl	二根	止
+全	 王	gks	二根	王
+佘	 示	gth	二根	示
+舍	 	gji	二根	
+余	 	gtu	难拆	
+州	 川	ppv	难拆	川
+乘	 北	tow	二根	北
+秉	 	tqj	二根	
+以	 人	ysk	难拆	人
+事	 	aja	难拆	
+吏	 𘱌	aqi	二根	𘱌
+亭	 丁	cna	二根	丁
+亮	 几	ckx	二根	几
+毫	 毛	cgo	二根	毛
+豪	 豕	cby	二根	豕
+衷	 中	hog	二根	中
+衮	 公	hwh	二根	公
+哀	 口	hpr	二根	口
+亵	 执	hor	二根	执
+裹	 果	hmv	难拆	果
+袤	 矛	hhc	二根	矛
+衰	 	hql	二根	
+攸	 攵	hvj	二根	攵
+学	 子	jlg	难拆	子
+泶	 水	jbk	二根	水
+觉	 见	jlw	二根	见
+鲎	 鱼	jbi	二根	鱼
+范	 㔾	bjf	难拆	㔾
+菹	 且	baw	二根	且
+茫	 亡	blm	二根	亡
+菏	 可	bur	二根	可
+落	 各	bxc	难拆	各
+莎	 少	bvm	二根	少
+萍	 平	bih	二根	平
+蒲	 甫	bah	二根	甫
+菠	 皮	bzs	二根	皮
+旒	 㐬	epw	二根	㐬
+旃	 丹	ekj	二根	丹
+施	 也	exi	难拆	也
+旗	 其	ekt	二根	其
+旄	 毛	ego	二根	毛
+旌	 生	enc	二根	生
+旋	 疋	eif	二根	疋
+族	 矢	elv	二根	矢
+旅	 	ehi	二根	
+嬴	 女	you	二根	女
+羸	 羊	yas	二根	羊
+赢	 贝	yqh	二根	贝
+麒	 其	dkt	二根	其
+度	 又	fzn	难拆	又
+庹	 尺	fqi	二根	尺
+席	 巾	fsu	难拆	巾
+庶	 灬	fxl	二根	灬
+受	 又	xzn	难拆	又
+爱	 友	xam	难拆	友
+舜	 舛	xoo	二根	舛
+留	 田	tty	难拆	田
+贸	 贝	tqh	二根	贝
+益	 皿	byz	二根	皿
+劳	 力	bso	难拆	力
+营	 吕	byo	难拆	吕
+茔	 土	bck	二根	土
+荣	 木	byq	二根	木
+荥	 水	bbk	二根	水
+荧	 火	bxl	二根	火
+莹	 玉	bjg	二根	玉
+萦	 糸	bcp	二根	糸
+萤	 虫	bhk	二根	虫
+荤	 车	bep	二根	车
+莺	 鸟	buc	二根	鸟
+東	 	aig	二根	
+坚	 土	uck	二根	土
+竖	 立	ujk	二根	立
+紧	 糸	ucp	二根	糸
+贤	 贝	uqh	二根	贝
+肾	 	uhz	二根	
+哉	 口	rpr	二根	口
+栽	 木	ryq	二根	木
+裁	 衣	rhi	二根	衣
+截	 隹	rwf	二根	隹
+载	 	rep	二根	
+丢	𡈼 厶	ffi	二根	厶
+重	𡈼 旦	fuw	难拆	旦
+击	𰀁 凵	vmd	二根	凵
+孔	子 ⺃	lhu	二根	⺃
+恼	忄 㐫	gmz	二根	㐫
+脑	月 㐫	jmz	二根	㐫
+梳	木 㐬	ypw	二根	㐬
+流	氵 㐬	mpw	难拆	㐬
 琉	王 㐬	kpw	二根	㐬
 硫	石 㐬	rpw	二根	㐬
-僻	亻 辟	iwu	二根	辟
-宦	宀 臣	ddn	二根	臣
-戎	戈 	geo	二根	
-铲	钅 产	awd	二根	产
-霎	 妾	exp	二根	妾
-尧	 兀	gse	二根	兀
-绽	纟 定	lot	二根	定
-靴	革 化	ujr	二根	化
-柬	束 丷	ghd	二根	丷
-唬	口 虎	ppt	二根	虎
-锯	钅 居	adl	二根	居
-汰	氵 太	mal	二根	太
-皂	白 七	dsj	二根	七
-禺	日 	wtk	二根	
-舜	 舛	xoo	二根	舛
-恤	忄 血	gcu	二根	血
-奄	大 电	nzf	二根	电
-亵	 执	hor	二根	执
-坍	土 丹	ckj	二根	丹
-胥	疋 	ihz	二根	
-釜	父 	hlu	二根	
-麓	林 鹿	gdo	二根	鹿
-瓮	公 瓦	wij	二根	瓦
-妊	女 壬	ofu	二根	壬
-扈	户 邑	udv	二根	邑
-憬	忄 景	guk	二根	景
-蚌	虫 丰	hbp	二根	丰
-泗	氵 四	mdd	二根	四
-夙	 歹	knr	二根	歹
-疵	疒 此	wvo	二根	此
-舀	爫 臼	cbq	二根	臼
-胄	由 	khz	二根	
-蛐	虫 曲	hne	二根	曲
-疟	疒 	wxz	二根	
-舐	舌 氏	jox	二根	氏
-啮	口 齿	ptw	二根	齿
-扪	扌 门	vzi	二根	门
-纨	纟 丸	loh	二根	丸
-忝	天 	agi	二根	
-飧	夕 食	qnn	二根	食
-肓	亡 	lhz	二根	
-馗	九 首	tfq	二根	首
-汩	氵 曰	mql	二根	曰
-佥	亼 	ajp	二根	
-钺	钅 戉	aqb	二根	戉
-笫	 	kcz	二根	
-缂	纟 革	lue	二根	革
-芗	艹 乡	qpc	二根	乡
-桁	木 行	yef	二根	行
-诔	讠 耒	soa	二根	耒
-擤	扌 鼻	vbf	二根	鼻
-卮	 㔾	cjf	二根	㔾
-氘	气 	drj	二根	
-東	 	aig	二根	
-疖	疒 	wjf	二根	
-榇	木 亲	ydk	二根	亲
-亓	一 丌	fse	二根	丌
-龀	齿 	tys	二根	
-脔	 肉	veu	二根	肉
-旒	 㐬	epw	二根	㐬
-庹	 尺	fqi	二根	尺
-在	 土	ack	难拆	土
-有	 	ehz	难拆	
-个	 丨	ggp	难拆	丨
-以	 人	ysk	难拆	人
-那	 阝	rer	难拆	阝
-着	 目	afm	难拆	目
-会	 云	gyv	难拆	云
-于	一 	feo	难拆	
-年	 	ngh	难拆	
-后	 口	cpr	难拆	口
-事	 	aja	难拆	
-成	{成三} {戈无一}	agw	难拆	{戈无一}
-当	 彐	iqj	难拆	彐
-同	冂 	oak	难拆	
-学	 子	jlg	难拆	子
-向	 口	dpr	难拆	口
-重	𡈼 旦	fuw	难拆	旦
-应	广 	fjp	难拆	
-美	 大	anf	难拆	大
-东	 小	sig	难拆	小
-表	龶 	bhi	难拆	
-常	 巾	ssu	难拆	巾
-变	 又	vzn	难拆	又
-笑	 夭	kfo	难拆	夭
-度	 又	fzn	难拆	又
-受	 又	xzn	难拆	又
-义	丶 𘱌	mqi	难拆	𘱌
-尔	 小	nig	难拆	小
-司	乛 	bak	难拆	
-展	尸 	zkd	难拆	
-路	 各	hxc	难拆	各
-告	 口	rpr	难拆	口
-步	止 	hhl	难拆	
-办	力 	say	难拆	
-争	 	nja	难拆	
-离	㐫 禸	mtk	难拆	禸
-流	氵 㐬	mpw	难拆	㐬
+厄	厂 㔾	ljf	二根	㔾
+犯	犭 㔾	rjf	二根	㔾
+卷	龹 㔾	kjf	二根	㔾
 官	宀 㠯	duv	难拆	㠯
-爱	 友	xam	难拆	友
-跟	 艮	hix	难拆	艮
-需	 而	eui	难拆	而
-具	 八	aay	难拆	八
-落	 各	bxc	难拆	各
+打	扌 丁	vna	二根	丁
+巧	工 丂	ibi	二根	丂
+皂	白 七	dsj	二根	七
+厉	厂 万	lai	二根	万
+承	氶 三	cps	二根	三
+吓	口 下	ptk	二根	下
+亓	一 丌	fse	二根	丌
+怀	忄 不	gke	二根	不
+写	冖 与	owe	二根	与
+姐	女 且	oaw	二根	且
+显	日 业	wej	二根	业
+串	吕 丨	ygp	二根	丨
+纠	纟 丩	lmd	二根	丩
+冲	冫 中	wog	二根	中
+蚌	虫 丰	hbp	二根	丰
+令	今 丶	gms	二根	丶
+柬	束 丷	ghd	二根	丷
+纨	纟 丸	loh	二根	丸
+坍	土 丹	ckj	二根	丹
+住	亻 主	iau	二根	主
+严	亚 丿	slb	二根	丿
+赵	走 乂	uqi	二根	乂
+仍	亻 乃	isn	二根	乃
+乏	丿 之	lnd	二根	之
+呜	口 乌	paj	二根	乌
+炸	火 乍	xuo	二根	乍
+幻	幺 乛	cbm	二根	乛
+究	穴 九	ktq	二根	九
+池	氵 也	mxi	二根	也
+芗	艹 乡	qpc	二根	乡
+序	广 予	fan	二根	予
+污	氵 亏	mgi	二根	亏
+层	尸 云	zyv	二根	云
+伍	亻 五	iis	二根	五
+耕	耒 井	ocy	二根	井
+哑	口 亚	psz	二根	亚
+忙	忄 亡	glm	二根	亡
+咬	口 交	pwa	二根	交
+孩	子 亥	lvp	二根	亥
+铲	钅 产	awd	二根	产
+惊	忄 京	gnl	二根	京
+榇	木 亲	ydk	二根	亲
+认	讠 人	ssk	二根	人
+吟	口 今	pgd	二根	今
+界	田 介	tie	二根	介
+伦	亻 仑	irm	二根	仑
+克	古 儿	odi	二根	儿
+玩	王 元	krl	二根	元
+况	冫 兄	wsg	二根	兄
+洗	氵 先	mae	二根	先
+晃	日 光	wyf	二根	光
+冤	冖 兔	oeg	二根	兔
+真	直 八	yay	二根	八
+松	木 公	ywh	二根	公
+洪	氵 共	mli	二根	共
+朕	月 关	jmw	二根	关
+宾	宀 兵	dco	二根	兵
+纳	纟 内	lkq	二根	内
+再	一 冉	fmn	二根	冉
+珊	王 册	kte	二根	册
+匀	勹 冫	kwj	二根	冫
+巩	工 凡	iid	二根	凡
+匈	勹 凶	kmz	二根	凶
+础	石 出	rjw	二根	出
+切	七 刀	sjz	二根	刀
+别	另 刂	wrj	二根	刂
+份	亻 分	idj	二根	分
+趋	走 刍	ujv	二根	刍
+动	云 力	yso	二根	力
+炮	火 包	xov	二根	包
+匙	是 匕	jys	二根	匕
+靴	革 化	ujr	二根	化
+汇	氵 匚	mxm	二根	匚
+驱	马 区	wha	二根	区
+什	亻 十	ieo	二根	十
+歼	歹 千	njy	二根	千
+卅	卅	paa	单根	
+伴	亻 半	ivq	二根	半
+牌	片 卑	hrk	二根	卑
+处	夂 卜	spg	二根	卜
+站	立 占	jjx	二根	占
+卤	卤	zhh	单根	
+柳	木 卯	ytp	二根	卯
+卵	卵	ccc	单根	
+厂	厂	lss	单根	
+源	氵 原	mde	二根	原
+县	且 厶	afi	二根	厶
+罢	罒 去	dgk	二根	去
+级	纟 及	lvk	二根	及
+轰	车 双	ezg	二根	双
+废	广 发	fsd	二根	发
+假	亻 叚	itj	二根	叚
+名	夕 口	qpr	二根	口
+苦	艹 古	qob	二根	古
+狗	犭 句	rnw	二根	句
+拐	扌 另	vwv	二根	另
+职	耳 只	ulr	二根	只
+何	亻 可	iur	二根	可
+格	木 各	yxc	二根	各
+哈	口 合	pnv	二根	合
+宫	宀 吕	dyo	二根	吕
+裙	衤 君	npd	二根	君
+损	扌 员	vem	二根	员
+祸	礻 呙	nva	二根	呙
+培	土 咅	cia	二根	咅
+糖	米 唐	zmf	二根	唐
+泗	氵 四	mdd	二根	四
+囟	囟	zhh	单根	
+窗	穴 囱	kzh	二根	囱
+社	礻 土	nck	二根	土
+街	行 圭	eka	二根	圭
+锤	钅 垂	ary	二根	垂
+壮	丬 士	hnx	二根	士
+妊	女 壬	ofu	二根	壬
+岁	山 夕	bqy	二根	夕
+够	句 多	nds	二根	多
+类	米 大	znf	二根	大
+吴	口 天	pak	二根	天
+汰	氵 太	mal	二根	太
+扶	扌 夫	vxm	二根	夫
+决	冫 夬	wsf	二根	夬
+妖	女 夭	ofo	二根	夭
+侠	亻 夹	ioz	二根	夹
+换	扌 奂	vye	二根	奂
+委	禾 女	tou	二根	女
+楼	木 娄	yzp	二根	娄
+绽	纟 定	lot	二根	定
+导	巳 寸	eof	二根	寸
+沙	氵 少	mvm	二根	少
+躺	身 尚	fsa	二根	尚
+伊	亻 尹	iwn	二根	尹
+锯	钅 居	adl	二根	居
+吨	口 屯	pbt	二根	屯
+仙	亻 山	ibn	二根	山
+训	讠 川	spv	二根	川
+红	纟 工	liv	二根	工
+记	讠 己	sen	二根	己
+巷	共 巳	lew	二根	巳
+赶	走 干	uyc	二根	干
+评	讠 平	sih	二根	平
+玄	亠 幺	wcp	二根	幺
+扩	扌 广	vfi	二根	广
+建	聿 廴	jtk	二根	廴
+升	丿 廾	lql	二根	廾
+廿	廿	xjj	单根	
+研	石 开	rcm	二根	开
+弋	弋	wll	单根	
+佛	亻 弗	icz	二根	弗
+互	一 彑	fzj	二根	彑
+彭	壴 彡	mcd	二根	彡
+息	自 心	cvi	二根	心
+戏	又 戈	zgw	二根	戈
+钺	钅 戉	aqb	二根	戉
+茂	艹 戊	qqb	二根	戊
+残	歹 戋	nti	二根	戋
+俄	亻 我	iwj	二根	我
+护	扌 户	vud	二根	户
+拿	合 手	ncj	二根	手
+财	贝 才	qru	二根	才
+技	扌 支	voi	二根	支
+敲	高 攴	cvj	二根	攴
+政	正 攵	nvj	二根	攵
+傲	亻 敖	izv	二根	敖
+激	氵 敫	mre	二根	敫
+纹	纟 文	lhf	二根	文
+抖	扌 斗	vad	二根	斗
+斯	其 斤	ktn	二根	斤
+访	讠 方	slj	二根	方
+抚	扌 无	vri	二根	无
+阳	阝 日	ewr	二根	日
+但	亻 旦	iuw	二根	旦
+堤	土 是	cje	二根	是
+憬	忄 景	guk	二根	景
+汩	氵 曰	mql	二根	曰
+蛐	虫 曲	hne	二根	曲
+便	亻 更	ipx	二根	更
+喝	口 曷	pbl	二根	曷
+明	日 月	wjs	二根	月
+宋	宀 木	dyq	二根	木
+杂	九 朩	tyq	二根	朩
+朱	丿 未	let	二根	未
+抹	扌 末	vmk	二根	末
+莱	艹 来	qhe	二根	来
+森	木 林	ygl	二根	林
+课	讠 果	smv	二根	果
+欢	又 欠	zkc	二根	欠
+证	讠 正	snt	二根	正
+疵	疒 此	wvo	二根	此
+设	讠 殳	sfn	二根	殳
+毋	毋	kll	单根	
+批	扌 比	vlq	二根	比
+舐	舌 氏	jox	二根	氏
+眠	目 民	fic	二根	民
+汽	氵 气	mdm	二根	气
+泉	白 水	dbk	二根	水
+衍	行 氵	eme	二根	氵
+球	王 求	kvu	二根	求
+伙	亻 火	ixl	二根	火
+热	执 灬	oxl	二根	灬
+抓	扌 爪	vch	二根	爪
+驳	马 爻	wiq	二根	爻
+穿	穴 牙	kxh	二根	牙
+牢	宀 牛	drs	二根	牛
+状	丬 犬	hro	二根	犬
+宝	宀 玉	djg	二根	玉
+孤	子 瓜	lvw	二根	瓜
+瓮	公 瓦	wij	二根	瓦
+甜	舌 甘	jyp	二根	甘
+姓	女 生	onc	二根	生
+拥	扌 用	vuf	二根	用
+捕	扌 甫	vah	二根	甫
+涌	氵 甬	mxd	二根	甬
+细	纟 田	lty	二根	田
+抽	扌 由	vkv	二根	由
+押	扌 甲	vda	二根	甲
+审	宀 申	dkn	二根	申
+奄	大 电	nzf	二根	电
+怕	忄 白	gdh	二根	白
+陌	阝 百	epi	二根	百
+皱	刍 皮	jzs	二根	皮
+省	少 目	vfm	二根	目
+值	亻 直	iyd	二根	直
+茅	艹 矛	qhc	二根	矛
+医	匚 矢	xlv	二根	矢
+磨	麻 石	ara	二根	石
+际	阝 示	eth	二根	示
+察	宀 祭	dme	二根	祭
+穴	穴	kgg	单根	
+拉	扌 立	vjk	二根	立
+撞	扌 童	vvs	二根	童
+竹	竹	khh	单根	
+眯	目 米	fzc	二根	米
+系	丿 糸	lcp	二根	糸
+窑	穴 缶	kuq	二根	缶
+洋	氵 羊	mas	二根	羊
+扇	户 羽	uqu	二根	羽
+姥	女 老	opf	二根	老
+诸	讠 者	svn	二根	者
+斋	文 而	hui	二根	而
+诔	讠 耒	soa	二根	耒
+耸	从 耳	lua	二根	耳
+律	彳 聿	tja	二根	聿
+肀	肀	jaa	单根	
+销	钅 肖	aug	二根	肖
+宦	宀 臣	ddn	二根	臣
+咱	口 自	pcv	二根	自
+室	宀 至	drn	二根	至
+舀	爫 臼	cbq	二根	臼
+括	扌 舌	vji	二根	舌
+舟	舟	rgg	单根	
+银	钅 艮	aix	二根	艮
+芒	芒	zjj	单根	
+摸	扌 莫	vqk	二根	莫
+唬	口 虎	ppt	二根	虎
+独	犭 虫	rhk	二根	虫
+恤	忄 血	gcu	二根	血
+桁	木 行	yef	二根	行
+依	亻 衣	ihi	二根	衣
+牺	牜 西	rxg	二根	西
+角	角	tjj	单根	
+誉	兴 言	jok	二根	言
+容	宀 谷	dla	二根	谷
+短	矢 豆	lxn	二根	豆
+像	亻 象	iwp	二根	象
+徒	彳 走	tus	二根	走
+促	亻 足	ihb	二根	足
+阵	阝 车	eep	二根	车
+辞	舌 辛	jvc	二根	辛
+僻	亻 辟	iwu	二根	辟
+连	车 辶	edf	二根	辶
+扈	户 邑	udv	二根	邑
+酒	氵 酉	mfd	二根	酉
+酋	酋	hxx	单根	
+埋	土 里	cgh	二根	里
+衔	行 钅	eal	二根	钅
+套	大 镸	nis	二根	镸
+帐	巾 长	szx	二根	长
+扪	扌 门	vzi	二根	门
+郑	关 阝	mer	二根	阝
+难	又 隹	zof	二根	隹
+排	扌 非	vyx	二根	非
+缅	纟 面	lsf	二根	面
+缂	纟 革	lue	二根	革
+围	囗 韦	xfy	二根	韦
+暗	日 音	whr	二根	音
+頁	頁	ldd	单根	
+须	彡 页	cmg	二根	页
+疯	疒 风	wqm	二根	风
+飧	夕 食	qnn	二根	食
+馗	九 首	tfq	二根	首
+妈	女 马	owm	二根	马
+滑	氵 骨	muv	二根	骨
+搞	扌 高	vci	二根	高
+隔	阝 鬲	egn	二根	鬲
+魔	麻 鬼	ajd	二根	鬼
+渔	氵 鱼	mbi	二根	鱼
+鸡	又 鸟	zuc	二根	鸟
+麓	林 鹿	gdo	二根	鹿
+麦	麦	nqq	单根	
+嘛	口 麻	pav	二根	麻
+嘿	口 黑	pgp	二根	黑
+绳	纟 黾	lwi	二根	黾
+鼠	鼠	uzz	单根	
+擤	扌 鼻	vbf	二根	鼻
+挤	扌 齐	vey	二根	齐
+啮	口 齿	ptw	二根	齿
+庞	广 龙	ftl	二根	龙
+举	兴 	jvl	二根	
+禺	日 	wtk	二根	
+冬	夂 	scd	二根	
 尽	尺 	qcd	难拆	
-史	口 𘱌	pqi	难拆	𘱌
-留	 田	tty	难拆	田
-农	冖 	ohi	难拆	
-营	 吕	byo	难拆	吕
-乎	乊 	ceo	难拆	
-答	 合	knv	难拆	合
-较	 交	ewa	难拆	交
-施	 也	exi	难拆	也
-段	 殳	xfn	难拆	殳
-久	 丶	nms	难拆	丶
-追	 辶	udf	难拆	辶
-育	 	yhz	难拆	
-负	 贝	nqh	难拆	贝
-劳	 力	bso	难拆	力
-范	 㔾	bjf	难拆	㔾
-州	 川	ppv	难拆	川
-余	 	gtu	难拆	
-跑	 包	hov	难拆	包
-免	 儿	neg	难拆	儿
-索	 糸	gcp	难拆	糸
-岛	 山	ubn	难拆	山
-监	 皿	uyz	难拆	皿
-归	 彐	rqj	难拆	彐
-春	 日	uwr	难拆	日
+叱	口 	pys	二根	
+龀	齿 	tys	二根	
+幸	土 	cas	二根	
+声	士 	nzk	二根	
+姊	女 	ocz	二根	
+展	尸 	zkd	难拆	
+佥	亼 	ajp	二根	
+应	广 	fjp	难拆	
+恭	共 	lgi	二根	
+忝	天 	agi	二根	
+慕	莫 	qgi	二根	
+扁	户 	ute	二根	
+永	丶 	mbk	二根	
+拜	龵 	ccj	二根	
+戎	戈 	geo	二根	
+步	止 	hhl	难拆	
+荒	芒 	zpv	二根	
 爷	父 	hjf	难拆	
-央	 大	onf	难拆	大
-席	 巾	fsu	难拆	巾
-塞	 土	eck	难拆	土
-舞	 舛	boo	难拆	舛
+疖	疒 	wjf	二根	
+节	艹 	qjf	二根	
+疟	疒 	wxz	二根	
+虐	虍 	pxz	二根	
+农	冖 	ohi	难拆	
+表	龶 	bhi	难拆	
+釜	父 	hlu	二根	
+肓	亡 	lhz	二根	
+背	北 	ohz	二根	
 肩	户 	uhz	难拆	
-惠	 心	bvi	难拆	心
-裹	 果	hmv	难拆	果
+肯	止 	hhz	二根	
+胃	田 	thz	二根	
+胄	由 	khz	二根	
+胥	疋 	ihz	二根	
+臂	辟 	whz	二根	
+青	龶 	bhz	二根	
+姬	女 	oqn	二根	
+乔	夭 	frj	二根	
+氘	气 	drj	二根	
+于	一 	feo	难拆	
+乎	乊 	ceo	难拆	
+兆	儿 	dwj	二根	
+赤	土 	cxl	二根	
+丑	乛 	bck	二根	
+办	力 	say	难拆	
+司	乛 	bak	难拆	
+同	冂 	oak	难拆	
+咸	戊 	qak	二根	
+网	冂 	oiq	二根	
+鼎	目 	fhw	二根	
+衡	行 	ekf	二根	
+义	丶 𘱌	mqi	难拆	𘱌
+史	口 𘱌	pqi	难拆	𘱌
