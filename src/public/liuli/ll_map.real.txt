@@ -214,7 +214,7 @@ sf	面
 vp	亥
 xj	廿 龷  
 gd	今
-dn	  
+dn	   
 nr	歹 歺 
 mr	专
 lc	从  仌

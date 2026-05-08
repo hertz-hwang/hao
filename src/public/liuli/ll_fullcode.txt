@@ -2382,7 +2382,7 @@
 咖	pspr	4366
 搁	vzxc	4359
 禄	nqbk	4356
-雌	hywf	4355
+雌	vwfo	4355
 哨	pugr	4354
 巩	iidv	4344
 绢	lphz	4335
@@ -14152,8 +14152,8 @@
 𡊉	cmkk	0
 𡌮	cmkp	0
 𥿉	cmkp	0
-𤔡	cmkx	0
-𰔐	cmkx	0
+𤔡	cdxl	0
+𰔐	cmdx	0
 𧴭	cmld	0
 𩓿	cmld	0
 𩔋	cmld	0
@@ -34221,7 +34221,7 @@
 𥎁	hyjx	0
 𧍍	hylc	0
 𨂐	hylc	0
-𩑽	hyld	0
+𩑽	vldo	0
 𪜜	hyld	0
 𨅰	hylf	0
 𭭷	hyli	0
@@ -34264,7 +34264,7 @@
 𘡨	hyst	0
 𲭅	hysw	0
 𱊗	hyuc	0
-𲍵	hyuc	0
+𲍵	vuco	0
 䠤	hyug	0
 𬠜	hyuw	0
 𨅥	hyvi	0
@@ -34286,7 +34286,7 @@
 𤌎	hyxl	0
 𨴙	hyxl	0
 𰳃	hyxl	0
-𩢑	hyxt	0
+𩢑	vxto	0
 𲐆	hyxt	0
 𣀮	hyxv	0
 𭤑	hyxv	0
@@ -42525,7 +42525,7 @@
 𠞃	kmkr	0
 𱸊	kmkv	0
 𬯲	kmkw	0
-䈧	kmkx	0
+䈧	kmdx	0
 𤌉	kmkx	0
 𤌽	kmkx	0
 𪙗	kmkx	0
@@ -50150,7 +50150,7 @@
 𤅰	mkat	0
 𰛟	mkay	0
 𬇥	mkbe	0
-𱎗	mkbh	0
+𱎗	mdxh	0
 𣽗	mkbm	0
 𭲩	mkby	0
 𩎗	mkcb	0
@@ -70485,7 +70485,7 @@
 𦚜	rmkk	0
 𦜟	rmkp	0
 𢞪	rmkv	0
-䃣	rmkx	0
+䃣	rmdx	0
 𤙍	rmkx	0
 𰘒	rmky	0
 𧵔	rmla	0
@@ -78588,7 +78588,7 @@
 𧻴	umix	0
 𫗨	umix	0
 𮉵	umkp	0
-𦖯	umkx	0
+𦖯	umdx	0
 𧼀	umls	0
 𬦛	umls	0
 䝨	umlx	0
@@ -84109,7 +84109,7 @@
 𠖾	wmkj	0
 𮹅	wmkm	0
 𤶶	wmks	0
-𲂢	wmkx	0
+𲂢	wmdx	0
 𣈩	wmlc	0
 𱐅	wmlj	0
 𧴮	wmll	0
@@ -99185,7 +99185,7 @@
 傺	imeu	0
 傏	imfu	0
 俍	imix	0
-偽	imkx	0
+偽	imdx	0
 貢	imlv	0
 側	imrj	0
 尐	imsg	0
@@ -102142,7 +102142,7 @@
 滝	mjzf	0
 涄	mkbi	0
 漛	mkbk	0
-為	mkbx	0
+為	mdxl	0
 浵	mkcd	0
 潫	mkcp	0
 濝	mkcp	0
@@ -102206,7 +102206,7 @@
 濺	mmgg	0
 甖	mmij	0
 韎	mmkb	0
-溈	mmkx	0
+溈	mmdx	0
 浿	mmle	0
 賏	mmll	0
 鑍	mmlu	0
@@ -103693,7 +103693,7 @@
 嫏	omie	0
 誏	omix	0
 妺	omku	0
-媯	omkx	0
+媯	omdx	0
 孆	ommo	0
 姌	omnu	0
 譆	ompr	0
@@ -105087,7 +105087,7 @@
 葏	qmja	0
 萿	qmji	0
 菬	qmjp	0
-蒍	qmkx	0
+蒍	qmdx	0
 虃	qmlf	0
 葓	qmli	0
 蘡	qmmo	0
