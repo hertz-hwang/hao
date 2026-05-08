@@ -55,6 +55,28 @@ def parse_roots(comp: str, alias_to_pua: dict[str, str]):
     return roots
 
 
+def is_hard_root(root: str) -> bool:
+    """判断一个字根是否「难拆」——用户很少直接见到的字形：
+    - 仍保留花括号（别名未解析）
+    - PUA 区字符 U+E000+
+    - CJK Ext-A 区 U+3400–U+4DBF
+    - SIP/Ext-B 及以上 U+20000+
+    """
+    if not root:
+        return False
+    if root.startswith('{') and root.endswith('}'):
+        return True
+    if len(root) == 1:
+        cp = ord(root)
+        if cp >= 0xE000:
+            return True
+        if 0x3400 <= cp <= 0x4DBF:
+            return True
+        return False
+    # 多码位（代理对或组合）保守当作难拆
+    return True
+
+
 def load_code_table(path: str):
     """读取码表：返回 {字: [所有编码]} 和 {字: 最短码长}。"""
     codes: dict[str, list[str]] = {}
@@ -120,9 +142,28 @@ def main():
 
     single_root = []  # 单根字
     two_root = []    # 二根字（按末字根去重后）
+    hard_root = []   # 难拆字（含生僻/别名根，不受简码过滤和末字根去重影响）
     seen_end_root: set[str] = set()
+    collected: set[str] = set()  # 已经放进任一类别的字，避免难拆类重复收
     skipped_no_code = []  # 拆分有但码表没有的字
     dedup_skipped = 0
+
+    def build_item(char: str, kind: str, roots: list[str], key: str) -> dict:
+        """拼 bichai.json 单条记录。kind ∈ {'single', 'two'}。"""
+        comp_display = ' '.join(roots)
+        if kind == 'single':
+            root_keys = [{'zigen': roots[0], 'key': key}]
+        else:
+            root_keys = [
+                {'zigen': roots[0], 'key': key[0] if len(key) >= 1 else ''},
+                {'zigen': roots[1], 'key': key[1:] if len(key) >= 2 else ''},
+            ]
+        return {
+            'name': char,
+            'comp': comp_display,
+            'key': key,
+            'rootKeys': root_keys,
+        }
 
     for char, comp in entries:
         roots = parse_roots(comp, alias_to_pua)
@@ -137,49 +178,43 @@ def main():
             skipped_no_code.append(char)
             continue
 
-        # 无简码：该字所有编码的最短长度 >= 3
-        if min_code_len[char] < 3:
+        key = full_code_of(char, codes)
+        has_hard = any(is_hard_root(r) for r in roots)
+
+        # 1) 正常路径：无简码才纳入
+        if min_code_len[char] >= 3:
+            item = build_item(char, kind, roots, key)
+            if kind == 'single':
+                single_root.append(item)
+                collected.add(char)
+            else:
+                end_root = roots[-1]
+                # 二根字按末字根去重；末字根是难拆根的不去重，它的首根难度在别处
+                if end_root in seen_end_root and not is_hard_root(end_root):
+                    dedup_skipped += 1
+                else:
+                    seen_end_root.add(end_root)
+                    item['endRoot'] = end_root
+                    two_root.append(item)
+                    collected.add(char)
             continue
 
-        key = full_code_of(char, codes)
-        # 与 chaifen.json 对齐：字根之间用空格分隔，方便前端分根显示。
-        comp_display = ' '.join(roots)
-        # rootKeys：把「大码+小码」按琉璃规则分配回每个字根，方便前端以
-        # ruby 形式展示「字根(码)」。
-        # - 单根字: [(根, 大码+小码+小码)]
-        # - 二根字: [(首根, 首根大码), (末根, 末根大码+末根小码)]
-        if kind == 'single':
-            root_keys = [{'zigen': roots[0], 'key': key}]
-        else:
-            root_keys = [
-                {'zigen': roots[0], 'key': key[0] if len(key) >= 1 else ''},
-                {'zigen': roots[1], 'key': key[1:] if len(key) >= 2 else ''},
-            ]
-
-        item = {
-            'name': char,
-            'comp': comp_display,
-            'key': key,
-            'rootKeys': root_keys,
-        }
-        if kind == 'single':
-            single_root.append(item)
-        else:
-            end_root = roots[-1]
-            # 二根字的练习目标是记住末字根的大码+小码，同一末字根只留最高频代表字
-            if end_root in seen_end_root:
-                dedup_skipped += 1
-                continue
-            seen_end_root.add(end_root)
-            item['endRoot'] = end_root
-            two_root.append(item)
+        # 2) 有简码但拆分里含难拆根：也收，归入「难拆」类
+        if has_hard and char not in collected:
+            item = build_item(char, kind, roots, key)
+            if kind == 'two':
+                item['endRoot'] = roots[-1]
+            item['hard'] = True
+            hard_root.append(item)
+            collected.add(char)
 
     print(f'  单根字必拆：{len(single_root)}')
     print(f'  二根字必拆（按末字根去重）：{len(two_root)}，去重跳过 {dedup_skipped} 条')
+    print(f'  难拆字（含生僻/别名根，不受简码过滤）：{len(hard_root)}')
     if skipped_no_code:
         print(f'  跳过（码表无此字）：{len(skipped_no_code)}，前 10 个：{skipped_no_code[:10]}')
 
-    result = single_root + two_root
+    result = single_root + two_root + hard_root
 
     with open(out_json, 'w', encoding='utf-8') as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
@@ -191,6 +226,9 @@ def main():
             f.write(f"{it['name']}\t{it['comp']}\t{it['key']}\t单根\t\n")
         for it in two_root:
             f.write(f"{it['name']}\t{it['comp']}\t{it['key']}\t二根\t{it['endRoot']}\n")
+        for it in hard_root:
+            end = it.get('endRoot', '')
+            f.write(f"{it['name']}\t{it['comp']}\t{it['key']}\t难拆\t{end}\n")
     print(f'写入 {out_tsv}。')
 
 
