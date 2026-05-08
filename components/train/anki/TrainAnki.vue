@@ -34,6 +34,13 @@ onMounted(() => {
 })
 
 watch(userKeys, (newKeys) => {
+    // 空格直接判错并显示提示
+    if (newKeys.includes(' ')) {
+        answer(false)
+        isCorrect.value = false
+        userKeys.value = ''
+        return
+    }
     // 多个编码没有打完就不提示错误
     if (newKeys.length < card.value!.key!.length)
         return
@@ -69,7 +76,13 @@ const cusRestart = () => {
     </div>
     <div :class="['text-center', { 'opacity-0': isCorrect }]">答案是
         <b class="font-mono">{{ card!.key }}</b>
-        <span :class="[zigenFontClass, 'tracking-widest opacity-80']" v-if="'comp' in card!">
+        <span v-if="card!.rootKeys?.length" :class="[zigenFontClass, 'tracking-widest opacity-80 ml-2']">
+            <ruby v-for="(rk, i) of card!.rootKeys" :key="i" class="mr-1">
+                <span :class="{ 'round-bg': highlightStrokes.has(rk.zigen) }">{{ rk.zigen }}</span>
+                <rp>(</rp><rt class="font-mono uppercase text-blue-500 dark:text-blue-300">{{ rk.key }}</rt><rp>)</rp>
+            </ruby>
+        </span>
+        <span :class="[zigenFontClass, 'tracking-widest opacity-80']" v-else-if="'comp' in card!">
             (<span v-for="zg of card.comp" :class="{ 'round-bg': highlightStrokes.has(zg) }">{{ zg }}</span>)</span>
     </div>
 </CardLayout>

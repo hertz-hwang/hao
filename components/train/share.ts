@@ -31,6 +31,8 @@ export interface HanziCard {
     key?: string,
     /** 拆分 */
     comp?: string,
+    /** 每个字根对应的按键（用于提示时以 ruby 形式展示） */
+    rootKeys?: { zigen: string, key: string }[]
 }
 
 export type Card = ZigenCard | HanziCard

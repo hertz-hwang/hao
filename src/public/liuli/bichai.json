@@ -1,0 +1,7658 @@
+[
+  {
+    "name": "亲",
+    "comp": "亲",
+    "key": "dkk",
+    "rootKeys": [
+      {
+        "zigen": "亲",
+        "key": "dkk"
+      }
+    ]
+  },
+  {
+    "name": "元",
+    "comp": "元",
+    "key": "rll",
+    "rootKeys": [
+      {
+        "zigen": "元",
+        "key": "rll"
+      }
+    ]
+  },
+  {
+    "name": "火",
+    "comp": "火",
+    "key": "xll",
+    "rootKeys": [
+      {
+        "zigen": "火",
+        "key": "xll"
+      }
+    ]
+  },
+  {
+    "name": "黑",
+    "comp": "黑",
+    "key": "gpp",
+    "rootKeys": [
+      {
+        "zigen": "黑",
+        "key": "gpp"
+      }
+    ]
+  },
+  {
+    "name": "七",
+    "comp": "七",
+    "key": "sjj",
+    "rootKeys": [
+      {
+        "zigen": "七",
+        "key": "sjj"
+      }
+    ]
+  },
+  {
+    "name": "广",
+    "comp": "广",
+    "key": "fii",
+    "rootKeys": [
+      {
+        "zigen": "广",
+        "key": "fii"
+      }
+    ]
+  },
+  {
+    "name": "专",
+    "comp": "专",
+    "key": "mrr",
+    "rootKeys": [
+      {
+        "zigen": "专",
+        "key": "mrr"
+      }
+    ]
+  },
+  {
+    "name": "云",
+    "comp": "云",
+    "key": "yvv",
+    "rootKeys": [
+      {
+        "zigen": "云",
+        "key": "yvv"
+      }
+    ]
+  },
+  {
+    "name": "母",
+    "comp": "母",
+    "key": "shh",
+    "rootKeys": [
+      {
+        "zigen": "母",
+        "key": "shh"
+      }
+    ]
+  },
+  {
+    "name": "巴",
+    "comp": "巴",
+    "key": "sll",
+    "rootKeys": [
+      {
+        "zigen": "巴",
+        "key": "sll"
+      }
+    ]
+  },
+  {
+    "name": "革",
+    "comp": "革",
+    "key": "uee",
+    "rootKeys": [
+      {
+        "zigen": "革",
+        "key": "uee"
+      }
+    ]
+  },
+  {
+    "name": "音",
+    "comp": "音",
+    "key": "hrr",
+    "rootKeys": [
+      {
+        "zigen": "音",
+        "key": "hrr"
+      }
+    ]
+  },
+  {
+    "name": "京",
+    "comp": "京",
+    "key": "nll",
+    "rootKeys": [
+      {
+        "zigen": "京",
+        "key": "nll"
+      }
+    ]
+  },
+  {
+    "name": "衣",
+    "comp": "衣",
+    "key": "hii",
+    "rootKeys": [
+      {
+        "zigen": "衣",
+        "key": "hii"
+      }
+    ]
+  },
+  {
+    "name": "斗",
+    "comp": "斗",
+    "key": "add",
+    "rootKeys": [
+      {
+        "zigen": "斗",
+        "key": "add"
+      }
+    ]
+  },
+  {
+    "name": "居",
+    "comp": "居",
+    "key": "dll",
+    "rootKeys": [
+      {
+        "zigen": "居",
+        "key": "dll"
+      }
+    ]
+  },
+  {
+    "name": "句",
+    "comp": "句",
+    "key": "nww",
+    "rootKeys": [
+      {
+        "zigen": "句",
+        "key": "nww"
+      }
+    ]
+  },
+  {
+    "name": "木",
+    "comp": "木",
+    "key": "yqq",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "yqq"
+      }
+    ]
+  },
+  {
+    "name": "占",
+    "comp": "占",
+    "key": "jxx",
+    "rootKeys": [
+      {
+        "zigen": "占",
+        "key": "jxx"
+      }
+    ]
+  },
+  {
+    "name": "玉",
+    "comp": "玉",
+    "key": "jgg",
+    "rootKeys": [
+      {
+        "zigen": "玉",
+        "key": "jgg"
+      }
+    ]
+  },
+  {
+    "name": "兄",
+    "comp": "兄",
+    "key": "sgg",
+    "rootKeys": [
+      {
+        "zigen": "兄",
+        "key": "sgg"
+      }
+    ]
+  },
+  {
+    "name": "角",
+    "comp": "角",
+    "key": "tjj",
+    "rootKeys": [
+      {
+        "zigen": "角",
+        "key": "tjj"
+      }
+    ]
+  },
+  {
+    "name": "巨",
+    "comp": "巨",
+    "key": "occ",
+    "rootKeys": [
+      {
+        "zigen": "巨",
+        "key": "occ"
+      }
+    ]
+  },
+  {
+    "name": "尚",
+    "comp": "尚",
+    "key": "saa",
+    "rootKeys": [
+      {
+        "zigen": "尚",
+        "key": "saa"
+      }
+    ]
+  },
+  {
+    "name": "唐",
+    "comp": "唐",
+    "key": "mff",
+    "rootKeys": [
+      {
+        "zigen": "唐",
+        "key": "mff"
+      }
+    ]
+  },
+  {
+    "name": "户",
+    "comp": "户",
+    "key": "udd",
+    "rootKeys": [
+      {
+        "zigen": "户",
+        "key": "udd"
+      }
+    ]
+  },
+  {
+    "name": "君",
+    "comp": "君",
+    "key": "pdd",
+    "rootKeys": [
+      {
+        "zigen": "君",
+        "key": "pdd"
+      }
+    ]
+  },
+  {
+    "name": "鬼",
+    "comp": "鬼",
+    "key": "jdd",
+    "rootKeys": [
+      {
+        "zigen": "鬼",
+        "key": "jdd"
+      }
+    ]
+  },
+  {
+    "name": "介",
+    "comp": "介",
+    "key": "iee",
+    "rootKeys": [
+      {
+        "zigen": "介",
+        "key": "iee"
+      }
+    ]
+  },
+  {
+    "name": "乡",
+    "comp": "乡",
+    "key": "pcc",
+    "rootKeys": [
+      {
+        "zigen": "乡",
+        "key": "pcc"
+      }
+    ]
+  },
+  {
+    "name": "肉",
+    "comp": "肉",
+    "key": "euu",
+    "rootKeys": [
+      {
+        "zigen": "肉",
+        "key": "euu"
+      }
+    ]
+  },
+  {
+    "name": "虎",
+    "comp": "虎",
+    "key": "ptt",
+    "rootKeys": [
+      {
+        "zigen": "虎",
+        "key": "ptt"
+      }
+    ]
+  },
+  {
+    "name": "乃",
+    "comp": "乃",
+    "key": "snn",
+    "rootKeys": [
+      {
+        "zigen": "乃",
+        "key": "snn"
+      }
+    ]
+  },
+  {
+    "name": "臣",
+    "comp": "臣",
+    "key": "dnn",
+    "rootKeys": [
+      {
+        "zigen": "臣",
+        "key": "dnn"
+      }
+    ]
+  },
+  {
+    "name": "谷",
+    "comp": "谷",
+    "key": "laa",
+    "rootKeys": [
+      {
+        "zigen": "谷",
+        "key": "laa"
+      }
+    ]
+  },
+  {
+    "name": "予",
+    "comp": "予",
+    "key": "ann",
+    "rootKeys": [
+      {
+        "zigen": "予",
+        "key": "ann"
+      }
+    ]
+  },
+  {
+    "name": "麻",
+    "comp": "麻",
+    "key": "avv",
+    "rootKeys": [
+      {
+        "zigen": "麻",
+        "key": "avv"
+      }
+    ]
+  },
+  {
+    "name": "凡",
+    "comp": "凡",
+    "key": "idd",
+    "rootKeys": [
+      {
+        "zigen": "凡",
+        "key": "idd"
+      }
+    ]
+  },
+  {
+    "name": "厂",
+    "comp": "厂",
+    "key": "lss",
+    "rootKeys": [
+      {
+        "zigen": "厂",
+        "key": "lss"
+      }
+    ]
+  },
+  {
+    "name": "丁",
+    "comp": "丁",
+    "key": "naa",
+    "rootKeys": [
+      {
+        "zigen": "丁",
+        "key": "naa"
+      }
+    ]
+  },
+  {
+    "name": "骨",
+    "comp": "骨",
+    "key": "uvv",
+    "rootKeys": [
+      {
+        "zigen": "骨",
+        "key": "uvv"
+      }
+    ]
+  },
+  {
+    "name": "牙",
+    "comp": "牙",
+    "key": "xhh",
+    "rootKeys": [
+      {
+        "zigen": "牙",
+        "key": "xhh"
+      }
+    ]
+  },
+  {
+    "name": "甲",
+    "comp": "甲",
+    "key": "daa",
+    "rootKeys": [
+      {
+        "zigen": "甲",
+        "key": "daa"
+      }
+    ]
+  },
+  {
+    "name": "曲",
+    "comp": "曲",
+    "key": "nee",
+    "rootKeys": [
+      {
+        "zigen": "曲",
+        "key": "nee"
+      }
+    ]
+  },
+  {
+    "name": "申",
+    "comp": "申",
+    "key": "knn",
+    "rootKeys": [
+      {
+        "zigen": "申",
+        "key": "knn"
+      }
+    ]
+  },
+  {
+    "name": "丹",
+    "comp": "丹",
+    "key": "kjj",
+    "rootKeys": [
+      {
+        "zigen": "丹",
+        "key": "kjj"
+      }
+    ]
+  },
+  {
+    "name": "川",
+    "comp": "川",
+    "key": "pvv",
+    "rootKeys": [
+      {
+        "zigen": "川",
+        "key": "pvv"
+      }
+    ]
+  },
+  {
+    "name": "乌",
+    "comp": "乌",
+    "key": "ajj",
+    "rootKeys": [
+      {
+        "zigen": "乌",
+        "key": "ajj"
+      }
+    ]
+  },
+  {
+    "name": "末",
+    "comp": "末",
+    "key": "mkk",
+    "rootKeys": [
+      {
+        "zigen": "末",
+        "key": "mkk"
+      }
+    ]
+  },
+  {
+    "name": "麦",
+    "comp": "麦",
+    "key": "nqq",
+    "rootKeys": [
+      {
+        "zigen": "麦",
+        "key": "nqq"
+      }
+    ]
+  },
+  {
+    "name": "童",
+    "comp": "童",
+    "key": "vss",
+    "rootKeys": [
+      {
+        "zigen": "童",
+        "key": "vss"
+      }
+    ]
+  },
+  {
+    "name": "凶",
+    "comp": "凶",
+    "key": "mzz",
+    "rootKeys": [
+      {
+        "zigen": "凶",
+        "key": "mzz"
+      }
+    ]
+  },
+  {
+    "name": "页",
+    "comp": "页",
+    "key": "mgg",
+    "rootKeys": [
+      {
+        "zigen": "页",
+        "key": "mgg"
+      }
+    ]
+  },
+  {
+    "name": "瓦",
+    "comp": "瓦",
+    "key": "ijj",
+    "rootKeys": [
+      {
+        "zigen": "瓦",
+        "key": "ijj"
+      }
+    ]
+  },
+  {
+    "name": "鸟",
+    "comp": "鸟",
+    "key": "ucc",
+    "rootKeys": [
+      {
+        "zigen": "鸟",
+        "key": "ucc"
+      }
+    ]
+  },
+  {
+    "name": "鼻",
+    "comp": "鼻",
+    "key": "bff",
+    "rootKeys": [
+      {
+        "zigen": "鼻",
+        "key": "bff"
+      }
+    ]
+  },
+  {
+    "name": "尸",
+    "comp": "尸",
+    "key": "zkk",
+    "rootKeys": [
+      {
+        "zigen": "尸",
+        "key": "zkk"
+      }
+    ]
+  },
+  {
+    "name": "羊",
+    "comp": "羊",
+    "key": "ass",
+    "rootKeys": [
+      {
+        "zigen": "羊",
+        "key": "ass"
+      }
+    ]
+  },
+  {
+    "name": "虫",
+    "comp": "虫",
+    "key": "hkk",
+    "rootKeys": [
+      {
+        "zigen": "虫",
+        "key": "hkk"
+      }
+    ]
+  },
+  {
+    "name": "吕",
+    "comp": "吕",
+    "key": "yoo",
+    "rootKeys": [
+      {
+        "zigen": "吕",
+        "key": "yoo"
+      }
+    ]
+  },
+  {
+    "name": "辛",
+    "comp": "辛",
+    "key": "vcc",
+    "rootKeys": [
+      {
+        "zigen": "辛",
+        "key": "vcc"
+      }
+    ]
+  },
+  {
+    "name": "尺",
+    "comp": "尺",
+    "key": "qii",
+    "rootKeys": [
+      {
+        "zigen": "尺",
+        "key": "qii"
+      }
+    ]
+  },
+  {
+    "name": "旦",
+    "comp": "旦",
+    "key": "uww",
+    "rootKeys": [
+      {
+        "zigen": "旦",
+        "key": "uww"
+      }
+    ]
+  },
+  {
+    "name": "竹",
+    "comp": "竹",
+    "key": "khh",
+    "rootKeys": [
+      {
+        "zigen": "竹",
+        "key": "khh"
+      }
+    ]
+  },
+  {
+    "name": "矛",
+    "comp": "矛",
+    "key": "hcc",
+    "rootKeys": [
+      {
+        "zigen": "矛",
+        "key": "hcc"
+      }
+    ]
+  },
+  {
+    "name": "井",
+    "comp": "井",
+    "key": "cyy",
+    "rootKeys": [
+      {
+        "zigen": "井",
+        "key": "cyy"
+      }
+    ]
+  },
+  {
+    "name": "曰",
+    "comp": "曰",
+    "key": "qll",
+    "rootKeys": [
+      {
+        "zigen": "曰",
+        "key": "qll"
+      }
+    ]
+  },
+  {
+    "name": "垂",
+    "comp": "垂",
+    "key": "ryy",
+    "rootKeys": [
+      {
+        "zigen": "垂",
+        "key": "ryy"
+      }
+    ]
+  },
+  {
+    "name": "氏",
+    "comp": "氏",
+    "key": "oxx",
+    "rootKeys": [
+      {
+        "zigen": "氏",
+        "key": "oxx"
+      }
+    ]
+  },
+  {
+    "name": "韦",
+    "comp": "韦",
+    "key": "fyy",
+    "rootKeys": [
+      {
+        "zigen": "韦",
+        "key": "fyy"
+      }
+    ]
+  },
+  {
+    "name": "册",
+    "comp": "册",
+    "key": "tee",
+    "rootKeys": [
+      {
+        "zigen": "册",
+        "key": "tee"
+      }
+    ]
+  },
+  {
+    "name": "夹",
+    "comp": "夹",
+    "key": "ozz",
+    "rootKeys": [
+      {
+        "zigen": "夹",
+        "key": "ozz"
+      }
+    ]
+  },
+  {
+    "name": "祭",
+    "comp": "祭",
+    "key": "mee",
+    "rootKeys": [
+      {
+        "zigen": "祭",
+        "key": "mee"
+      }
+    ]
+  },
+  {
+    "name": "羽",
+    "comp": "羽",
+    "key": "quu",
+    "rootKeys": [
+      {
+        "zigen": "羽",
+        "key": "quu"
+      }
+    ]
+  },
+  {
+    "name": "亏",
+    "comp": "亏",
+    "key": "gii",
+    "rootKeys": [
+      {
+        "zigen": "亏",
+        "key": "gii"
+      }
+    ]
+  },
+  {
+    "name": "戈",
+    "comp": "戈",
+    "key": "gww",
+    "rootKeys": [
+      {
+        "zigen": "戈",
+        "key": "gww"
+      }
+    ]
+  },
+  {
+    "name": "鼠",
+    "comp": "鼠",
+    "key": "uzz",
+    "rootKeys": [
+      {
+        "zigen": "鼠",
+        "key": "uzz"
+      }
+    ]
+  },
+  {
+    "name": "豆",
+    "comp": "豆",
+    "key": "xnn",
+    "rootKeys": [
+      {
+        "zigen": "豆",
+        "key": "xnn"
+      }
+    ]
+  },
+  {
+    "name": "斤",
+    "comp": "斤",
+    "key": "tnn",
+    "rootKeys": [
+      {
+        "zigen": "斤",
+        "key": "tnn"
+      }
+    ]
+  },
+  {
+    "name": "寸",
+    "comp": "寸",
+    "key": "off",
+    "rootKeys": [
+      {
+        "zigen": "寸",
+        "key": "off"
+      }
+    ]
+  },
+  {
+    "name": "弓",
+    "comp": "弓",
+    "key": "dzz",
+    "rootKeys": [
+      {
+        "zigen": "弓",
+        "key": "dzz"
+      }
+    ]
+  },
+  {
+    "name": "欠",
+    "comp": "欠",
+    "key": "kcc",
+    "rootKeys": [
+      {
+        "zigen": "欠",
+        "key": "kcc"
+      }
+    ]
+  },
+  {
+    "name": "齿",
+    "comp": "齿",
+    "key": "tww",
+    "rootKeys": [
+      {
+        "zigen": "齿",
+        "key": "tww"
+      }
+    ]
+  },
+  {
+    "name": "乙",
+    "comp": "乛",
+    "key": "bmm",
+    "rootKeys": [
+      {
+        "zigen": "乛",
+        "key": "bmm"
+      }
+    ]
+  },
+  {
+    "name": "瓜",
+    "comp": "瓜",
+    "key": "vww",
+    "rootKeys": [
+      {
+        "zigen": "瓜",
+        "key": "vww"
+      }
+    ]
+  },
+  {
+    "name": "穴",
+    "comp": "穴",
+    "key": "kgg",
+    "rootKeys": [
+      {
+        "zigen": "穴",
+        "key": "kgg"
+      }
+    ]
+  },
+  {
+    "name": "肖",
+    "comp": "肖",
+    "key": "ugg",
+    "rootKeys": [
+      {
+        "zigen": "肖",
+        "key": "ugg"
+      }
+    ]
+  },
+  {
+    "name": "舌",
+    "comp": "舌",
+    "key": "jii",
+    "rootKeys": [
+      {
+        "zigen": "舌",
+        "key": "jii"
+      }
+    ]
+  },
+  {
+    "name": "卑",
+    "comp": "卑",
+    "key": "rkk",
+    "rootKeys": [
+      {
+        "zigen": "卑",
+        "key": "rkk"
+      }
+    ]
+  },
+  {
+    "name": "卜",
+    "comp": "卜",
+    "key": "pgg",
+    "rootKeys": [
+      {
+        "zigen": "卜",
+        "key": "pgg"
+      }
+    ]
+  },
+  {
+    "name": "鹿",
+    "comp": "鹿",
+    "key": "doo",
+    "rootKeys": [
+      {
+        "zigen": "鹿",
+        "key": "doo"
+      }
+    ]
+  },
+  {
+    "name": "夕",
+    "comp": "夕",
+    "key": "qyy",
+    "rootKeys": [
+      {
+        "zigen": "夕",
+        "key": "qyy"
+      }
+    ]
+  },
+  {
+    "name": "芒",
+    "comp": "芒",
+    "key": "zjj",
+    "rootKeys": [
+      {
+        "zigen": "芒",
+        "key": "zjj"
+      }
+    ]
+  },
+  {
+    "name": "爪",
+    "comp": "爪",
+    "key": "chh",
+    "rootKeys": [
+      {
+        "zigen": "爪",
+        "key": "chh"
+      }
+    ]
+  },
+  {
+    "name": "卵",
+    "comp": "卵",
+    "key": "ccc",
+    "rootKeys": [
+      {
+        "zigen": "卵",
+        "key": "ccc"
+      }
+    ]
+  },
+  {
+    "name": "甫",
+    "comp": "甫",
+    "key": "ahh",
+    "rootKeys": [
+      {
+        "zigen": "甫",
+        "key": "ahh"
+      }
+    ]
+  },
+  {
+    "name": "辟",
+    "comp": "辟",
+    "key": "wuu",
+    "rootKeys": [
+      {
+        "zigen": "辟",
+        "key": "wuu"
+      }
+    ]
+  },
+  {
+    "name": "巾",
+    "comp": "巾",
+    "key": "suu",
+    "rootKeys": [
+      {
+        "zigen": "巾",
+        "key": "suu"
+      }
+    ]
+  },
+  {
+    "name": "舟",
+    "comp": "舟",
+    "key": "rgg",
+    "rootKeys": [
+      {
+        "zigen": "舟",
+        "key": "rgg"
+      }
+    ]
+  },
+  {
+    "name": "辰",
+    "comp": "辰",
+    "key": "pjj",
+    "rootKeys": [
+      {
+        "zigen": "辰",
+        "key": "pjj"
+      }
+    ]
+  },
+  {
+    "name": "兔",
+    "comp": "兔",
+    "key": "egg",
+    "rootKeys": [
+      {
+        "zigen": "兔",
+        "key": "egg"
+      }
+    ]
+  },
+  {
+    "name": "仑",
+    "comp": "仑",
+    "key": "rmm",
+    "rootKeys": [
+      {
+        "zigen": "仑",
+        "key": "rmm"
+      }
+    ]
+  },
+  {
+    "name": "丸",
+    "comp": "丸",
+    "key": "ohh",
+    "rootKeys": [
+      {
+        "zigen": "丸",
+        "key": "ohh"
+      }
+    ]
+  },
+  {
+    "name": "尹",
+    "comp": "尹",
+    "key": "wnn",
+    "rootKeys": [
+      {
+        "zigen": "尹",
+        "key": "wnn"
+      }
+    ]
+  },
+  {
+    "name": "犬",
+    "comp": "犬",
+    "key": "roo",
+    "rootKeys": [
+      {
+        "zigen": "犬",
+        "key": "roo"
+      }
+    ]
+  },
+  {
+    "name": "妾",
+    "comp": "妾",
+    "key": "xpp",
+    "rootKeys": [
+      {
+        "zigen": "妾",
+        "key": "xpp"
+      }
+    ]
+  },
+  {
+    "name": "屯",
+    "comp": "屯",
+    "key": "btt",
+    "rootKeys": [
+      {
+        "zigen": "屯",
+        "key": "btt"
+      }
+    ]
+  },
+  {
+    "name": "矢",
+    "comp": "矢",
+    "key": "lvv",
+    "rootKeys": [
+      {
+        "zigen": "矢",
+        "key": "lvv"
+      }
+    ]
+  },
+  {
+    "name": "乍",
+    "comp": "乍",
+    "key": "uoo",
+    "rootKeys": [
+      {
+        "zigen": "乍",
+        "key": "uoo"
+      }
+    ]
+  },
+  {
+    "name": "兀",
+    "comp": "兀",
+    "key": "see",
+    "rootKeys": [
+      {
+        "zigen": "兀",
+        "key": "see"
+      }
+    ]
+  },
+  {
+    "name": "歹",
+    "comp": "歹",
+    "key": "nrr",
+    "rootKeys": [
+      {
+        "zigen": "歹",
+        "key": "nrr"
+      }
+    ]
+  },
+  {
+    "name": "匕",
+    "comp": "匕",
+    "key": "yss",
+    "rootKeys": [
+      {
+        "zigen": "匕",
+        "key": "yss"
+      }
+    ]
+  },
+  {
+    "name": "毋",
+    "comp": "毋",
+    "key": "kll",
+    "rootKeys": [
+      {
+        "zigen": "毋",
+        "key": "kll"
+      }
+    ]
+  },
+  {
+    "name": "邑",
+    "comp": "邑",
+    "key": "dvv",
+    "rootKeys": [
+      {
+        "zigen": "邑",
+        "key": "dvv"
+      }
+    ]
+  },
+  {
+    "name": "夭",
+    "comp": "夭",
+    "key": "foo",
+    "rootKeys": [
+      {
+        "zigen": "夭",
+        "key": "foo"
+      }
+    ]
+  },
+  {
+    "name": "冉",
+    "comp": "冉",
+    "key": "mnn",
+    "rootKeys": [
+      {
+        "zigen": "冉",
+        "key": "mnn"
+      }
+    ]
+  },
+  {
+    "name": "敖",
+    "comp": "敖",
+    "key": "zvv",
+    "rootKeys": [
+      {
+        "zigen": "敖",
+        "key": "zvv"
+      }
+    ]
+  },
+  {
+    "name": "酋",
+    "comp": "酋",
+    "key": "hxx",
+    "rootKeys": [
+      {
+        "zigen": "酋",
+        "key": "hxx"
+      }
+    ]
+  },
+  {
+    "name": "亥",
+    "comp": "亥",
+    "key": "vpp",
+    "rootKeys": [
+      {
+        "zigen": "亥",
+        "key": "vpp"
+      }
+    ]
+  },
+  {
+    "name": "巳",
+    "comp": "巳",
+    "key": "eww",
+    "rootKeys": [
+      {
+        "zigen": "巳",
+        "key": "eww"
+      }
+    ]
+  },
+  {
+    "name": "戊",
+    "comp": "戊",
+    "key": "qbb",
+    "rootKeys": [
+      {
+        "zigen": "戊",
+        "key": "qbb"
+      }
+    ]
+  },
+  {
+    "name": "廿",
+    "comp": "廿",
+    "key": "xjj",
+    "rootKeys": [
+      {
+        "zigen": "廿",
+        "key": "xjj"
+      }
+    ]
+  },
+  {
+    "name": "娄",
+    "comp": "娄",
+    "key": "zpp",
+    "rootKeys": [
+      {
+        "zigen": "娄",
+        "key": "zpp"
+      }
+    ]
+  },
+  {
+    "name": "禾",
+    "comp": "禾",
+    "key": "tuu",
+    "rootKeys": [
+      {
+        "zigen": "禾",
+        "key": "tuu"
+      }
+    ]
+  },
+  {
+    "name": "壬",
+    "comp": "壬",
+    "key": "fuu",
+    "rootKeys": [
+      {
+        "zigen": "壬",
+        "key": "fuu"
+      }
+    ]
+  },
+  {
+    "name": "圭",
+    "comp": "圭",
+    "key": "kaa",
+    "rootKeys": [
+      {
+        "zigen": "圭",
+        "key": "kaa"
+      }
+    ]
+  },
+  {
+    "name": "聿",
+    "comp": "聿",
+    "key": "jaa",
+    "rootKeys": [
+      {
+        "zigen": "聿",
+        "key": "jaa"
+      }
+    ]
+  },
+  {
+    "name": "卤",
+    "comp": "卤",
+    "key": "zhh",
+    "rootKeys": [
+      {
+        "zigen": "卤",
+        "key": "zhh"
+      }
+    ]
+  },
+  {
+    "name": "囱",
+    "comp": "囱",
+    "key": "zhh",
+    "rootKeys": [
+      {
+        "zigen": "囱",
+        "key": "zhh"
+      }
+    ]
+  },
+  {
+    "name": "卯",
+    "comp": "卯",
+    "key": "tpp",
+    "rootKeys": [
+      {
+        "zigen": "卯",
+        "key": "tpp"
+      }
+    ]
+  },
+  {
+    "name": "奂",
+    "comp": "奂",
+    "key": "yee",
+    "rootKeys": [
+      {
+        "zigen": "奂",
+        "key": "yee"
+      }
+    ]
+  },
+  {
+    "name": "酉",
+    "comp": "酉",
+    "key": "fdd",
+    "rootKeys": [
+      {
+        "zigen": "酉",
+        "key": "fdd"
+      }
+    ]
+  },
+  {
+    "name": "甬",
+    "comp": "甬",
+    "key": "xdd",
+    "rootKeys": [
+      {
+        "zigen": "甬",
+        "key": "xdd"
+      }
+    ]
+  },
+  {
+    "name": "皿",
+    "comp": "皿",
+    "key": "yzz",
+    "rootKeys": [
+      {
+        "zigen": "皿",
+        "key": "yzz"
+      }
+    ]
+  },
+  {
+    "name": "卅",
+    "comp": "卅",
+    "key": "paa",
+    "rootKeys": [
+      {
+        "zigen": "卅",
+        "key": "paa"
+      }
+    ]
+  },
+  {
+    "name": "臼",
+    "comp": "臼",
+    "key": "bqq",
+    "rootKeys": [
+      {
+        "zigen": "臼",
+        "key": "bqq"
+      }
+    ]
+  },
+  {
+    "name": "弋",
+    "comp": "弋",
+    "key": "wll",
+    "rootKeys": [
+      {
+        "zigen": "弋",
+        "key": "wll"
+      }
+    ]
+  },
+  {
+    "name": "幺",
+    "comp": "幺",
+    "key": "cpp",
+    "rootKeys": [
+      {
+        "zigen": "幺",
+        "key": "cpp"
+      }
+    ]
+  },
+  {
+    "name": "艮",
+    "comp": "艮",
+    "key": "ixx",
+    "rootKeys": [
+      {
+        "zigen": "艮",
+        "key": "ixx"
+      }
+    ]
+  },
+  {
+    "name": "刍",
+    "comp": "刍",
+    "key": "jvv",
+    "rootKeys": [
+      {
+        "zigen": "刍",
+        "key": "jvv"
+      }
+    ]
+  },
+  {
+    "name": "爻",
+    "comp": "爻",
+    "key": "iqq",
+    "rootKeys": [
+      {
+        "zigen": "爻",
+        "key": "iqq"
+      }
+    ]
+  },
+  {
+    "name": "舛",
+    "comp": "舛",
+    "key": "ooo",
+    "rootKeys": [
+      {
+        "zigen": "舛",
+        "key": "ooo"
+      }
+    ]
+  },
+  {
+    "name": "豕",
+    "comp": "豕",
+    "key": "byy",
+    "rootKeys": [
+      {
+        "zigen": "豕",
+        "key": "byy"
+      }
+    ]
+  },
+  {
+    "name": "頁",
+    "comp": "頁",
+    "key": "ldd",
+    "rootKeys": [
+      {
+        "zigen": "頁",
+        "key": "ldd"
+      }
+    ]
+  },
+  {
+    "name": "曷",
+    "comp": "曷",
+    "key": "bll",
+    "rootKeys": [
+      {
+        "zigen": "曷",
+        "key": "bll"
+      }
+    ]
+  },
+  {
+    "name": "囟",
+    "comp": "囟",
+    "key": "zhh",
+    "rootKeys": [
+      {
+        "zigen": "囟",
+        "key": "zhh"
+      }
+    ]
+  },
+  {
+    "name": "黾",
+    "comp": "黾",
+    "key": "wii",
+    "rootKeys": [
+      {
+        "zigen": "黾",
+        "key": "wii"
+      }
+    ]
+  },
+  {
+    "name": "缶",
+    "comp": "缶",
+    "key": "uqq",
+    "rootKeys": [
+      {
+        "zigen": "缶",
+        "key": "uqq"
+      }
+    ]
+  },
+  {
+    "name": "殳",
+    "comp": "殳",
+    "key": "fnn",
+    "rootKeys": [
+      {
+        "zigen": "殳",
+        "key": "fnn"
+      }
+    ]
+  },
+  {
+    "name": "隹",
+    "comp": "隹",
+    "key": "wff",
+    "rootKeys": [
+      {
+        "zigen": "隹",
+        "key": "wff"
+      }
+    ]
+  },
+  {
+    "name": "敫",
+    "comp": "敫",
+    "key": "ree",
+    "rootKeys": [
+      {
+        "zigen": "敫",
+        "key": "ree"
+      }
+    ]
+  },
+  {
+    "name": "肀",
+    "comp": "肀",
+    "key": "jaa",
+    "rootKeys": [
+      {
+        "zigen": "肀",
+        "key": "jaa"
+      }
+    ]
+  },
+  {
+    "name": "但",
+    "comp": "亻 旦",
+    "key": "iuw",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "旦",
+        "key": "uw"
+      }
+    ],
+    "endRoot": "旦"
+  },
+  {
+    "name": "动",
+    "comp": "云 力",
+    "key": "yso",
+    "rootKeys": [
+      {
+        "zigen": "云",
+        "key": "y"
+      },
+      {
+        "zigen": "力",
+        "key": "so"
+      }
+    ],
+    "endRoot": "力"
+  },
+  {
+    "name": "什",
+    "comp": "亻 十",
+    "key": "ieo",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "十",
+        "key": "eo"
+      }
+    ],
+    "endRoot": "十"
+  },
+  {
+    "name": "明",
+    "comp": "日 月",
+    "key": "wjs",
+    "rootKeys": [
+      {
+        "zigen": "日",
+        "key": "w"
+      },
+      {
+        "zigen": "月",
+        "key": "js"
+      }
+    ],
+    "endRoot": "月"
+  },
+  {
+    "name": "全",
+    "comp": " 王",
+    "key": "gks",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "g"
+      },
+      {
+        "zigen": "王",
+        "key": "ks"
+      }
+    ],
+    "endRoot": "王"
+  },
+  {
+    "name": "声",
+    "comp": "士 ",
+    "key": "nzk",
+    "rootKeys": [
+      {
+        "zigen": "士",
+        "key": "n"
+      },
+      {
+        "zigen": "",
+        "key": "zk"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "真",
+    "comp": "直 八",
+    "key": "yay",
+    "rootKeys": [
+      {
+        "zigen": "直",
+        "key": "y"
+      },
+      {
+        "zigen": "八",
+        "key": "ay"
+      }
+    ],
+    "endRoot": "八"
+  },
+  {
+    "name": "政",
+    "comp": "正 攵",
+    "key": "nvj",
+    "rootKeys": [
+      {
+        "zigen": "正",
+        "key": "n"
+      },
+      {
+        "zigen": "攵",
+        "key": "vj"
+      }
+    ],
+    "endRoot": "攵"
+  },
+  {
+    "name": "打",
+    "comp": "扌 丁",
+    "key": "vna",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "丁",
+        "key": "na"
+      }
+    ],
+    "endRoot": "丁"
+  },
+  {
+    "name": "再",
+    "comp": "一 冉",
+    "key": "fmn",
+    "rootKeys": [
+      {
+        "zigen": "一",
+        "key": "f"
+      },
+      {
+        "zigen": "冉",
+        "key": "mn"
+      }
+    ],
+    "endRoot": "冉"
+  },
+  {
+    "name": "名",
+    "comp": "夕 口",
+    "key": "qpr",
+    "rootKeys": [
+      {
+        "zigen": "夕",
+        "key": "q"
+      },
+      {
+        "zigen": "口",
+        "key": "pr"
+      }
+    ],
+    "endRoot": "口"
+  },
+  {
+    "name": "斯",
+    "comp": "其 斤",
+    "key": "ktn",
+    "rootKeys": [
+      {
+        "zigen": "其",
+        "key": "k"
+      },
+      {
+        "zigen": "斤",
+        "key": "tn"
+      }
+    ],
+    "endRoot": "斤"
+  },
+  {
+    "name": "便",
+    "comp": "亻 更",
+    "key": "ipx",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "更",
+        "key": "px"
+      }
+    ],
+    "endRoot": "更"
+  },
+  {
+    "name": "别",
+    "comp": "另 刂",
+    "key": "wrj",
+    "rootKeys": [
+      {
+        "zigen": "另",
+        "key": "w"
+      },
+      {
+        "zigen": "刂",
+        "key": "rj"
+      }
+    ],
+    "endRoot": "刂"
+  },
+  {
+    "name": "处",
+    "comp": "夂 卜",
+    "key": "spg",
+    "rootKeys": [
+      {
+        "zigen": "夂",
+        "key": "s"
+      },
+      {
+        "zigen": "卜",
+        "key": "pg"
+      }
+    ],
+    "endRoot": "卜"
+  },
+  {
+    "name": "何",
+    "comp": "亻 可",
+    "key": "iur",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "可",
+        "key": "ur"
+      }
+    ],
+    "endRoot": "可"
+  },
+  {
+    "name": "反",
+    "comp": " 又",
+    "key": "lzn",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "l"
+      },
+      {
+        "zigen": "又",
+        "key": "zn"
+      }
+    ],
+    "endRoot": "又"
+  },
+  {
+    "name": "认",
+    "comp": "讠 人",
+    "key": "ssk",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "人",
+        "key": "sk"
+      }
+    ],
+    "endRoot": "人"
+  },
+  {
+    "name": "系",
+    "comp": "丿 糸",
+    "key": "lcp",
+    "rootKeys": [
+      {
+        "zigen": "丿",
+        "key": "l"
+      },
+      {
+        "zigen": "糸",
+        "key": "cp"
+      }
+    ],
+    "endRoot": "糸"
+  },
+  {
+    "name": "难",
+    "comp": "又 隹",
+    "key": "zof",
+    "rootKeys": [
+      {
+        "zigen": "又",
+        "key": "z"
+      },
+      {
+        "zigen": "隹",
+        "key": "of"
+      }
+    ],
+    "endRoot": "隹"
+  },
+  {
+    "name": "建",
+    "comp": "聿 廴",
+    "key": "jtk",
+    "rootKeys": [
+      {
+        "zigen": "聿",
+        "key": "j"
+      },
+      {
+        "zigen": "廴",
+        "key": "tk"
+      }
+    ],
+    "endRoot": "廴"
+  },
+  {
+    "name": "决",
+    "comp": "冫 夬",
+    "key": "wsf",
+    "rootKeys": [
+      {
+        "zigen": "冫",
+        "key": "w"
+      },
+      {
+        "zigen": "夬",
+        "key": "sf"
+      }
+    ],
+    "endRoot": "夬"
+  },
+  {
+    "name": "像",
+    "comp": "亻 象",
+    "key": "iwp",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "象",
+        "key": "wp"
+      }
+    ],
+    "endRoot": "象"
+  },
+  {
+    "name": "住",
+    "comp": "亻 主",
+    "key": "iau",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "主",
+        "key": "au"
+      }
+    ],
+    "endRoot": "主"
+  },
+  {
+    "name": "即",
+    "comp": " 卩",
+    "key": "ijf",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "i"
+      },
+      {
+        "zigen": "卩",
+        "key": "jf"
+      }
+    ],
+    "endRoot": "卩"
+  },
+  {
+    "name": "克",
+    "comp": "古 儿",
+    "key": "odi",
+    "rootKeys": [
+      {
+        "zigen": "古",
+        "key": "o"
+      },
+      {
+        "zigen": "儿",
+        "key": "di"
+      }
+    ],
+    "endRoot": "儿"
+  },
+  {
+    "name": "觉",
+    "comp": " 见",
+    "key": "jlw",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "j"
+      },
+      {
+        "zigen": "见",
+        "key": "lw"
+      }
+    ],
+    "endRoot": "见"
+  },
+  {
+    "name": "社",
+    "comp": "礻 土",
+    "key": "nck",
+    "rootKeys": [
+      {
+        "zigen": "礻",
+        "key": "n"
+      },
+      {
+        "zigen": "土",
+        "key": "ck"
+      }
+    ],
+    "endRoot": "土"
+  },
+  {
+    "name": "连",
+    "comp": "车 辶",
+    "key": "edf",
+    "rootKeys": [
+      {
+        "zigen": "车",
+        "key": "e"
+      },
+      {
+        "zigen": "辶",
+        "key": "df"
+      }
+    ],
+    "endRoot": "辶"
+  },
+  {
+    "name": "记",
+    "comp": "讠 己",
+    "key": "sen",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "己",
+        "key": "en"
+      }
+    ],
+    "endRoot": "己"
+  },
+  {
+    "name": "转",
+    "comp": " 专",
+    "key": "emr",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "专",
+        "key": "mr"
+      }
+    ],
+    "endRoot": "专"
+  },
+  {
+    "name": "色",
+    "comp": " 巴",
+    "key": "nsl",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "n"
+      },
+      {
+        "zigen": "巴",
+        "key": "sl"
+      }
+    ],
+    "endRoot": "巴"
+  },
+  {
+    "name": "界",
+    "comp": "田 介",
+    "key": "tie",
+    "rootKeys": [
+      {
+        "zigen": "田",
+        "key": "t"
+      },
+      {
+        "zigen": "介",
+        "key": "ie"
+      }
+    ],
+    "endRoot": "介"
+  },
+  {
+    "name": "拉",
+    "comp": "扌 立",
+    "key": "vjk",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "立",
+        "key": "jk"
+      }
+    ],
+    "endRoot": "立"
+  },
+  {
+    "name": "设",
+    "comp": "讠 殳",
+    "key": "sfn",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "殳",
+        "key": "fn"
+      }
+    ],
+    "endRoot": "殳"
+  },
+  {
+    "name": "每",
+    "comp": " 母",
+    "key": "nsh",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "n"
+      },
+      {
+        "zigen": "母",
+        "key": "sh"
+      }
+    ],
+    "endRoot": "母"
+  },
+  {
+    "name": "类",
+    "comp": "米 大",
+    "key": "znf",
+    "rootKeys": [
+      {
+        "zigen": "米",
+        "key": "z"
+      },
+      {
+        "zigen": "大",
+        "key": "nf"
+      }
+    ],
+    "endRoot": "大"
+  },
+  {
+    "name": "格",
+    "comp": "木 各",
+    "key": "yxc",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "各",
+        "key": "xc"
+      }
+    ],
+    "endRoot": "各"
+  },
+  {
+    "name": "令",
+    "comp": "今 丶",
+    "key": "gms",
+    "rootKeys": [
+      {
+        "zigen": "今",
+        "key": "g"
+      },
+      {
+        "zigen": "丶",
+        "key": "ms"
+      }
+    ],
+    "endRoot": "丶"
+  },
+  {
+    "name": "切",
+    "comp": "七 刀",
+    "key": "sjz",
+    "rootKeys": [
+      {
+        "zigen": "七",
+        "key": "s"
+      },
+      {
+        "zigen": "刀",
+        "key": "jz"
+      }
+    ],
+    "endRoot": "刀"
+  },
+  {
+    "name": "布",
+    "comp": " 巾",
+    "key": "esu",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "巾",
+        "key": "su"
+      }
+    ],
+    "endRoot": "巾"
+  },
+  {
+    "name": "导",
+    "comp": "巳 寸",
+    "key": "eof",
+    "rootKeys": [
+      {
+        "zigen": "巳",
+        "key": "e"
+      },
+      {
+        "zigen": "寸",
+        "key": "of"
+      }
+    ],
+    "endRoot": "寸"
+  },
+  {
+    "name": "证",
+    "comp": "讠 正",
+    "key": "snt",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "正",
+        "key": "nt"
+      }
+    ],
+    "endRoot": "正"
+  },
+  {
+    "name": "存",
+    "comp": " 子",
+    "key": "alg",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "a"
+      },
+      {
+        "zigen": "子",
+        "key": "lg"
+      }
+    ],
+    "endRoot": "子"
+  },
+  {
+    "name": "击",
+    "comp": "𰀁 凵",
+    "key": "vmd",
+    "rootKeys": [
+      {
+        "zigen": "𰀁",
+        "key": "v"
+      },
+      {
+        "zigen": "凵",
+        "key": "md"
+      }
+    ],
+    "endRoot": "凵"
+  },
+  {
+    "name": "青",
+    "comp": "龶 ",
+    "key": "bhz",
+    "rootKeys": [
+      {
+        "zigen": "龶",
+        "key": "b"
+      },
+      {
+        "zigen": "",
+        "key": "hz"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "红",
+    "comp": "纟 工",
+    "key": "liv",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "工",
+        "key": "iv"
+      }
+    ],
+    "endRoot": "工"
+  },
+  {
+    "name": "容",
+    "comp": "宀 谷",
+    "key": "dla",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "谷",
+        "key": "la"
+      }
+    ],
+    "endRoot": "谷"
+  },
+  {
+    "name": "显",
+    "comp": "日 业",
+    "key": "wej",
+    "rootKeys": [
+      {
+        "zigen": "日",
+        "key": "w"
+      },
+      {
+        "zigen": "业",
+        "key": "ej"
+      }
+    ],
+    "endRoot": "业"
+  },
+  {
+    "name": "众",
+    "comp": " 从",
+    "key": "glc",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "g"
+      },
+      {
+        "zigen": "从",
+        "key": "lc"
+      }
+    ],
+    "endRoot": "从"
+  },
+  {
+    "name": "写",
+    "comp": "冖 与",
+    "key": "owe",
+    "rootKeys": [
+      {
+        "zigen": "冖",
+        "key": "o"
+      },
+      {
+        "zigen": "与",
+        "key": "we"
+      }
+    ],
+    "endRoot": "与"
+  },
+  {
+    "name": "级",
+    "comp": "纟 及",
+    "key": "lvk",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "及",
+        "key": "vk"
+      }
+    ],
+    "endRoot": "及"
+  },
+  {
+    "name": "技",
+    "comp": "扌 支",
+    "key": "voi",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "支",
+        "key": "oi"
+      }
+    ],
+    "endRoot": "支"
+  },
+  {
+    "name": "站",
+    "comp": "立 占",
+    "key": "jjx",
+    "rootKeys": [
+      {
+        "zigen": "立",
+        "key": "j"
+      },
+      {
+        "zigen": "占",
+        "key": "jx"
+      }
+    ],
+    "endRoot": "占"
+  },
+  {
+    "name": "究",
+    "comp": "穴 九",
+    "key": "ktq",
+    "rootKeys": [
+      {
+        "zigen": "穴",
+        "key": "k"
+      },
+      {
+        "zigen": "九",
+        "key": "tq"
+      }
+    ],
+    "endRoot": "九"
+  },
+  {
+    "name": "况",
+    "comp": "冫 兄",
+    "key": "wsg",
+    "rootKeys": [
+      {
+        "zigen": "冫",
+        "key": "w"
+      },
+      {
+        "zigen": "兄",
+        "key": "sg"
+      }
+    ],
+    "endRoot": "兄"
+  },
+  {
+    "name": "惊",
+    "comp": "忄 京",
+    "key": "gnl",
+    "rootKeys": [
+      {
+        "zigen": "忄",
+        "key": "g"
+      },
+      {
+        "zigen": "京",
+        "key": "nl"
+      }
+    ],
+    "endRoot": "京"
+  },
+  {
+    "name": "须",
+    "comp": "彡 页",
+    "key": "cmg",
+    "rootKeys": [
+      {
+        "zigen": "彡",
+        "key": "c"
+      },
+      {
+        "zigen": "页",
+        "key": "mg"
+      }
+    ],
+    "endRoot": "页"
+  },
+  {
+    "name": "息",
+    "comp": "自 心",
+    "key": "cvi",
+    "rootKeys": [
+      {
+        "zigen": "自",
+        "key": "c"
+      },
+      {
+        "zigen": "心",
+        "key": "vi"
+      }
+    ],
+    "endRoot": "心"
+  },
+  {
+    "name": "研",
+    "comp": "石 开",
+    "key": "rcm",
+    "rootKeys": [
+      {
+        "zigen": "石",
+        "key": "r"
+      },
+      {
+        "zigen": "开",
+        "key": "cm"
+      }
+    ],
+    "endRoot": "开"
+  },
+  {
+    "name": "际",
+    "comp": "阝 示",
+    "key": "eth",
+    "rootKeys": [
+      {
+        "zigen": "阝",
+        "key": "e"
+      },
+      {
+        "zigen": "示",
+        "key": "th"
+      }
+    ],
+    "endRoot": "示"
+  },
+  {
+    "name": "企",
+    "comp": " 止",
+    "key": "ghl",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "g"
+      },
+      {
+        "zigen": "止",
+        "key": "hl"
+      }
+    ],
+    "endRoot": "止"
+  },
+  {
+    "name": "委",
+    "comp": "禾 女",
+    "key": "tou",
+    "rootKeys": [
+      {
+        "zigen": "禾",
+        "key": "t"
+      },
+      {
+        "zigen": "女",
+        "key": "ou"
+      }
+    ],
+    "endRoot": "女"
+  },
+  {
+    "name": "严",
+    "comp": "亚 丿",
+    "key": "slb",
+    "rootKeys": [
+      {
+        "zigen": "亚",
+        "key": "s"
+      },
+      {
+        "zigen": "丿",
+        "key": "lb"
+      }
+    ],
+    "endRoot": "丿"
+  },
+  {
+    "name": "医",
+    "comp": "匚 矢",
+    "key": "xlv",
+    "rootKeys": [
+      {
+        "zigen": "匚",
+        "key": "x"
+      },
+      {
+        "zigen": "矢",
+        "key": "lv"
+      }
+    ],
+    "endRoot": "矢"
+  },
+  {
+    "name": "拿",
+    "comp": "合 手",
+    "key": "ncj",
+    "rootKeys": [
+      {
+        "zigen": "合",
+        "key": "n"
+      },
+      {
+        "zigen": "手",
+        "key": "cj"
+      }
+    ],
+    "endRoot": "手"
+  },
+  {
+    "name": "孩",
+    "comp": "子 亥",
+    "key": "lvp",
+    "rootKeys": [
+      {
+        "zigen": "子",
+        "key": "l"
+      },
+      {
+        "zigen": "亥",
+        "key": "vp"
+      }
+    ],
+    "endRoot": "亥"
+  },
+  {
+    "name": "依",
+    "comp": "亻 衣",
+    "key": "ihi",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "衣",
+        "key": "hi"
+      }
+    ],
+    "endRoot": "衣"
+  },
+  {
+    "name": "仍",
+    "comp": "亻 乃",
+    "key": "isn",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "乃",
+        "key": "sn"
+      }
+    ],
+    "endRoot": "乃"
+  },
+  {
+    "name": "护",
+    "comp": "扌 户",
+    "key": "vud",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "户",
+        "key": "ud"
+      }
+    ],
+    "endRoot": "户"
+  },
+  {
+    "name": "节",
+    "comp": "艹 ",
+    "key": "qjf",
+    "rootKeys": [
+      {
+        "zigen": "艹",
+        "key": "q"
+      },
+      {
+        "zigen": "",
+        "key": "jf"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "举",
+    "comp": "兴 ",
+    "key": "jvl",
+    "rootKeys": [
+      {
+        "zigen": "兴",
+        "key": "j"
+      },
+      {
+        "zigen": "",
+        "key": "vl"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "冲",
+    "comp": "冫 中",
+    "key": "wog",
+    "rootKeys": [
+      {
+        "zigen": "冫",
+        "key": "w"
+      },
+      {
+        "zigen": "中",
+        "key": "og"
+      }
+    ],
+    "endRoot": "中"
+  },
+  {
+    "name": "够",
+    "comp": "句 多",
+    "key": "nds",
+    "rootKeys": [
+      {
+        "zigen": "句",
+        "key": "n"
+      },
+      {
+        "zigen": "多",
+        "key": "ds"
+      }
+    ],
+    "endRoot": "多"
+  },
+  {
+    "name": "苦",
+    "comp": "艹 古",
+    "key": "qob",
+    "rootKeys": [
+      {
+        "zigen": "艹",
+        "key": "q"
+      },
+      {
+        "zigen": "古",
+        "key": "ob"
+      }
+    ],
+    "endRoot": "古"
+  },
+  {
+    "name": "律",
+    "comp": "彳 聿",
+    "key": "tja",
+    "rootKeys": [
+      {
+        "zigen": "彳",
+        "key": "t"
+      },
+      {
+        "zigen": "聿",
+        "key": "ja"
+      }
+    ],
+    "endRoot": "聿"
+  },
+  {
+    "name": "围",
+    "comp": "囗 韦",
+    "key": "xfy",
+    "rootKeys": [
+      {
+        "zigen": "囗",
+        "key": "x"
+      },
+      {
+        "zigen": "韦",
+        "key": "fy"
+      }
+    ],
+    "endRoot": "韦"
+  },
+  {
+    "name": "独",
+    "comp": "犭 虫",
+    "key": "rhk",
+    "rootKeys": [
+      {
+        "zigen": "犭",
+        "key": "r"
+      },
+      {
+        "zigen": "虫",
+        "key": "hk"
+      }
+    ],
+    "endRoot": "虫"
+  },
+  {
+    "name": "细",
+    "comp": "纟 田",
+    "key": "lty",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "田",
+        "key": "ty"
+      }
+    ],
+    "endRoot": "田"
+  },
+  {
+    "name": "怕",
+    "comp": "忄 白",
+    "key": "gdh",
+    "rootKeys": [
+      {
+        "zigen": "忄",
+        "key": "g"
+      },
+      {
+        "zigen": "白",
+        "key": "dh"
+      }
+    ],
+    "endRoot": "白"
+  },
+  {
+    "name": "热",
+    "comp": "执 灬",
+    "key": "oxl",
+    "rootKeys": [
+      {
+        "zigen": "执",
+        "key": "o"
+      },
+      {
+        "zigen": "灬",
+        "key": "xl"
+      }
+    ],
+    "endRoot": "灬"
+  },
+  {
+    "name": "既",
+    "comp": " 旡",
+    "key": "irh",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "i"
+      },
+      {
+        "zigen": "旡",
+        "key": "rh"
+      }
+    ],
+    "endRoot": "旡"
+  },
+  {
+    "name": "察",
+    "comp": "宀 祭",
+    "key": "dme",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "祭",
+        "key": "me"
+      }
+    ],
+    "endRoot": "祭"
+  },
+  {
+    "name": "批",
+    "comp": "扌 比",
+    "key": "vlq",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "比",
+        "key": "lq"
+      }
+    ],
+    "endRoot": "比"
+  },
+  {
+    "name": "脑",
+    "comp": "月 㐫",
+    "key": "jmz",
+    "rootKeys": [
+      {
+        "zigen": "月",
+        "key": "j"
+      },
+      {
+        "zigen": "㐫",
+        "key": "mz"
+      }
+    ],
+    "endRoot": "㐫"
+  },
+  {
+    "name": "假",
+    "comp": "亻 叚",
+    "key": "itj",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "叚",
+        "key": "tj"
+      }
+    ],
+    "endRoot": "叚"
+  },
+  {
+    "name": "乐",
+    "comp": " 小",
+    "key": "xig",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "x"
+      },
+      {
+        "zigen": "小",
+        "key": "ig"
+      }
+    ],
+    "endRoot": "小"
+  },
+  {
+    "name": "暗",
+    "comp": "日 音",
+    "key": "whr",
+    "rootKeys": [
+      {
+        "zigen": "日",
+        "key": "w"
+      },
+      {
+        "zigen": "音",
+        "key": "hr"
+      }
+    ],
+    "endRoot": "音"
+  },
+  {
+    "name": "状",
+    "comp": "丬 犬",
+    "key": "hro",
+    "rootKeys": [
+      {
+        "zigen": "丬",
+        "key": "h"
+      },
+      {
+        "zigen": "犬",
+        "key": "ro"
+      }
+    ],
+    "endRoot": "犬"
+  },
+  {
+    "name": "网",
+    "comp": "冂 ",
+    "key": "oiq",
+    "rootKeys": [
+      {
+        "zigen": "冂",
+        "key": "o"
+      },
+      {
+        "zigen": "",
+        "key": "iq"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "值",
+    "comp": "亻 直",
+    "key": "iyd",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "直",
+        "key": "yd"
+      }
+    ],
+    "endRoot": "直"
+  },
+  {
+    "name": "承",
+    "comp": "氶 三",
+    "key": "cps",
+    "rootKeys": [
+      {
+        "zigen": "氶",
+        "key": "c"
+      },
+      {
+        "zigen": "三",
+        "key": "ps"
+      }
+    ],
+    "endRoot": "三"
+  },
+  {
+    "name": "职",
+    "comp": "耳 只",
+    "key": "ulr",
+    "rootKeys": [
+      {
+        "zigen": "耳",
+        "key": "u"
+      },
+      {
+        "zigen": "只",
+        "key": "lr"
+      }
+    ],
+    "endRoot": "只"
+  },
+  {
+    "name": "卫",
+    "comp": " 一",
+    "key": "jfk",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "j"
+      },
+      {
+        "zigen": "一",
+        "key": "fk"
+      }
+    ],
+    "endRoot": "一"
+  },
+  {
+    "name": "阳",
+    "comp": "阝 日",
+    "key": "ewr",
+    "rootKeys": [
+      {
+        "zigen": "阝",
+        "key": "e"
+      },
+      {
+        "zigen": "日",
+        "key": "wr"
+      }
+    ],
+    "endRoot": "日"
+  },
+  {
+    "name": "哈",
+    "comp": "口 合",
+    "key": "pnv",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "合",
+        "key": "nv"
+      }
+    ],
+    "endRoot": "合"
+  },
+  {
+    "name": "球",
+    "comp": "王 求",
+    "key": "kvu",
+    "rootKeys": [
+      {
+        "zigen": "王",
+        "key": "k"
+      },
+      {
+        "zigen": "求",
+        "key": "vu"
+      }
+    ],
+    "endRoot": "求"
+  },
+  {
+    "name": "兰",
+    "comp": "䒑 二",
+    "key": "rht",
+    "rootKeys": [
+      {
+        "zigen": "䒑",
+        "key": "r"
+      },
+      {
+        "zigen": "二",
+        "key": "ht"
+      }
+    ],
+    "endRoot": "二"
+  },
+  {
+    "name": "阵",
+    "comp": "阝 车",
+    "key": "eep",
+    "rootKeys": [
+      {
+        "zigen": "阝",
+        "key": "e"
+      },
+      {
+        "zigen": "车",
+        "key": "ep"
+      }
+    ],
+    "endRoot": "车"
+  },
+  {
+    "name": "激",
+    "comp": "氵 敫",
+    "key": "mre",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "敫",
+        "key": "re"
+      }
+    ],
+    "endRoot": "敫"
+  },
+  {
+    "name": "银",
+    "comp": "钅 艮",
+    "key": "aix",
+    "rootKeys": [
+      {
+        "zigen": "钅",
+        "key": "a"
+      },
+      {
+        "zigen": "艮",
+        "key": "ix"
+      }
+    ],
+    "endRoot": "艮"
+  },
+  {
+    "name": "省",
+    "comp": "少 目",
+    "key": "vfm",
+    "rootKeys": [
+      {
+        "zigen": "少",
+        "key": "v"
+      },
+      {
+        "zigen": "目",
+        "key": "fm"
+      }
+    ],
+    "endRoot": "目"
+  },
+  {
+    "name": "排",
+    "comp": "扌 非",
+    "key": "vyx",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "非",
+        "key": "yx"
+      }
+    ],
+    "endRoot": "非"
+  },
+  {
+    "name": "酒",
+    "comp": "氵 酉",
+    "key": "mfd",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "酉",
+        "key": "fd"
+      }
+    ],
+    "endRoot": "酉"
+  },
+  {
+    "name": "穿",
+    "comp": "穴 牙",
+    "key": "kxh",
+    "rootKeys": [
+      {
+        "zigen": "穴",
+        "key": "k"
+      },
+      {
+        "zigen": "牙",
+        "key": "xh"
+      }
+    ],
+    "endRoot": "牙"
+  },
+  {
+    "name": "怀",
+    "comp": "忄 不",
+    "key": "gke",
+    "rootKeys": [
+      {
+        "zigen": "忄",
+        "key": "g"
+      },
+      {
+        "zigen": "不",
+        "key": "ke"
+      }
+    ],
+    "endRoot": "不"
+  },
+  {
+    "name": "欢",
+    "comp": "又 欠",
+    "key": "zkc",
+    "rootKeys": [
+      {
+        "zigen": "又",
+        "key": "z"
+      },
+      {
+        "zigen": "欠",
+        "key": "kc"
+      }
+    ],
+    "endRoot": "欠"
+  },
+  {
+    "name": "财",
+    "comp": "贝 才",
+    "key": "qru",
+    "rootKeys": [
+      {
+        "zigen": "贝",
+        "key": "q"
+      },
+      {
+        "zigen": "才",
+        "key": "ru"
+      }
+    ],
+    "endRoot": "才"
+  },
+  {
+    "name": "益",
+    "comp": " 皿",
+    "key": "byz",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "b"
+      },
+      {
+        "zigen": "皿",
+        "key": "yz"
+      }
+    ],
+    "endRoot": "皿"
+  },
+  {
+    "name": "宝",
+    "comp": "宀 玉",
+    "key": "djg",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "玉",
+        "key": "jg"
+      }
+    ],
+    "endRoot": "玉"
+  },
+  {
+    "name": "赶",
+    "comp": "走 干",
+    "key": "uyc",
+    "rootKeys": [
+      {
+        "zigen": "走",
+        "key": "u"
+      },
+      {
+        "zigen": "干",
+        "key": "yc"
+      }
+    ],
+    "endRoot": "干"
+  },
+  {
+    "name": "层",
+    "comp": "尸 云",
+    "key": "zyv",
+    "rootKeys": [
+      {
+        "zigen": "尸",
+        "key": "z"
+      },
+      {
+        "zigen": "云",
+        "key": "yv"
+      }
+    ],
+    "endRoot": "云"
+  },
+  {
+    "name": "源",
+    "comp": "氵 原",
+    "key": "mde",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "原",
+        "key": "de"
+      }
+    ],
+    "endRoot": "原"
+  },
+  {
+    "name": "纳",
+    "comp": "纟 内",
+    "key": "lkq",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "内",
+        "key": "kq"
+      }
+    ],
+    "endRoot": "内"
+  },
+  {
+    "name": "岁",
+    "comp": "山 夕",
+    "key": "bqy",
+    "rootKeys": [
+      {
+        "zigen": "山",
+        "key": "b"
+      },
+      {
+        "zigen": "夕",
+        "key": "qy"
+      }
+    ],
+    "endRoot": "夕"
+  },
+  {
+    "name": "忙",
+    "comp": "忄 亡",
+    "key": "glm",
+    "rootKeys": [
+      {
+        "zigen": "忄",
+        "key": "g"
+      },
+      {
+        "zigen": "亡",
+        "key": "lm"
+      }
+    ],
+    "endRoot": "亡"
+  },
+  {
+    "name": "喝",
+    "comp": "口 曷",
+    "key": "pbl",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "曷",
+        "key": "bl"
+      }
+    ],
+    "endRoot": "曷"
+  },
+  {
+    "name": "佛",
+    "comp": "亻 弗",
+    "key": "icz",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "弗",
+        "key": "cz"
+      }
+    ],
+    "endRoot": "弗"
+  },
+  {
+    "name": "室",
+    "comp": "宀 至",
+    "key": "drn",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "至",
+        "key": "rn"
+      }
+    ],
+    "endRoot": "至"
+  },
+  {
+    "name": "妈",
+    "comp": "女 马",
+    "key": "owm",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "马",
+        "key": "wm"
+      }
+    ],
+    "endRoot": "马"
+  },
+  {
+    "name": "姐",
+    "comp": "女 且",
+    "key": "oaw",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "且",
+        "key": "aw"
+      }
+    ],
+    "endRoot": "且"
+  },
+  {
+    "name": "养",
+    "comp": " ",
+    "key": "krj",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "k"
+      },
+      {
+        "zigen": "",
+        "key": "rj"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "份",
+    "comp": "亻 分",
+    "key": "idj",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "分",
+        "key": "dj"
+      }
+    ],
+    "endRoot": "分"
+  },
+  {
+    "name": "赵",
+    "comp": "走 乂",
+    "key": "uqi",
+    "rootKeys": [
+      {
+        "zigen": "走",
+        "key": "u"
+      },
+      {
+        "zigen": "乂",
+        "key": "qi"
+      }
+    ],
+    "endRoot": "乂"
+  },
+  {
+    "name": "换",
+    "comp": "扌 奂",
+    "key": "vye",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "奂",
+        "key": "ye"
+      }
+    ],
+    "endRoot": "奂"
+  },
+  {
+    "name": "伊",
+    "comp": "亻 尹",
+    "key": "iwn",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "尹",
+        "key": "wn"
+      }
+    ],
+    "endRoot": "尹"
+  },
+  {
+    "name": "犯",
+    "comp": "犭 㔾",
+    "key": "rjf",
+    "rootKeys": [
+      {
+        "zigen": "犭",
+        "key": "r"
+      },
+      {
+        "zigen": "㔾",
+        "key": "jf"
+      }
+    ],
+    "endRoot": "㔾"
+  },
+  {
+    "name": "审",
+    "comp": "宀 申",
+    "key": "dkn",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "申",
+        "key": "kn"
+      }
+    ],
+    "endRoot": "申"
+  },
+  {
+    "name": "沙",
+    "comp": "氵 少",
+    "key": "mvm",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "少",
+        "key": "vm"
+      }
+    ],
+    "endRoot": "少"
+  },
+  {
+    "name": "宫",
+    "comp": "宀 吕",
+    "key": "dyo",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "吕",
+        "key": "yo"
+      }
+    ],
+    "endRoot": "吕"
+  },
+  {
+    "name": "魔",
+    "comp": "麻 鬼",
+    "key": "ajd",
+    "rootKeys": [
+      {
+        "zigen": "麻",
+        "key": "a"
+      },
+      {
+        "zigen": "鬼",
+        "key": "jd"
+      }
+    ],
+    "endRoot": "鬼"
+  },
+  {
+    "name": "永",
+    "comp": "丶 ",
+    "key": "mbk",
+    "rootKeys": [
+      {
+        "zigen": "丶",
+        "key": "m"
+      },
+      {
+        "zigen": "",
+        "key": "bk"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "毫",
+    "comp": " 毛",
+    "key": "cgo",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "c"
+      },
+      {
+        "zigen": "毛",
+        "key": "go"
+      }
+    ],
+    "endRoot": "毛"
+  },
+  {
+    "name": "宋",
+    "comp": "宀 木",
+    "key": "dyq",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "木",
+        "key": "yq"
+      }
+    ],
+    "endRoot": "木"
+  },
+  {
+    "name": "贵",
+    "comp": " 贝",
+    "key": "hqh",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "h"
+      },
+      {
+        "zigen": "贝",
+        "key": "qh"
+      }
+    ],
+    "endRoot": "贝"
+  },
+  {
+    "name": "楼",
+    "comp": "木 娄",
+    "key": "yzp",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "娄",
+        "key": "zp"
+      }
+    ],
+    "endRoot": "娄"
+  },
+  {
+    "name": "亮",
+    "comp": " 几",
+    "key": "ckx",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "c"
+      },
+      {
+        "zigen": "几",
+        "key": "kx"
+      }
+    ],
+    "endRoot": "几"
+  },
+  {
+    "name": "互",
+    "comp": "一 彑",
+    "key": "fzj",
+    "rootKeys": [
+      {
+        "zigen": "一",
+        "key": "f"
+      },
+      {
+        "zigen": "彑",
+        "key": "zj"
+      }
+    ],
+    "endRoot": "彑"
+  },
+  {
+    "name": "升",
+    "comp": "丿 廾",
+    "key": "lql",
+    "rootKeys": [
+      {
+        "zigen": "丿",
+        "key": "l"
+      },
+      {
+        "zigen": "廾",
+        "key": "ql"
+      }
+    ],
+    "endRoot": "廾"
+  },
+  {
+    "name": "抓",
+    "comp": "扌 爪",
+    "key": "vch",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "爪",
+        "key": "ch"
+      }
+    ],
+    "endRoot": "爪"
+  },
+  {
+    "name": "短",
+    "comp": "矢 豆",
+    "key": "lxn",
+    "rootKeys": [
+      {
+        "zigen": "矢",
+        "key": "l"
+      },
+      {
+        "zigen": "豆",
+        "key": "xn"
+      }
+    ],
+    "endRoot": "豆"
+  },
+  {
+    "name": "洋",
+    "comp": "氵 羊",
+    "key": "mas",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "羊",
+        "key": "as"
+      }
+    ],
+    "endRoot": "羊"
+  },
+  {
+    "name": "炮",
+    "comp": "火 包",
+    "key": "xov",
+    "rootKeys": [
+      {
+        "zigen": "火",
+        "key": "x"
+      },
+      {
+        "zigen": "包",
+        "key": "ov"
+      }
+    ],
+    "endRoot": "包"
+  },
+  {
+    "name": "诸",
+    "comp": "讠 者",
+    "key": "svn",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "者",
+        "key": "vn"
+      }
+    ],
+    "endRoot": "者"
+  },
+  {
+    "name": "松",
+    "comp": "木 公",
+    "key": "ywh",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "公",
+        "key": "wh"
+      }
+    ],
+    "endRoot": "公"
+  },
+  {
+    "name": "幸",
+    "comp": "土 ",
+    "key": "cas",
+    "rootKeys": [
+      {
+        "zigen": "土",
+        "key": "c"
+      },
+      {
+        "zigen": "",
+        "key": "as"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "评",
+    "comp": "讠 平",
+    "key": "sih",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "平",
+        "key": "ih"
+      }
+    ],
+    "endRoot": "平"
+  },
+  {
+    "name": "朱",
+    "comp": "丿 未",
+    "key": "let",
+    "rootKeys": [
+      {
+        "zigen": "丿",
+        "key": "l"
+      },
+      {
+        "zigen": "未",
+        "key": "et"
+      }
+    ],
+    "endRoot": "未"
+  },
+  {
+    "name": "县",
+    "comp": "且 厶",
+    "key": "afi",
+    "rootKeys": [
+      {
+        "zigen": "且",
+        "key": "a"
+      },
+      {
+        "zigen": "厶",
+        "key": "fi"
+      }
+    ],
+    "endRoot": "厶"
+  },
+  {
+    "name": "杂",
+    "comp": "九 朩",
+    "key": "tyq",
+    "rootKeys": [
+      {
+        "zigen": "九",
+        "key": "t"
+      },
+      {
+        "zigen": "朩",
+        "key": "yq"
+      }
+    ],
+    "endRoot": "朩"
+  },
+  {
+    "name": "雪",
+    "comp": " 彐",
+    "key": "eqj",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "彐",
+        "key": "qj"
+      }
+    ],
+    "endRoot": "彐"
+  },
+  {
+    "name": "仙",
+    "comp": "亻 山",
+    "key": "ibn",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "山",
+        "key": "bn"
+      }
+    ],
+    "endRoot": "山"
+  },
+  {
+    "name": "咱",
+    "comp": "口 自",
+    "key": "pcv",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "自",
+        "key": "cv"
+      }
+    ],
+    "endRoot": "自"
+  },
+  {
+    "name": "损",
+    "comp": "扌 员",
+    "key": "vem",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "员",
+        "key": "em"
+      }
+    ],
+    "endRoot": "员"
+  },
+  {
+    "name": "震",
+    "comp": " 辰",
+    "key": "epj",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "辰",
+        "key": "pj"
+      }
+    ],
+    "endRoot": "辰"
+  },
+  {
+    "name": "吴",
+    "comp": "口 天",
+    "key": "pak",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "天",
+        "key": "ak"
+      }
+    ],
+    "endRoot": "天"
+  },
+  {
+    "name": "秦",
+    "comp": " 禾",
+    "key": "utu",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "u"
+      },
+      {
+        "zigen": "禾",
+        "key": "tu"
+      }
+    ],
+    "endRoot": "禾"
+  },
+  {
+    "name": "序",
+    "comp": "广 予",
+    "key": "fan",
+    "rootKeys": [
+      {
+        "zigen": "广",
+        "key": "f"
+      },
+      {
+        "zigen": "予",
+        "key": "an"
+      }
+    ],
+    "endRoot": "予"
+  },
+  {
+    "name": "括",
+    "comp": "扌 舌",
+    "key": "vji",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "舌",
+        "key": "ji"
+      }
+    ],
+    "endRoot": "舌"
+  },
+  {
+    "name": "旅",
+    "comp": " ",
+    "key": "ehi",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "",
+        "key": "hi"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "销",
+    "comp": "钅 肖",
+    "key": "aug",
+    "rootKeys": [
+      {
+        "zigen": "钅",
+        "key": "a"
+      },
+      {
+        "zigen": "肖",
+        "key": "ug"
+      }
+    ],
+    "endRoot": "肖"
+  },
+  {
+    "name": "录",
+    "comp": " 氺",
+    "key": "qbk",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "q"
+      },
+      {
+        "zigen": "氺",
+        "key": "bk"
+      }
+    ],
+    "endRoot": "氺"
+  },
+  {
+    "name": "玩",
+    "comp": "王 元",
+    "key": "krl",
+    "rootKeys": [
+      {
+        "zigen": "王",
+        "key": "k"
+      },
+      {
+        "zigen": "元",
+        "key": "rl"
+      }
+    ],
+    "endRoot": "元"
+  },
+  {
+    "name": "炸",
+    "comp": "火 乍",
+    "key": "xuo",
+    "rootKeys": [
+      {
+        "zigen": "火",
+        "key": "x"
+      },
+      {
+        "zigen": "乍",
+        "key": "uo"
+      }
+    ],
+    "endRoot": "乍"
+  },
+  {
+    "name": "俄",
+    "comp": "亻 我",
+    "key": "iwj",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "我",
+        "key": "wj"
+      }
+    ],
+    "endRoot": "我"
+  },
+  {
+    "name": "寒",
+    "comp": " ",
+    "key": "ecd",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "",
+        "key": "cd"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "训",
+    "comp": "讠 川",
+    "key": "spv",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "川",
+        "key": "pv"
+      }
+    ],
+    "endRoot": "川"
+  },
+  {
+    "name": "拥",
+    "comp": "扌 用",
+    "key": "vuf",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "用",
+        "key": "uf"
+      }
+    ],
+    "endRoot": "用"
+  },
+  {
+    "name": "载",
+    "comp": " ",
+    "key": "rep",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "r"
+      },
+      {
+        "zigen": "",
+        "key": "ep"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "徒",
+    "comp": "彳 走",
+    "key": "tus",
+    "rootKeys": [
+      {
+        "zigen": "彳",
+        "key": "t"
+      },
+      {
+        "zigen": "走",
+        "key": "us"
+      }
+    ],
+    "endRoot": "走"
+  },
+  {
+    "name": "伦",
+    "comp": "亻 仑",
+    "key": "irm",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "仑",
+        "key": "rm"
+      }
+    ],
+    "endRoot": "仑"
+  },
+  {
+    "name": "姓",
+    "comp": "女 生",
+    "key": "onc",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "生",
+        "key": "nc"
+      }
+    ],
+    "endRoot": "生"
+  },
+  {
+    "name": "郑",
+    "comp": "关 阝",
+    "key": "mer",
+    "rootKeys": [
+      {
+        "zigen": "关",
+        "key": "m"
+      },
+      {
+        "zigen": "阝",
+        "key": "er"
+      }
+    ],
+    "endRoot": "阝"
+  },
+  {
+    "name": "窗",
+    "comp": "穴 囱",
+    "key": "kzh",
+    "rootKeys": [
+      {
+        "zigen": "穴",
+        "key": "k"
+      },
+      {
+        "zigen": "囱",
+        "key": "zh"
+      }
+    ],
+    "endRoot": "囱"
+  },
+  {
+    "name": "森",
+    "comp": "木 林",
+    "key": "ygl",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "林",
+        "key": "gl"
+      }
+    ],
+    "endRoot": "林"
+  },
+  {
+    "name": "伙",
+    "comp": "亻 火",
+    "key": "ixl",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "火",
+        "key": "xl"
+      }
+    ],
+    "endRoot": "火"
+  },
+  {
+    "name": "残",
+    "comp": "歹 戋",
+    "key": "nti",
+    "rootKeys": [
+      {
+        "zigen": "歹",
+        "key": "n"
+      },
+      {
+        "zigen": "戋",
+        "key": "ti"
+      }
+    ],
+    "endRoot": "戋"
+  },
+  {
+    "name": "戏",
+    "comp": "又 戈",
+    "key": "zgw",
+    "rootKeys": [
+      {
+        "zigen": "又",
+        "key": "z"
+      },
+      {
+        "zigen": "戈",
+        "key": "gw"
+      }
+    ],
+    "endRoot": "戈"
+  },
+  {
+    "name": "套",
+    "comp": "大 镸",
+    "key": "nis",
+    "rootKeys": [
+      {
+        "zigen": "大",
+        "key": "n"
+      },
+      {
+        "zigen": "镸",
+        "key": "is"
+      }
+    ],
+    "endRoot": "镸"
+  },
+  {
+    "name": "厉",
+    "comp": "厂 万",
+    "key": "lai",
+    "rootKeys": [
+      {
+        "zigen": "厂",
+        "key": "l"
+      },
+      {
+        "zigen": "万",
+        "key": "ai"
+      }
+    ],
+    "endRoot": "万"
+  },
+  {
+    "name": "扩",
+    "comp": "扌 广",
+    "key": "vfi",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "广",
+        "key": "fi"
+      }
+    ],
+    "endRoot": "广"
+  },
+  {
+    "name": "街",
+    "comp": "行 圭",
+    "key": "eka",
+    "rootKeys": [
+      {
+        "zigen": "行",
+        "key": "e"
+      },
+      {
+        "zigen": "圭",
+        "key": "ka"
+      }
+    ],
+    "endRoot": "圭"
+  },
+  {
+    "name": "搞",
+    "comp": "扌 高",
+    "key": "vci",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "高",
+        "key": "ci"
+      }
+    ],
+    "endRoot": "高"
+  },
+  {
+    "name": "罢",
+    "comp": "罒 去",
+    "key": "dgk",
+    "rootKeys": [
+      {
+        "zigen": "罒",
+        "key": "d"
+      },
+      {
+        "zigen": "去",
+        "key": "gk"
+      }
+    ],
+    "endRoot": "去"
+  },
+  {
+    "name": "访",
+    "comp": "讠 方",
+    "key": "slj",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "方",
+        "key": "lj"
+      }
+    ],
+    "endRoot": "方"
+  },
+  {
+    "name": "础",
+    "comp": "石 出",
+    "key": "rjw",
+    "rootKeys": [
+      {
+        "zigen": "石",
+        "key": "r"
+      },
+      {
+        "zigen": "出",
+        "key": "jw"
+      }
+    ],
+    "endRoot": "出"
+  },
+  {
+    "name": "拜",
+    "comp": "龵 ",
+    "key": "ccj",
+    "rootKeys": [
+      {
+        "zigen": "龵",
+        "key": "c"
+      },
+      {
+        "zigen": "",
+        "key": "cj"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "抽",
+    "comp": "扌 由",
+    "key": "vkv",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "由",
+        "key": "kv"
+      }
+    ],
+    "endRoot": "由"
+  },
+  {
+    "name": "柳",
+    "comp": "木 卯",
+    "key": "ytp",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "卯",
+        "key": "tp"
+      }
+    ],
+    "endRoot": "卯"
+  },
+  {
+    "name": "距",
+    "comp": " 巨",
+    "key": "hoc",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "h"
+      },
+      {
+        "zigen": "巨",
+        "key": "oc"
+      }
+    ],
+    "endRoot": "巨"
+  },
+  {
+    "name": "轰",
+    "comp": "车 双",
+    "key": "ezg",
+    "rootKeys": [
+      {
+        "zigen": "车",
+        "key": "e"
+      },
+      {
+        "zigen": "双",
+        "key": "zg"
+      }
+    ],
+    "endRoot": "双"
+  },
+  {
+    "name": "狗",
+    "comp": "犭 句",
+    "key": "rnw",
+    "rootKeys": [
+      {
+        "zigen": "犭",
+        "key": "r"
+      },
+      {
+        "zigen": "句",
+        "key": "nw"
+      }
+    ],
+    "endRoot": "句"
+  },
+  {
+    "name": "促",
+    "comp": "亻 足",
+    "key": "ihb",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "足",
+        "key": "hb"
+      }
+    ],
+    "endRoot": "足"
+  },
+  {
+    "name": "乘",
+    "comp": " 北",
+    "key": "tow",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "t"
+      },
+      {
+        "zigen": "北",
+        "key": "ow"
+      }
+    ],
+    "endRoot": "北"
+  },
+  {
+    "name": "侠",
+    "comp": "亻 夹",
+    "key": "ioz",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "夹",
+        "key": "oz"
+      }
+    ],
+    "endRoot": "夹"
+  },
+  {
+    "name": "孤",
+    "comp": "子 瓜",
+    "key": "lvw",
+    "rootKeys": [
+      {
+        "zigen": "子",
+        "key": "l"
+      },
+      {
+        "zigen": "瓜",
+        "key": "vw"
+      }
+    ],
+    "endRoot": "瓜"
+  },
+  {
+    "name": "培",
+    "comp": "土 咅",
+    "key": "cia",
+    "rootKeys": [
+      {
+        "zigen": "土",
+        "key": "c"
+      },
+      {
+        "zigen": "咅",
+        "key": "ia"
+      }
+    ],
+    "endRoot": "咅"
+  },
+  {
+    "name": "洗",
+    "comp": "氵 先",
+    "key": "mae",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "先",
+        "key": "ae"
+      }
+    ],
+    "endRoot": "先"
+  },
+  {
+    "name": "汇",
+    "comp": "氵 匚",
+    "key": "mxm",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "匚",
+        "key": "xm"
+      }
+    ],
+    "endRoot": "匚"
+  },
+  {
+    "name": "洪",
+    "comp": "氵 共",
+    "key": "mli",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "共",
+        "key": "li"
+      }
+    ],
+    "endRoot": "共"
+  },
+  {
+    "name": "玄",
+    "comp": "亠 幺",
+    "key": "wcp",
+    "rootKeys": [
+      {
+        "zigen": "亠",
+        "key": "w"
+      },
+      {
+        "zigen": "幺",
+        "key": "cp"
+      }
+    ],
+    "endRoot": "幺"
+  },
+  {
+    "name": "巧",
+    "comp": "工 丂",
+    "key": "ibi",
+    "rootKeys": [
+      {
+        "zigen": "工",
+        "key": "i"
+      },
+      {
+        "zigen": "丂",
+        "key": "bi"
+      }
+    ],
+    "endRoot": "丂"
+  },
+  {
+    "name": "摸",
+    "comp": "扌 莫",
+    "key": "vqk",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "莫",
+        "key": "qk"
+      }
+    ],
+    "endRoot": "莫"
+  },
+  {
+    "name": "孔",
+    "comp": "子 ⺃",
+    "key": "lhu",
+    "rootKeys": [
+      {
+        "zigen": "子",
+        "key": "l"
+      },
+      {
+        "zigen": "⺃",
+        "key": "hu"
+      }
+    ],
+    "endRoot": "⺃"
+  },
+  {
+    "name": "汽",
+    "comp": "氵 气",
+    "key": "mdm",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "气",
+        "key": "dm"
+      }
+    ],
+    "endRoot": "气"
+  },
+  {
+    "name": "吓",
+    "comp": "口 下",
+    "key": "ptk",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "下",
+        "key": "tk"
+      }
+    ],
+    "endRoot": "下"
+  },
+  {
+    "name": "妖",
+    "comp": "女 夭",
+    "key": "ofo",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "夭",
+        "key": "fo"
+      }
+    ],
+    "endRoot": "夭"
+  },
+  {
+    "name": "课",
+    "comp": "讠 果",
+    "key": "smv",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "果",
+        "key": "mv"
+      }
+    ],
+    "endRoot": "果"
+  },
+  {
+    "name": "莱",
+    "comp": "艹 来",
+    "key": "qhe",
+    "rootKeys": [
+      {
+        "zigen": "艹",
+        "key": "q"
+      },
+      {
+        "zigen": "来",
+        "key": "he"
+      }
+    ],
+    "endRoot": "来"
+  },
+  {
+    "name": "隔",
+    "comp": "阝 鬲",
+    "key": "egn",
+    "rootKeys": [
+      {
+        "zigen": "阝",
+        "key": "e"
+      },
+      {
+        "zigen": "鬲",
+        "key": "gn"
+      }
+    ],
+    "endRoot": "鬲"
+  },
+  {
+    "name": "荒",
+    "comp": "芒 ",
+    "key": "zpv",
+    "rootKeys": [
+      {
+        "zigen": "芒",
+        "key": "z"
+      },
+      {
+        "zigen": "",
+        "key": "pv"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "舍",
+    "comp": " ",
+    "key": "gji",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "g"
+      },
+      {
+        "zigen": "",
+        "key": "ji"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "旗",
+    "comp": " 其",
+    "key": "ekt",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "其",
+        "key": "kt"
+      }
+    ],
+    "endRoot": "其"
+  },
+  {
+    "name": "牌",
+    "comp": "片 卑",
+    "key": "hrk",
+    "rootKeys": [
+      {
+        "zigen": "片",
+        "key": "h"
+      },
+      {
+        "zigen": "卑",
+        "key": "rk"
+      }
+    ],
+    "endRoot": "卑"
+  },
+  {
+    "name": "废",
+    "comp": "广 发",
+    "key": "fsd",
+    "rootKeys": [
+      {
+        "zigen": "广",
+        "key": "f"
+      },
+      {
+        "zigen": "发",
+        "key": "sd"
+      }
+    ],
+    "endRoot": "发"
+  },
+  {
+    "name": "旋",
+    "comp": " 疋",
+    "key": "eif",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "疋",
+        "key": "if"
+      }
+    ],
+    "endRoot": "疋"
+  },
+  {
+    "name": "幻",
+    "comp": "幺 乛",
+    "key": "cbm",
+    "rootKeys": [
+      {
+        "zigen": "幺",
+        "key": "c"
+      },
+      {
+        "zigen": "乛",
+        "key": "bm"
+      }
+    ],
+    "endRoot": "乛"
+  },
+  {
+    "name": "伴",
+    "comp": "亻 半",
+    "key": "ivq",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "半",
+        "key": "vq"
+      }
+    ],
+    "endRoot": "半"
+  },
+  {
+    "name": "捕",
+    "comp": "扌 甫",
+    "key": "vah",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "甫",
+        "key": "ah"
+      }
+    ],
+    "endRoot": "甫"
+  },
+  {
+    "name": "辆",
+    "comp": " 两",
+    "key": "ejc",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "两",
+        "key": "jc"
+      }
+    ],
+    "endRoot": "两"
+  },
+  {
+    "name": "壮",
+    "comp": "丬 士",
+    "key": "hnx",
+    "rootKeys": [
+      {
+        "zigen": "丬",
+        "key": "h"
+      },
+      {
+        "zigen": "士",
+        "key": "nx"
+      }
+    ],
+    "endRoot": "士"
+  },
+  {
+    "name": "豪",
+    "comp": " 豕",
+    "key": "cby",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "c"
+      },
+      {
+        "zigen": "豕",
+        "key": "by"
+      }
+    ],
+    "endRoot": "豕"
+  },
+  {
+    "name": "鸡",
+    "comp": "又 鸟",
+    "key": "zuc",
+    "rootKeys": [
+      {
+        "zigen": "又",
+        "key": "z"
+      },
+      {
+        "zigen": "鸟",
+        "key": "uc"
+      }
+    ],
+    "endRoot": "鸟"
+  },
+  {
+    "name": "疯",
+    "comp": "疒 风",
+    "key": "wqm",
+    "rootKeys": [
+      {
+        "zigen": "疒",
+        "key": "w"
+      },
+      {
+        "zigen": "风",
+        "key": "qm"
+      }
+    ],
+    "endRoot": "风"
+  },
+  {
+    "name": "丧",
+    "comp": " ",
+    "key": "lhi",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "l"
+      },
+      {
+        "zigen": "",
+        "key": "hi"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "咬",
+    "comp": "口 交",
+    "key": "pwa",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "交",
+        "key": "wa"
+      }
+    ],
+    "endRoot": "交"
+  },
+  {
+    "name": "撞",
+    "comp": "扌 童",
+    "key": "vvs",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "童",
+        "key": "vs"
+      }
+    ],
+    "endRoot": "童"
+  },
+  {
+    "name": "伍",
+    "comp": "亻 五",
+    "key": "iis",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "五",
+        "key": "is"
+      }
+    ],
+    "endRoot": "五"
+  },
+  {
+    "name": "衡",
+    "comp": "行 ",
+    "key": "ekf",
+    "rootKeys": [
+      {
+        "zigen": "行",
+        "key": "e"
+      },
+      {
+        "zigen": "",
+        "key": "kf"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "帐",
+    "comp": "巾 长",
+    "key": "szx",
+    "rootKeys": [
+      {
+        "zigen": "巾",
+        "key": "s"
+      },
+      {
+        "zigen": "长",
+        "key": "zx"
+      }
+    ],
+    "endRoot": "长"
+  },
+  {
+    "name": "赤",
+    "comp": "土 ",
+    "key": "cxl",
+    "rootKeys": [
+      {
+        "zigen": "土",
+        "key": "c"
+      },
+      {
+        "zigen": "",
+        "key": "xl"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "扶",
+    "comp": "扌 夫",
+    "key": "vxm",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "夫",
+        "key": "xm"
+      }
+    ],
+    "endRoot": "夫"
+  },
+  {
+    "name": "滑",
+    "comp": "氵 骨",
+    "key": "muv",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "骨",
+        "key": "uv"
+      }
+    ],
+    "endRoot": "骨"
+  },
+  {
+    "name": "彭",
+    "comp": "壴 彡",
+    "key": "mcd",
+    "rootKeys": [
+      {
+        "zigen": "壴",
+        "key": "m"
+      },
+      {
+        "zigen": "彡",
+        "key": "cd"
+      }
+    ],
+    "endRoot": "彡"
+  },
+  {
+    "name": "污",
+    "comp": "氵 亏",
+    "key": "mgi",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "亏",
+        "key": "gi"
+      }
+    ],
+    "endRoot": "亏"
+  },
+  {
+    "name": "辞",
+    "comp": "舌 辛",
+    "key": "jvc",
+    "rootKeys": [
+      {
+        "zigen": "舌",
+        "key": "j"
+      },
+      {
+        "zigen": "辛",
+        "key": "vc"
+      }
+    ],
+    "endRoot": "辛"
+  },
+  {
+    "name": "嘛",
+    "comp": "口 麻",
+    "key": "pav",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "麻",
+        "key": "av"
+      }
+    ],
+    "endRoot": "麻"
+  },
+  {
+    "name": "躺",
+    "comp": "身 尚",
+    "key": "fsa",
+    "rootKeys": [
+      {
+        "zigen": "身",
+        "key": "f"
+      },
+      {
+        "zigen": "尚",
+        "key": "sa"
+      }
+    ],
+    "endRoot": "尚"
+  },
+  {
+    "name": "箱",
+    "comp": " 相",
+    "key": "kxu",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "k"
+      },
+      {
+        "zigen": "相",
+        "key": "xu"
+      }
+    ],
+    "endRoot": "相"
+  },
+  {
+    "name": "驱",
+    "comp": "马 区",
+    "key": "wha",
+    "rootKeys": [
+      {
+        "zigen": "马",
+        "key": "w"
+      },
+      {
+        "zigen": "区",
+        "key": "ha"
+      }
+    ],
+    "endRoot": "区"
+  },
+  {
+    "name": "埋",
+    "comp": "土 里",
+    "key": "cgh",
+    "rootKeys": [
+      {
+        "zigen": "土",
+        "key": "c"
+      },
+      {
+        "zigen": "里",
+        "key": "gh"
+      }
+    ],
+    "endRoot": "里"
+  },
+  {
+    "name": "涌",
+    "comp": "氵 甬",
+    "key": "mxd",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "甬",
+        "key": "xd"
+      }
+    ],
+    "endRoot": "甬"
+  },
+  {
+    "name": "乏",
+    "comp": "丿 之",
+    "key": "lnd",
+    "rootKeys": [
+      {
+        "zigen": "丿",
+        "key": "l"
+      },
+      {
+        "zigen": "之",
+        "key": "nd"
+      }
+    ],
+    "endRoot": "之"
+  },
+  {
+    "name": "皱",
+    "comp": "刍 皮",
+    "key": "jzs",
+    "rootKeys": [
+      {
+        "zigen": "刍",
+        "key": "j"
+      },
+      {
+        "zigen": "皮",
+        "key": "zs"
+      }
+    ],
+    "endRoot": "皮"
+  },
+  {
+    "name": "恭",
+    "comp": "共 ",
+    "key": "lgi",
+    "rootKeys": [
+      {
+        "zigen": "共",
+        "key": "l"
+      },
+      {
+        "zigen": "",
+        "key": "gi"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "趋",
+    "comp": "走 刍",
+    "key": "ujv",
+    "rootKeys": [
+      {
+        "zigen": "走",
+        "key": "u"
+      },
+      {
+        "zigen": "刍",
+        "key": "jv"
+      }
+    ],
+    "endRoot": "刍"
+  },
+  {
+    "name": "磨",
+    "comp": "麻 石",
+    "key": "ara",
+    "rootKeys": [
+      {
+        "zigen": "麻",
+        "key": "a"
+      },
+      {
+        "zigen": "石",
+        "key": "ra"
+      }
+    ],
+    "endRoot": "石"
+  },
+  {
+    "name": "卢",
+    "comp": " 尸",
+    "key": "pzk",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "p"
+      },
+      {
+        "zigen": "尸",
+        "key": "zk"
+      }
+    ],
+    "endRoot": "尸"
+  },
+  {
+    "name": "宾",
+    "comp": "宀 兵",
+    "key": "dco",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "兵",
+        "key": "co"
+      }
+    ],
+    "endRoot": "兵"
+  },
+  {
+    "name": "弯",
+    "comp": " 弓",
+    "key": "vdz",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "v"
+      },
+      {
+        "zigen": "弓",
+        "key": "dz"
+      }
+    ],
+    "endRoot": "弓"
+  },
+  {
+    "name": "抚",
+    "comp": "扌 无",
+    "key": "vri",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "无",
+        "key": "ri"
+      }
+    ],
+    "endRoot": "无"
+  },
+  {
+    "name": "挤",
+    "comp": "扌 齐",
+    "key": "vey",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "齐",
+        "key": "ey"
+      }
+    ],
+    "endRoot": "齐"
+  },
+  {
+    "name": "牢",
+    "comp": "宀 牛",
+    "key": "drs",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "牛",
+        "key": "rs"
+      }
+    ],
+    "endRoot": "牛"
+  },
+  {
+    "name": "敲",
+    "comp": "高 攴",
+    "key": "cvj",
+    "rootKeys": [
+      {
+        "zigen": "高",
+        "key": "c"
+      },
+      {
+        "zigen": "攴",
+        "key": "vj"
+      }
+    ],
+    "endRoot": "攴"
+  },
+  {
+    "name": "庞",
+    "comp": "广 龙",
+    "key": "ftl",
+    "rootKeys": [
+      {
+        "zigen": "广",
+        "key": "f"
+      },
+      {
+        "zigen": "龙",
+        "key": "tl"
+      }
+    ],
+    "endRoot": "龙"
+  },
+  {
+    "name": "抖",
+    "comp": "扌 斗",
+    "key": "vad",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "斗",
+        "key": "ad"
+      }
+    ],
+    "endRoot": "斗"
+  },
+  {
+    "name": "泉",
+    "comp": "白 水",
+    "key": "dbk",
+    "rootKeys": [
+      {
+        "zigen": "白",
+        "key": "d"
+      },
+      {
+        "zigen": "水",
+        "key": "bk"
+      }
+    ],
+    "endRoot": "水"
+  },
+  {
+    "name": "晃",
+    "comp": "日 光",
+    "key": "wyf",
+    "rootKeys": [
+      {
+        "zigen": "日",
+        "key": "w"
+      },
+      {
+        "zigen": "光",
+        "key": "yf"
+      }
+    ],
+    "endRoot": "光"
+  },
+  {
+    "name": "池",
+    "comp": "氵 也",
+    "key": "mxi",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "也",
+        "key": "xi"
+      }
+    ],
+    "endRoot": "也"
+  },
+  {
+    "name": "纠",
+    "comp": "纟 丩",
+    "key": "lmd",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "丩",
+        "key": "md"
+      }
+    ],
+    "endRoot": "丩"
+  },
+  {
+    "name": "鉴",
+    "comp": " 金",
+    "key": "ulu",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "u"
+      },
+      {
+        "zigen": "金",
+        "key": "lu"
+      }
+    ],
+    "endRoot": "金"
+  },
+  {
+    "name": "衰",
+    "comp": " ",
+    "key": "hql",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "h"
+      },
+      {
+        "zigen": "",
+        "key": "ql"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "卓",
+    "comp": " 早",
+    "key": "pqf",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "p"
+      },
+      {
+        "zigen": "早",
+        "key": "qf"
+      }
+    ],
+    "endRoot": "早"
+  },
+  {
+    "name": "誉",
+    "comp": "兴 言",
+    "key": "jok",
+    "rootKeys": [
+      {
+        "zigen": "兴",
+        "key": "j"
+      },
+      {
+        "zigen": "言",
+        "key": "ok"
+      }
+    ],
+    "endRoot": "言"
+  },
+  {
+    "name": "祸",
+    "comp": "礻 呙",
+    "key": "nva",
+    "rootKeys": [
+      {
+        "zigen": "礻",
+        "key": "n"
+      },
+      {
+        "zigen": "呙",
+        "key": "va"
+      }
+    ],
+    "endRoot": "呙"
+  },
+  {
+    "name": "押",
+    "comp": "扌 甲",
+    "key": "vda",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "甲",
+        "key": "da"
+      }
+    ],
+    "endRoot": "甲"
+  },
+  {
+    "name": "渔",
+    "comp": "氵 鱼",
+    "key": "mbi",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "鱼",
+        "key": "bi"
+      }
+    ],
+    "endRoot": "鱼"
+  },
+  {
+    "name": "丑",
+    "comp": "乛 ",
+    "key": "bck",
+    "rootKeys": [
+      {
+        "zigen": "乛",
+        "key": "b"
+      },
+      {
+        "zigen": "",
+        "key": "ck"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "傲",
+    "comp": "亻 敖",
+    "key": "izv",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "敖",
+        "key": "zv"
+      }
+    ],
+    "endRoot": "敖"
+  },
+  {
+    "name": "吨",
+    "comp": "口 屯",
+    "key": "pbt",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "屯",
+        "key": "bt"
+      }
+    ],
+    "endRoot": "屯"
+  },
+  {
+    "name": "牺",
+    "comp": "牜 西",
+    "key": "rxg",
+    "rootKeys": [
+      {
+        "zigen": "牜",
+        "key": "r"
+      },
+      {
+        "zigen": "西",
+        "key": "xg"
+      }
+    ],
+    "endRoot": "西"
+  },
+  {
+    "name": "扁",
+    "comp": "户 ",
+    "key": "ute",
+    "rootKeys": [
+      {
+        "zigen": "户",
+        "key": "u"
+      },
+      {
+        "zigen": "",
+        "key": "te"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "纹",
+    "comp": "纟 文",
+    "key": "lhf",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "文",
+        "key": "hf"
+      }
+    ],
+    "endRoot": "文"
+  },
+  {
+    "name": "糖",
+    "comp": "米 唐",
+    "key": "zmf",
+    "rootKeys": [
+      {
+        "zigen": "米",
+        "key": "z"
+      },
+      {
+        "zigen": "唐",
+        "key": "mf"
+      }
+    ],
+    "endRoot": "唐"
+  },
+  {
+    "name": "疏",
+    "comp": " 㐬",
+    "key": "ipw",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "i"
+      },
+      {
+        "zigen": "㐬",
+        "key": "pw"
+      }
+    ],
+    "endRoot": "㐬"
+  },
+  {
+    "name": "串",
+    "comp": "吕 丨",
+    "key": "ygp",
+    "rootKeys": [
+      {
+        "zigen": "吕",
+        "key": "y"
+      },
+      {
+        "zigen": "丨",
+        "key": "gp"
+      }
+    ],
+    "endRoot": "丨"
+  },
+  {
+    "name": "扇",
+    "comp": "户 羽",
+    "key": "uqu",
+    "rootKeys": [
+      {
+        "zigen": "户",
+        "key": "u"
+      },
+      {
+        "zigen": "羽",
+        "key": "qu"
+      }
+    ],
+    "endRoot": "羽"
+  },
+  {
+    "name": "歼",
+    "comp": "歹 千",
+    "key": "njy",
+    "rootKeys": [
+      {
+        "zigen": "歹",
+        "key": "n"
+      },
+      {
+        "zigen": "千",
+        "key": "jy"
+      }
+    ],
+    "endRoot": "千"
+  },
+  {
+    "name": "嘿",
+    "comp": "口 黑",
+    "key": "pgp",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "黑",
+        "key": "gp"
+      }
+    ],
+    "endRoot": "黑"
+  },
+  {
+    "name": "姊",
+    "comp": "女 ",
+    "key": "ocz",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "",
+        "key": "cz"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "隶",
+    "comp": " ",
+    "key": "jwj",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "j"
+      },
+      {
+        "zigen": "",
+        "key": "wj"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "耕",
+    "comp": "耒 井",
+    "key": "ocy",
+    "rootKeys": [
+      {
+        "zigen": "耒",
+        "key": "o"
+      },
+      {
+        "zigen": "井",
+        "key": "cy"
+      }
+    ],
+    "endRoot": "井"
+  },
+  {
+    "name": "绳",
+    "comp": "纟 黾",
+    "key": "lwi",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "黾",
+        "key": "wi"
+      }
+    ],
+    "endRoot": "黾"
+  },
+  {
+    "name": "甜",
+    "comp": "舌 甘",
+    "key": "jyp",
+    "rootKeys": [
+      {
+        "zigen": "舌",
+        "key": "j"
+      },
+      {
+        "zigen": "甘",
+        "key": "yp"
+      }
+    ],
+    "endRoot": "甘"
+  },
+  {
+    "name": "吟",
+    "comp": "口 今",
+    "key": "pgd",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "今",
+        "key": "gd"
+      }
+    ],
+    "endRoot": "今"
+  },
+  {
+    "name": "抹",
+    "comp": "扌 末",
+    "key": "vmk",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "末",
+        "key": "mk"
+      }
+    ],
+    "endRoot": "末"
+  },
+  {
+    "name": "朕",
+    "comp": "月 关",
+    "key": "jmw",
+    "rootKeys": [
+      {
+        "zigen": "月",
+        "key": "j"
+      },
+      {
+        "zigen": "关",
+        "key": "mw"
+      }
+    ],
+    "endRoot": "关"
+  },
+  {
+    "name": "拐",
+    "comp": "扌 另",
+    "key": "vwv",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "另",
+        "key": "wv"
+      }
+    ],
+    "endRoot": "另"
+  },
+  {
+    "name": "姬",
+    "comp": "女 ",
+    "key": "oqn",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "",
+        "key": "qn"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "耸",
+    "comp": "从 耳",
+    "key": "lua",
+    "rootKeys": [
+      {
+        "zigen": "从",
+        "key": "l"
+      },
+      {
+        "zigen": "耳",
+        "key": "ua"
+      }
+    ],
+    "endRoot": "耳"
+  },
+  {
+    "name": "眠",
+    "comp": "目 民",
+    "key": "fic",
+    "rootKeys": [
+      {
+        "zigen": "目",
+        "key": "f"
+      },
+      {
+        "zigen": "民",
+        "key": "ic"
+      }
+    ],
+    "endRoot": "民"
+  },
+  {
+    "name": "驳",
+    "comp": "马 爻",
+    "key": "wiq",
+    "rootKeys": [
+      {
+        "zigen": "马",
+        "key": "w"
+      },
+      {
+        "zigen": "爻",
+        "key": "iq"
+      }
+    ],
+    "endRoot": "爻"
+  },
+  {
+    "name": "陌",
+    "comp": "阝 百",
+    "key": "epi",
+    "rootKeys": [
+      {
+        "zigen": "阝",
+        "key": "e"
+      },
+      {
+        "zigen": "百",
+        "key": "pi"
+      }
+    ],
+    "endRoot": "百"
+  },
+  {
+    "name": "鼎",
+    "comp": "目 ",
+    "key": "fhw",
+    "rootKeys": [
+      {
+        "zigen": "目",
+        "key": "f"
+      },
+      {
+        "zigen": "",
+        "key": "hw"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "吏",
+    "comp": " 𘱌",
+    "key": "aqi",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "a"
+      },
+      {
+        "zigen": "𘱌",
+        "key": "qi"
+      }
+    ],
+    "endRoot": "𘱌"
+  },
+  {
+    "name": "冤",
+    "comp": "冖 兔",
+    "key": "oeg",
+    "rootKeys": [
+      {
+        "zigen": "冖",
+        "key": "o"
+      },
+      {
+        "zigen": "兔",
+        "key": "eg"
+      }
+    ],
+    "endRoot": "兔"
+  },
+  {
+    "name": "笨",
+    "comp": " 本",
+    "key": "ktm",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "k"
+      },
+      {
+        "zigen": "本",
+        "key": "tm"
+      }
+    ],
+    "endRoot": "本"
+  },
+  {
+    "name": "茅",
+    "comp": "艹 矛",
+    "key": "qhc",
+    "rootKeys": [
+      {
+        "zigen": "艹",
+        "key": "q"
+      },
+      {
+        "zigen": "矛",
+        "key": "hc"
+      }
+    ],
+    "endRoot": "矛"
+  },
+  {
+    "name": "哑",
+    "comp": "口 亚",
+    "key": "psz",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "亚",
+        "key": "sz"
+      }
+    ],
+    "endRoot": "亚"
+  },
+  {
+    "name": "亨",
+    "comp": " 了",
+    "key": "cld",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "c"
+      },
+      {
+        "zigen": "了",
+        "key": "ld"
+      }
+    ],
+    "endRoot": "了"
+  },
+  {
+    "name": "龟",
+    "comp": " ",
+    "key": "nzf",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "n"
+      },
+      {
+        "zigen": "",
+        "key": "zf"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "茂",
+    "comp": "艹 戊",
+    "key": "qqb",
+    "rootKeys": [
+      {
+        "zigen": "艹",
+        "key": "q"
+      },
+      {
+        "zigen": "戊",
+        "key": "qb"
+      }
+    ],
+    "endRoot": "戊"
+  },
+  {
+    "name": "匈",
+    "comp": "勹 凶",
+    "key": "kmz",
+    "rootKeys": [
+      {
+        "zigen": "勹",
+        "key": "k"
+      },
+      {
+        "zigen": "凶",
+        "key": "mz"
+      }
+    ],
+    "endRoot": "凶"
+  },
+  {
+    "name": "裙",
+    "comp": "衤 君",
+    "key": "npd",
+    "rootKeys": [
+      {
+        "zigen": "衤",
+        "key": "n"
+      },
+      {
+        "zigen": "君",
+        "key": "pd"
+      }
+    ],
+    "endRoot": "君"
+  },
+  {
+    "name": "巷",
+    "comp": "共 巳",
+    "key": "lew",
+    "rootKeys": [
+      {
+        "zigen": "共",
+        "key": "l"
+      },
+      {
+        "zigen": "巳",
+        "key": "ew"
+      }
+    ],
+    "endRoot": "巳"
+  },
+  {
+    "name": "咸",
+    "comp": "戊 ",
+    "key": "qak",
+    "rootKeys": [
+      {
+        "zigen": "戊",
+        "key": "q"
+      },
+      {
+        "zigen": "",
+        "key": "ak"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "衔",
+    "comp": "行 钅",
+    "key": "eal",
+    "rootKeys": [
+      {
+        "zigen": "行",
+        "key": "e"
+      },
+      {
+        "zigen": "钅",
+        "key": "al"
+      }
+    ],
+    "endRoot": "钅"
+  },
+  {
+    "name": "辣",
+    "comp": " 束",
+    "key": "vgu",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "v"
+      },
+      {
+        "zigen": "束",
+        "key": "gu"
+      }
+    ],
+    "endRoot": "束"
+  },
+  {
+    "name": "窑",
+    "comp": "穴 缶",
+    "key": "kuq",
+    "rootKeys": [
+      {
+        "zigen": "穴",
+        "key": "k"
+      },
+      {
+        "zigen": "缶",
+        "key": "uq"
+      }
+    ],
+    "endRoot": "缶"
+  },
+  {
+    "name": "巩",
+    "comp": "工 凡",
+    "key": "iid",
+    "rootKeys": [
+      {
+        "zigen": "工",
+        "key": "i"
+      },
+      {
+        "zigen": "凡",
+        "key": "id"
+      }
+    ],
+    "endRoot": "凡"
+  },
+  {
+    "name": "斋",
+    "comp": "文 而",
+    "key": "hui",
+    "rootKeys": [
+      {
+        "zigen": "文",
+        "key": "h"
+      },
+      {
+        "zigen": "而",
+        "key": "ui"
+      }
+    ],
+    "endRoot": "而"
+  },
+  {
+    "name": "呜",
+    "comp": "口 乌",
+    "key": "paj",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "乌",
+        "key": "aj"
+      }
+    ],
+    "endRoot": "乌"
+  },
+  {
+    "name": "衍",
+    "comp": "行 氵",
+    "key": "eme",
+    "rootKeys": [
+      {
+        "zigen": "行",
+        "key": "e"
+      },
+      {
+        "zigen": "氵",
+        "key": "me"
+      }
+    ],
+    "endRoot": "氵"
+  },
+  {
+    "name": "珊",
+    "comp": "王 册",
+    "key": "kte",
+    "rootKeys": [
+      {
+        "zigen": "王",
+        "key": "k"
+      },
+      {
+        "zigen": "册",
+        "key": "te"
+      }
+    ],
+    "endRoot": "册"
+  },
+  {
+    "name": "堤",
+    "comp": "土 是",
+    "key": "cje",
+    "rootKeys": [
+      {
+        "zigen": "土",
+        "key": "c"
+      },
+      {
+        "zigen": "是",
+        "key": "je"
+      }
+    ],
+    "endRoot": "是"
+  },
+  {
+    "name": "匙",
+    "comp": "是 匕",
+    "key": "jys",
+    "rootKeys": [
+      {
+        "zigen": "是",
+        "key": "j"
+      },
+      {
+        "zigen": "匕",
+        "key": "ys"
+      }
+    ],
+    "endRoot": "匕"
+  },
+  {
+    "name": "缅",
+    "comp": "纟 面",
+    "key": "lsf",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "面",
+        "key": "sf"
+      }
+    ],
+    "endRoot": "面"
+  },
+  {
+    "name": "叱",
+    "comp": "口 ",
+    "key": "pys",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "",
+        "key": "ys"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "姥",
+    "comp": "女 老",
+    "key": "opf",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "老",
+        "key": "pf"
+      }
+    ],
+    "endRoot": "老"
+  },
+  {
+    "name": "虐",
+    "comp": "虍 ",
+    "key": "pxz",
+    "rootKeys": [
+      {
+        "zigen": "虍",
+        "key": "p"
+      },
+      {
+        "zigen": "",
+        "key": "xz"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "锤",
+    "comp": "钅 垂",
+    "key": "ary",
+    "rootKeys": [
+      {
+        "zigen": "钅",
+        "key": "a"
+      },
+      {
+        "zigen": "垂",
+        "key": "ry"
+      }
+    ],
+    "endRoot": "垂"
+  },
+  {
+    "name": "眯",
+    "comp": "目 米",
+    "key": "fzc",
+    "rootKeys": [
+      {
+        "zigen": "目",
+        "key": "f"
+      },
+      {
+        "zigen": "米",
+        "key": "zc"
+      }
+    ],
+    "endRoot": "米"
+  },
+  {
+    "name": "秉",
+    "comp": " ",
+    "key": "tqj",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "t"
+      },
+      {
+        "zigen": "",
+        "key": "qj"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "匀",
+    "comp": "勹 冫",
+    "key": "kwj",
+    "rootKeys": [
+      {
+        "zigen": "勹",
+        "key": "k"
+      },
+      {
+        "zigen": "冫",
+        "key": "wj"
+      }
+    ],
+    "endRoot": "冫"
+  },
+  {
+    "name": "僻",
+    "comp": "亻 辟",
+    "key": "iwu",
+    "rootKeys": [
+      {
+        "zigen": "亻",
+        "key": "i"
+      },
+      {
+        "zigen": "辟",
+        "key": "wu"
+      }
+    ],
+    "endRoot": "辟"
+  },
+  {
+    "name": "宦",
+    "comp": "宀 臣",
+    "key": "ddn",
+    "rootKeys": [
+      {
+        "zigen": "宀",
+        "key": "d"
+      },
+      {
+        "zigen": "臣",
+        "key": "dn"
+      }
+    ],
+    "endRoot": "臣"
+  },
+  {
+    "name": "戎",
+    "comp": "戈 ",
+    "key": "geo",
+    "rootKeys": [
+      {
+        "zigen": "戈",
+        "key": "g"
+      },
+      {
+        "zigen": "",
+        "key": "eo"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "铲",
+    "comp": "钅 产",
+    "key": "awd",
+    "rootKeys": [
+      {
+        "zigen": "钅",
+        "key": "a"
+      },
+      {
+        "zigen": "产",
+        "key": "wd"
+      }
+    ],
+    "endRoot": "产"
+  },
+  {
+    "name": "霎",
+    "comp": " 妾",
+    "key": "exp",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "e"
+      },
+      {
+        "zigen": "妾",
+        "key": "xp"
+      }
+    ],
+    "endRoot": "妾"
+  },
+  {
+    "name": "尧",
+    "comp": " 兀",
+    "key": "gse",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "g"
+      },
+      {
+        "zigen": "兀",
+        "key": "se"
+      }
+    ],
+    "endRoot": "兀"
+  },
+  {
+    "name": "绽",
+    "comp": "纟 定",
+    "key": "lot",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "定",
+        "key": "ot"
+      }
+    ],
+    "endRoot": "定"
+  },
+  {
+    "name": "靴",
+    "comp": "革 化",
+    "key": "ujr",
+    "rootKeys": [
+      {
+        "zigen": "革",
+        "key": "u"
+      },
+      {
+        "zigen": "化",
+        "key": "jr"
+      }
+    ],
+    "endRoot": "化"
+  },
+  {
+    "name": "柬",
+    "comp": "束 丷",
+    "key": "ghd",
+    "rootKeys": [
+      {
+        "zigen": "束",
+        "key": "g"
+      },
+      {
+        "zigen": "丷",
+        "key": "hd"
+      }
+    ],
+    "endRoot": "丷"
+  },
+  {
+    "name": "唬",
+    "comp": "口 虎",
+    "key": "ppt",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "虎",
+        "key": "pt"
+      }
+    ],
+    "endRoot": "虎"
+  },
+  {
+    "name": "锯",
+    "comp": "钅 居",
+    "key": "adl",
+    "rootKeys": [
+      {
+        "zigen": "钅",
+        "key": "a"
+      },
+      {
+        "zigen": "居",
+        "key": "dl"
+      }
+    ],
+    "endRoot": "居"
+  },
+  {
+    "name": "汰",
+    "comp": "氵 太",
+    "key": "mal",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "太",
+        "key": "al"
+      }
+    ],
+    "endRoot": "太"
+  },
+  {
+    "name": "皂",
+    "comp": "白 七",
+    "key": "dsj",
+    "rootKeys": [
+      {
+        "zigen": "白",
+        "key": "d"
+      },
+      {
+        "zigen": "七",
+        "key": "sj"
+      }
+    ],
+    "endRoot": "七"
+  },
+  {
+    "name": "禺",
+    "comp": "日 ",
+    "key": "wtk",
+    "rootKeys": [
+      {
+        "zigen": "日",
+        "key": "w"
+      },
+      {
+        "zigen": "",
+        "key": "tk"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "舜",
+    "comp": " 舛",
+    "key": "xoo",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "x"
+      },
+      {
+        "zigen": "舛",
+        "key": "oo"
+      }
+    ],
+    "endRoot": "舛"
+  },
+  {
+    "name": "恤",
+    "comp": "忄 血",
+    "key": "gcu",
+    "rootKeys": [
+      {
+        "zigen": "忄",
+        "key": "g"
+      },
+      {
+        "zigen": "血",
+        "key": "cu"
+      }
+    ],
+    "endRoot": "血"
+  },
+  {
+    "name": "奄",
+    "comp": "大 电",
+    "key": "nzf",
+    "rootKeys": [
+      {
+        "zigen": "大",
+        "key": "n"
+      },
+      {
+        "zigen": "电",
+        "key": "zf"
+      }
+    ],
+    "endRoot": "电"
+  },
+  {
+    "name": "亵",
+    "comp": " 执",
+    "key": "hor",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "h"
+      },
+      {
+        "zigen": "执",
+        "key": "or"
+      }
+    ],
+    "endRoot": "执"
+  },
+  {
+    "name": "坍",
+    "comp": "土 丹",
+    "key": "ckj",
+    "rootKeys": [
+      {
+        "zigen": "土",
+        "key": "c"
+      },
+      {
+        "zigen": "丹",
+        "key": "kj"
+      }
+    ],
+    "endRoot": "丹"
+  },
+  {
+    "name": "釜",
+    "comp": "父 ",
+    "key": "hlu",
+    "rootKeys": [
+      {
+        "zigen": "父",
+        "key": "h"
+      },
+      {
+        "zigen": "",
+        "key": "lu"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "麓",
+    "comp": "林 鹿",
+    "key": "gdo",
+    "rootKeys": [
+      {
+        "zigen": "林",
+        "key": "g"
+      },
+      {
+        "zigen": "鹿",
+        "key": "do"
+      }
+    ],
+    "endRoot": "鹿"
+  },
+  {
+    "name": "瓮",
+    "comp": "公 瓦",
+    "key": "wij",
+    "rootKeys": [
+      {
+        "zigen": "公",
+        "key": "w"
+      },
+      {
+        "zigen": "瓦",
+        "key": "ij"
+      }
+    ],
+    "endRoot": "瓦"
+  },
+  {
+    "name": "妊",
+    "comp": "女 壬",
+    "key": "ofu",
+    "rootKeys": [
+      {
+        "zigen": "女",
+        "key": "o"
+      },
+      {
+        "zigen": "壬",
+        "key": "fu"
+      }
+    ],
+    "endRoot": "壬"
+  },
+  {
+    "name": "扈",
+    "comp": "户 邑",
+    "key": "udv",
+    "rootKeys": [
+      {
+        "zigen": "户",
+        "key": "u"
+      },
+      {
+        "zigen": "邑",
+        "key": "dv"
+      }
+    ],
+    "endRoot": "邑"
+  },
+  {
+    "name": "憬",
+    "comp": "忄 景",
+    "key": "guk",
+    "rootKeys": [
+      {
+        "zigen": "忄",
+        "key": "g"
+      },
+      {
+        "zigen": "景",
+        "key": "uk"
+      }
+    ],
+    "endRoot": "景"
+  },
+  {
+    "name": "蚌",
+    "comp": "虫 丰",
+    "key": "hbp",
+    "rootKeys": [
+      {
+        "zigen": "虫",
+        "key": "h"
+      },
+      {
+        "zigen": "丰",
+        "key": "bp"
+      }
+    ],
+    "endRoot": "丰"
+  },
+  {
+    "name": "泗",
+    "comp": "氵 四",
+    "key": "mdd",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "四",
+        "key": "dd"
+      }
+    ],
+    "endRoot": "四"
+  },
+  {
+    "name": "夙",
+    "comp": " 歹",
+    "key": "knr",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "k"
+      },
+      {
+        "zigen": "歹",
+        "key": "nr"
+      }
+    ],
+    "endRoot": "歹"
+  },
+  {
+    "name": "疵",
+    "comp": "疒 此",
+    "key": "wvo",
+    "rootKeys": [
+      {
+        "zigen": "疒",
+        "key": "w"
+      },
+      {
+        "zigen": "此",
+        "key": "vo"
+      }
+    ],
+    "endRoot": "此"
+  },
+  {
+    "name": "舀",
+    "comp": "爫 臼",
+    "key": "cbq",
+    "rootKeys": [
+      {
+        "zigen": "爫",
+        "key": "c"
+      },
+      {
+        "zigen": "臼",
+        "key": "bq"
+      }
+    ],
+    "endRoot": "臼"
+  },
+  {
+    "name": "蛐",
+    "comp": "虫 曲",
+    "key": "hne",
+    "rootKeys": [
+      {
+        "zigen": "虫",
+        "key": "h"
+      },
+      {
+        "zigen": "曲",
+        "key": "ne"
+      }
+    ],
+    "endRoot": "曲"
+  },
+  {
+    "name": "舐",
+    "comp": "舌 氏",
+    "key": "jox",
+    "rootKeys": [
+      {
+        "zigen": "舌",
+        "key": "j"
+      },
+      {
+        "zigen": "氏",
+        "key": "ox"
+      }
+    ],
+    "endRoot": "氏"
+  },
+  {
+    "name": "啮",
+    "comp": "口 齿",
+    "key": "ptw",
+    "rootKeys": [
+      {
+        "zigen": "口",
+        "key": "p"
+      },
+      {
+        "zigen": "齿",
+        "key": "tw"
+      }
+    ],
+    "endRoot": "齿"
+  },
+  {
+    "name": "扪",
+    "comp": "扌 门",
+    "key": "vzi",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "门",
+        "key": "zi"
+      }
+    ],
+    "endRoot": "门"
+  },
+  {
+    "name": "纨",
+    "comp": "纟 丸",
+    "key": "loh",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "丸",
+        "key": "oh"
+      }
+    ],
+    "endRoot": "丸"
+  },
+  {
+    "name": "飧",
+    "comp": "夕 食",
+    "key": "qnn",
+    "rootKeys": [
+      {
+        "zigen": "夕",
+        "key": "q"
+      },
+      {
+        "zigen": "食",
+        "key": "nn"
+      }
+    ],
+    "endRoot": "食"
+  },
+  {
+    "name": "馗",
+    "comp": "九 首",
+    "key": "tfq",
+    "rootKeys": [
+      {
+        "zigen": "九",
+        "key": "t"
+      },
+      {
+        "zigen": "首",
+        "key": "fq"
+      }
+    ],
+    "endRoot": "首"
+  },
+  {
+    "name": "汩",
+    "comp": "氵 曰",
+    "key": "mql",
+    "rootKeys": [
+      {
+        "zigen": "氵",
+        "key": "m"
+      },
+      {
+        "zigen": "曰",
+        "key": "ql"
+      }
+    ],
+    "endRoot": "曰"
+  },
+  {
+    "name": "佥",
+    "comp": "亼 ",
+    "key": "ajp",
+    "rootKeys": [
+      {
+        "zigen": "亼",
+        "key": "a"
+      },
+      {
+        "zigen": "",
+        "key": "jp"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "钺",
+    "comp": "钅 戉",
+    "key": "aqb",
+    "rootKeys": [
+      {
+        "zigen": "钅",
+        "key": "a"
+      },
+      {
+        "zigen": "戉",
+        "key": "qb"
+      }
+    ],
+    "endRoot": "戉"
+  },
+  {
+    "name": "缂",
+    "comp": "纟 革",
+    "key": "lue",
+    "rootKeys": [
+      {
+        "zigen": "纟",
+        "key": "l"
+      },
+      {
+        "zigen": "革",
+        "key": "ue"
+      }
+    ],
+    "endRoot": "革"
+  },
+  {
+    "name": "芗",
+    "comp": "艹 乡",
+    "key": "qpc",
+    "rootKeys": [
+      {
+        "zigen": "艹",
+        "key": "q"
+      },
+      {
+        "zigen": "乡",
+        "key": "pc"
+      }
+    ],
+    "endRoot": "乡"
+  },
+  {
+    "name": "桁",
+    "comp": "木 行",
+    "key": "yef",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "行",
+        "key": "ef"
+      }
+    ],
+    "endRoot": "行"
+  },
+  {
+    "name": "诔",
+    "comp": "讠 耒",
+    "key": "soa",
+    "rootKeys": [
+      {
+        "zigen": "讠",
+        "key": "s"
+      },
+      {
+        "zigen": "耒",
+        "key": "oa"
+      }
+    ],
+    "endRoot": "耒"
+  },
+  {
+    "name": "擤",
+    "comp": "扌 鼻",
+    "key": "vbf",
+    "rootKeys": [
+      {
+        "zigen": "扌",
+        "key": "v"
+      },
+      {
+        "zigen": "鼻",
+        "key": "bf"
+      }
+    ],
+    "endRoot": "鼻"
+  },
+  {
+    "name": "東",
+    "comp": " ",
+    "key": "aig",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "a"
+      },
+      {
+        "zigen": "",
+        "key": "ig"
+      }
+    ],
+    "endRoot": ""
+  },
+  {
+    "name": "榇",
+    "comp": "木 亲",
+    "key": "ydk",
+    "rootKeys": [
+      {
+        "zigen": "木",
+        "key": "y"
+      },
+      {
+        "zigen": "亲",
+        "key": "dk"
+      }
+    ],
+    "endRoot": "亲"
+  },
+  {
+    "name": "亓",
+    "comp": "一 丌",
+    "key": "fse",
+    "rootKeys": [
+      {
+        "zigen": "一",
+        "key": "f"
+      },
+      {
+        "zigen": "丌",
+        "key": "se"
+      }
+    ],
+    "endRoot": "丌"
+  },
+  {
+    "name": "脔",
+    "comp": " 肉",
+    "key": "veu",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "v"
+      },
+      {
+        "zigen": "肉",
+        "key": "eu"
+      }
+    ],
+    "endRoot": "肉"
+  },
+  {
+    "name": "庹",
+    "comp": " 尺",
+    "key": "fqi",
+    "rootKeys": [
+      {
+        "zigen": "",
+        "key": "f"
+      },
+      {
+        "zigen": "尺",
+        "key": "qi"
+      }
+    ],
+    "endRoot": "尺"
+  }
+]
